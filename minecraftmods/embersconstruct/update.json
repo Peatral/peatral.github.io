@@ -1,0 +1,19 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/embersconstruct",
+	"1.12.2": {
+		"0.1": "Initial Project", 
+		"1.0": "Added Constructs' Armory support",
+		"1.1": "Update-Checker and refactoring",
+		"1.1.1": "Melting recipe bugfix!!!",
+		"1.1.2": "Recipe Fix",
+		"1.2.0": "Major changes and improvements",
+		"1.2.1": "Better language support and major bug fix",
+		"1.2.2": "More Fixes",
+		"1.2.3": "Possibility to remove recipes from the Tinkers Smeltery",
+		"1.2.4": "Recipe Fix, Dust Stamping, Proxy Overhaul"
+	},
+	"promos": {
+		"1.12.2-latest": "1.2.4",
+		"1.12.2-recommended": "1.2.4"
+	}
+}

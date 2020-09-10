@@ -1,0 +1,98 @@
+---
+layout: presentation
+title: GPIO
+description: Eine Einführung zu GPIO-Pins am RaspberryPi
+author: Christof
+date: 2020-03-11
+---
+<section data-background-transition="zoom", data-background="#asdasdasd">
+	<h1>GPIO-Pins</h1>
+	<h3>am RaspberryPi</h3>
+</section>
+
+<section>
+	<h3>Was sind GPIO-Pins</h3>
+	<ul>
+		<li class="fragment fade-in-then-semi-out">"General Purpose Input-Output"</li>
+		<li class="fragment fade-in-then-semi-out">Frei programmierbar</li>
+		<li class="fragment fade-in-then-semi-out">Man kann Dinge ansteuern</li>
+		<li class="fragment fade-in-then-semi-out">Man kann Dinge auslesen</li>
+		<li class="fragment fade-in-then-semi-out">BTW: Pins lesen nur digital aus (1 & 0) also nicht analog (Spannung x)</li>
+	</ul>
+</section>
+
+<section>
+	<h3>Pinout</h3>
+	<img src="{{ "/presentations/res/gpio/pinout.png" | prepend: site.url }}" height="550">
+</section>
+
+<section>
+	
+	<section data-auto-animate>
+		<h2>Was mache ich im Code???</h2>
+		<pre data-id="code-animation"><code data-trim data-noescape data-line-numbers class="python">
+			import RPi.GPIO as gpio
+		</code></pre>
+	</section>
+	<section data-auto-animate>
+		<h2>Was mache ich im Code???</h2>
+		<pre data-id="code-animation"><code data-trim data-noescape data-line-numbers class="python">
+			import RPi.GPIO as gpio
+			
+			GPIO.setmode(GPIO.BCM)
+		</code></pre>
+	</section>
+	<section data-auto-animate>
+		<h2>Was mache ich im Code???</h2>
+		<pre data-id="code-animation"><code data-trim data-noescape data-line-numbers class="python">
+			import RPi.GPIO as gpio
+			
+			GPIO.setmode(GPIO.BCM)
+			
+			GPIO.setup(1, GPIO.IN)
+			GPIO.setup(2, GPIO.OUT)
+		</code></pre>
+	</section>
+	<section data-auto-animate>
+		<h2>Was mache ich im Code???</h2>
+		<pre data-id="code-animation"><code data-trim data-noescape data-line-numbers class="python">
+			import RPi.GPIO as gpio
+			
+			GPIO.setmode(GPIO.BCM)
+			
+			GPIO.setup(1, GPIO.IN)
+			GPIO.setup(2, GPIO.OUT)
+			
+			in = GPIO.input(1)
+			GPIO.output(2, GPIO.HIGH)
+			GPIO.output(2, GPIO.LOW)
+		</code></pre>
+	</section>
+	<section data-auto-animate>
+		<h2>Was mache ich im Code???</h2>
+		<pre data-id="code-animation"><code data-trim data-noescape data-line-numbers class="python">
+			import RPi.GPIO as gpio
+			
+			GPIO.setmode(GPIO.BCM)
+			
+			GPIO.setup(1, GPIO.IN)
+			GPIO.setup(2, GPIO.OUT)
+			
+			in = GPIO.input(1)
+			GPIO.output(2, GPIO.HIGH)
+			GPIO.output(2, GPIO.LOW)
+			
+			GPIO.cleanup()
+		</code></pre>
+	</section>
+
+	<section>
+		<h3>Weiteres</h3>
+		<ul>
+			<li class="fragment fade-in-then-semi-out">while True</li>
+			<li class="fragment fade-in-then-semi-out">try/except KeyboardInterrupt</li>
+			<li class="fragment fade-in-then-semi-out">finally GPIO.cleanup()</li>
+		</ul>
+	</section>
+</section>
+

@@ -1,0 +1,67 @@
+.info-card {
+    position: relative;
+    padding: 0!important;
+    height: 18.75rem;
+    width: 100%;
+    overflow: hidden;
+
+    .card-item {
+        position:absolute;
+        width: inherit;
+        height: inherit;
+    }
+    
+    .primary-infos {
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: inherit;
+
+        padding-left: 0.5rem!important;
+        padding-right: 0.5rem!important;
+
+        .meta {
+            position: relative;
+
+            opacity: 60%;
+            font-size: smaller;
+            float: left;
+        }
+    
+        .title {
+            justify-self: center;
+            font-size: larger; 
+            color: white;
+        }
+    }
+    
+
+    .excerpt {
+        @extend .card-item;
+
+        padding: 1rem;
+        transition: .5s ease;
+        transform:translateY(100%);
+        background: darkgray;
+        color: black;
+        box-sizing: border-box;  
+        opacity: 40%;
+        
+        .link {
+            position: absolute;
+            bottom: 1rem;
+            .icon {
+                font-size: 1.5rem;
+            }
+        }
+    }
+
+    &:hover {
+        .excerpt {
+            transform:translateY(0%);
+            opacity: 100%;
+            z-index:3;
+        }
+    }
+}

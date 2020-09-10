@@ -1,0 +1,40 @@
+.widgetwrapper {
+    height: 169px;
+}
+
+.fadecontainer {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+	transition: .5s ease;
+	width: 210px;
+    height: 169px;
+    overflow: hidden;
+    
+    &:hover {
+        width: 554px;
+
+        .fadein {
+            opacity: 1;
+        }
+
+        .fadeout {
+            opacity: 0;
+            transition-delay: .2s;
+        }
+    }
+}
+
+.fadein {
+	opacity: 0;
+	transition: .5s ease;
+    position: absolute;
+    left: 0;
+}
+
+.fadeout {
+	opacity: 1;
+	transition: .5s ease;
+    position: absolute;
+    left: 0;
+}

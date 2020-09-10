@@ -1,0 +1,44 @@
+---
+title: Presentations
+layout: page 
+permalink: /presentations/
+description: All my presentations for school...
+---
+<div class="center text-container">
+    <p class="justify">
+        Presentations (Using <span><a href="https://github.com/hakimel/reveal.js">reveal.js</a></span>):
+    </p>
+</div>
+
+<div class="flex-stretch flex-container center" style="max-width: 1100px; width: 100%">
+    {% assign sorted = site.presentations | sort: 'date' | reverse %}
+    {%- for pres in sorted -%}
+    <div class="{% if site.presentations.size > 2 %}flex-third{% else %}flex-half{% endif %}" style="padding: 8px;">
+        <div class="card inverted info-card">
+            <div class="excerpt center">
+                <div class="justify">
+                    {{ pres.description }}
+                </div>
+                <div class="link">
+                    <a class="hover-opacity tooltip" href="{{ pres.url | relative_url }}"><i class="icon fas fa-link hover-opacity"></i><span class="tooltiptext">Presentation</span></a>
+                    <a class="hover-opacity tooltip" href="{{ pres.url | relative_url }}?print-pdf"><i class="icon fas fa-file-pdf hover-opacity"></i><span class="tooltiptext">Print-PDF</span></a>    
+                </div>
+                
+            </div>
+            <div class="primary-infos">
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                <p class="meta">
+                    <span >{{ pres.date | date: date_format }} </span>
+                    {%- if pres.author -%}
+                     • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ pres.author }}</span></span>
+                    {%- endif -%}
+                </p>
+                
+                <h3 class="title">{{ pres.title | escape }}</h3>
+            </div>  
+        </div>
+    </div>
+    {%- endfor -%}
+</div>
+
+<a href="{{ "/feed/presentations.xml" | relative_url }}" class="tooltip"><i class="fas fa-rss-square" style="font-size: 1.5rem;"></i><span class="tooltiptext bottom">RSS</span></a>

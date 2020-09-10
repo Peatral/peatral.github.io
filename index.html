@@ -1,0 +1,111 @@
+---
+title: Home
+layout: default
+---
+<!-- Header Image -->
+<div class="hide-small display-container">
+    <img src="{{ "/assets/LampFull.png" | relative_url }}" style="width:100%;height:100vh;object-fit:cover">
+    <div class="text-white padding-32 display-middle center" style="">
+        <h1 class="jumbo animate-top">Something's here!</h1>
+        <hr style="margin:auto;width:40%">
+        <p class="large">Yeah, life's going on</p>
+    </div>
+</div>
+
+
+<!-- The Infos Section -->
+<div id="infos" class="center padding-64 container flex-vertical">
+    <div class="page-heading">
+        <h2 class="wide">INFOS</h2>
+        <i class="opacity">Just to clarify</i>
+    </div>
+    
+    <div class="flex-stretch flex-vertical">
+        <p class="justify" style="max-width:800px; align-self: center;">This is just a Website to host my School-Presentations I made with reveal.js. 
+            Where does that "obsession" for reveal.js come from you ask? 
+            My computer science teacher showed us multiple times the <a href="https://www.youtube.com/watch?v=Iwpi1Lm6dFo" target="_blank">"Death by PowerPoint" 
+            TED talk by David JP Phillips</a> and then reveal.js to show us how good it is. 
+            Carrying those presentations around was never my favourite thing, and when I realized that reveal.js is just html and javascript,
+            I knew I could host it online. Then GitHub pages came to my mind and I tested it and it worked. And that's the story why I host my school presentations here.
+        </p>
+        <div class="flex-stretch" style="display:flex; align-items: center; justify-items: stretch;">
+            <div class="flex-stretch">
+                <img src="{{ "/assets/ACLogo8Bitgross.png" | relative_url }}" alt="Assassin's Creed" style="max-width:40%;">
+                <p class="opacity">A sample Pixelart of mine</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Projects -->
+<div id="projects" class="inverted center container padding-64" style="display: flex; flex-flow: column nowrap; justify-items: flex-start;">
+    <div class="page-heading">
+        <h2 class="wide">PROJECTS</h2>
+        <p class="opacity"><i>What I am working on</i></p>
+    </div>
+    <div class="center text-container">
+        <p class="justify">
+        I am working in my freetime on a handful projects. 
+        These projects couldn't be more different but that's the kind of person I am.
+        From Minecraft mods to random apps that make my life easier, eveything's there.
+        </p>
+    </div>
+    <div class="flex-container" style="max-width: 1100px;">
+        {% assign sorted = site.projects | sort: 'date' | reverse %}
+        {% for item in sorted %}
+        <div class="flex-half padding-16">
+            <div class="card notinverted">
+                <h2>{{ item.title | escape }}</h2>
+                <p class="opacity"><i>{{ item.description }}</i></p>
+                <a href="{{ item.secondlink }}" class="tooltip"><i class="fav-size-med {{ item.secondlink-class }} w3-hover-opacity"></i><span class="tooltiptext">{{ item.secondlink-tooltip}}</span></a>
+                <a href="https://github.com/Peatral/{{ item.repo }}" class="tooltip"><i class="fav-size-med fab fa-github w3-hover-opacity"></i><span class="tooltiptext">Github Repository</span></a>
+                {{ item.content }}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <a href="{{ "/feed/projects.xml" | relative_url }}" class="tooltip"><i class="fas fa-rss-square" style="font-size: 1.5rem;"></i><span class="tooltiptext invert bottom">RSS</span></a>
+</div>
+{%- if site.posts.size > 0 -%}
+<!-- Posts -->
+<div class="center container padding-64">
+    
+    <div class="page-heading">
+        <h2 class="wide">{{ page.list_title | default: "Posts" }}</h2>
+        <i class="opacity">Random stuff...</i>
+    </div>
+    <div class="center text-container">
+        <p class="justify">
+        Yes, here is even a blog you can subscribe to via rss.
+        </p>
+    </div>
+    <div style="display: flex; flex-flow: column nowrap; align-items: center; justify-items: stretch; width: 100%;">
+        <div class="flex-stretch flex-container" style="max-width: 1100px; width: 100%">
+            {%- for post in site.posts -%}
+            <div class="{% if site.posts.size > 2 %}flex-third{% else %}flex-half{% endif %}" style="padding: 8px;">
+                <div class="card inverted info-card">
+                    <div class="excerpt justify">
+                        {{ post.excerpt }}
+                        <a class="link hover-opacity" href="{{ post.url | relative_url }}">
+                            read more
+                        </a>
+                    </div>
+                    <div class="primary-infos">
+                        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                        <p class="meta">
+                            <span >{{ post.date | date: date_format }} </span>
+                            {%- if post.author -%}
+                                • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
+                            {%- endif -%}
+                        </p>
+                        
+                        <h3 class="title">{{ post.title | escape }}</h3>
+                    </div>  
+                </div>
+            </div>
+            {%- endfor -%}
+        </div>
+    </div>
+    <a href="{{ "/feed/posts.xml" | relative_url }}" class="tooltip"><i class="fas fa-rss-square" style="font-size: 1.5rem;"></i><span class="tooltiptext bottom">RSS</span></a>
+</div>
+{%- endif -%}

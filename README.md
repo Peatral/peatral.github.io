@@ -1,0 +1,3 @@
+My "Website". It's more a server to host my reveal.js presentations for school.
+
+But now it's v2. Definitely better than before...

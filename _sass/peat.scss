@@ -1,0 +1,334 @@
+@mixin hCenter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@mixin default {
+    background: white; 
+    color: black; 
+}
+
+@mixin inverted {
+    background: black; 
+    color: white; 
+}
+
+.site-header {
+    position: sticky;
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    width: 100%; 
+    height: 3rem;
+    box-shadow: 0 0.125rem 0.312rem 0 rgba(0,0,0,0.16), 0 0.125rem 0.625rem 0 rgba(0,0,0,0.12);
+    z-index: 10;
+
+    @include inverted();
+
+    nav {
+        height: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-items: flex-start;
+    }
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    //min-height: calc(100vh - 46px);
+    min-height: 100vh;
+    //margin: 46px 0px 0px 0px;
+    margin: 0 0 0 0;
+    @include hCenter();
+
+    font-size: 1rem;
+    line-height: 1.5;
+
+    width: 100%;
+
+    scroll-behavior: smooth;
+
+    @include default;
+
+    a {
+        color: darkslategray;
+    }
+}
+
+main {
+    flex: 1 0 auto;
+    
+    position: relative;  
+    left: 0; 
+    right: 0; 
+}
+
+footer {
+    position: relative;  
+    left: 0; 
+    right: 0; 
+    width: 100%;  
+    padding: 2rem 0 2rem 0;
+
+    @include inverted();
+
+    .link-wrapper {
+        display: flex; 
+        flex-direction: row; 
+        justify-content: center; 
+        margin: 1rem;
+        font-size: 1.5rem;
+
+        a {
+            margin: 0.125rem;
+        }
+    }
+
+    a {
+        color: lightgray;
+    }
+}
+
+.button {
+    padding: 1rem;
+    
+    @include inverted();
+
+    text-decoration: none;
+    text-transform: uppercase;
+    
+    &:hover {
+        background: lightgray;
+        color: black;    
+    }
+}
+
+.hover-opacity:hover {
+    opacity: 80%;
+}
+
+.page-heading {
+    text-align: center;
+
+    i {
+        width: 100%;
+    }
+}
+
+.wide {
+    letter-spacing: 0.25rem;
+    text-transform: uppercase;
+}
+
+.opacity {
+    opacity: .6;
+}
+
+.content {
+    margin: 0 8rem 0 8rem;
+    @media only screen and (max-width: 600px)  {
+        margin: 0 0.75rem 0 0.75rem;
+    }
+}
+
+.hide-small {
+    @media only screen and (max-width: 600px)  {
+        display: none!important;
+    }
+}
+
+.hide-medium{
+    @media (max-width:992px) and (min-width:601px){
+        display:none!important
+    }
+}
+
+.hide-large {
+    @media (min-width:993px){
+        display: none!important;
+    }
+}
+
+.justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.center {
+    @include hCenter();
+    text-align: center;
+}
+
+.padding-16 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+
+.padding-32 {
+    padding: 2rem!important;
+}
+
+.padding-64 {
+    padding-top: 4rem!important;
+    padding-bottom: 4rem!important;
+}
+
+.text-white {
+    color: white;
+}
+
+.display-container {
+    position: relative;
+}
+
+.display-middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
+
+.jumbo {
+    font-size:4rem;
+}
+
+.large {
+    font-size: 1.125rem;
+}
+
+.animate-top {
+    position:relative;
+    animation:animatetop 0.4s
+}
+@keyframes animatetop {
+    from {
+        top:-19rem;
+        opacity:0;
+    } 
+    to {
+        top:0;
+        opacity:1;
+    }
+}
+
+.animate-opacity {
+    animation:opac 0.8s
+}
+@keyframes opac {
+    from {
+        opacity:0;
+    } 
+    to {
+        opacity:1;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.container {
+    padding: 0.01em 1rem;
+    min-height: 100vh;
+}
+
+.inverted {
+    @include inverted();
+}
+
+.notinverted {
+    @include default();
+}
+
+.card {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    padding: 16px;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: stretch;
+    justify-items: stretch;
+    @media only screen and (max-width: 992px)  {
+        flex-direction: column;
+    }
+}
+
+.flex-item {
+    box-sizing: border-box;
+    padding: 0 8px;
+    display: flex; 
+    flex-direction: row; 
+    align-items: stretch;
+    justify-items: stretch;
+    @media only screen and (max-width: 992px)  {
+        flex-direction: column;
+    }
+
+    .card {
+        flex-grow: 1;
+    }
+}
+
+.flex-half {
+    @extend .flex-item;
+    flex: 0 50%;
+
+}
+
+.flex-third {
+    @extend .flex-item;
+    flex: 0 33.333%;
+}
+
+.flex-vertical {
+    display: flex; 
+    flex-flow: column nowrap; 
+    justify-items: stretch; 
+    align-items: stretch;
+}
+
+.flex-stretch {
+    flex-grow: 1 ;
+}
+
+.text-container {
+    max-width: 800px;
+}
+
+.navigation {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 16px;
+    padding: 16px;
+    min-height: fit-content;
+
+    .prev {
+        float: left;
+    }
+    
+    .next {
+        float: right;
+    }
+}
+
+@import "tooltip";
+@import "itchwidget";
+@import "infocard";
+

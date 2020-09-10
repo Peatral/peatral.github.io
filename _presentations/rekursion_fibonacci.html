@@ -1,0 +1,131 @@
+---
+layout: presentation
+title: Rekursion & Fibonacci
+description: Eine Präsentation über Rekursion und Fibonacci.
+author: Moritz und Christof
+date: 2019-03-11
+---
+
+<section>
+	<h1>Rekursion und Fibonacci</h1>
+	<h3>Moritz und Christof<h3>
+</section>
+
+<section>
+	<section>
+		<h3 class="fragment shrink">Aufgabe</h3>
+		<p class="fragment">
+			Verfasst eine iterative Funktion, die die Fakultät einer Zahl berechnet. <span class="fragment">In Python.</span>
+		</p>
+	</section>
+	
+	<section>
+		<h3 class="fragment shrink">Eine Lösung</h3>
+		<pre class="fragment fade-in"><code data-trim data-noescape data-line-numbers class="python">
+			def fakultaetIterativ(n):
+				wert = n
+				zähler = n-1
+
+				while (zähler > 0):
+					wert *= zähler
+					zähler -= 1
+				
+				return wert
+		</code></pre>
+	</section>
+</section>
+
+<section>
+	<section>
+		<h3 class="fragment shrink">Erkennt ihr eine Regel?</h3>
+		<p class="fragment">
+			0, 1, 1, 2, 3, 5, 8, 13
+		</p>
+	
+	</section>
+	
+	<section>
+		<h3 class="fragment shrink">Es ist eine Fibonacci-Folge</h3>
+		<p class="fragment">
+			f(n) = f(n-1) + f(n-2) <br>
+			n0 = 0;
+			n1 = 1;
+		</p>
+	</section>
+	
+</section>
+
+<section>
+	<h3 class="fragment shrink">Definition</h3>
+	<p>
+		<span class="fragment">Eine Folge/Funktion</span> <span class="fragment">wird in ihrer Definition</span> <span class="fragment">noch einmal</span> <span class="fragment">aufgerufen<span>.
+	</p>
+</section>
+
+<section>
+	<section>
+		<h3>Beispiele</h3>
+	</section>
+	
+	<section>
+		<h3 class="fragment shrink">Fakultät</h3>
+		<pre class="fragment fade-in"><code data-trim data-noescape data-line-numbers class="python">
+			def fakultaet(n):
+			
+				if(n == 1):
+					return 1
+				else:
+					return n * fakultaet(n-1)
+		</code></pre>
+	</section>
+	
+	<section>
+		<h3 class="fragment shrink">Kaskardenartige Rekursion</h3>
+		<pre class="fragment fade-in"><code data-trim data-noescape data-line-numbers class="python">
+			def fibonacciWert(n):
+				
+				wert = 0
+				
+				if(n >= 2):
+					wert = fibonacciWert(n - 1) + fibonacciWert(n - 2) 
+				elif(n == 1):
+					wert = 1
+				else:
+					wert = 0
+				
+				return wert
+		</code></pre>
+		<div class="fragment">
+			>>>fibonacciWert(5) <br>
+			5
+		</div>
+	</section>
+	
+	<section>
+		<h3 class="fragment shrink">Zu Kaskaken</h3>
+		<p class="fragment">
+			Kaskardenartig heißt es gibt eine innere <span class="fragment highlight-blue">Baumstruktur</span> beim Funktionsaufruf.<br>
+			<span class="fragment">D.h. bei jedem "Schritt" <span class="fragment highlight-blue">erhöht</span> sich die Anzahl der Funktionsaufrufe.</span>
+		</p>
+	</section>
+	
+	<section>
+		<h3 class="fragment shrink">Rekursion</h3>
+		<pre class="fragment fade-in"><code data-trim data-noescape data-line-numbers class="python">
+			def fibonacciFolge(stop, folge=[0, 1]):
+			
+				folge.append(folge[len(folge) - 1] + folge[len(folge) - 2])
+				
+				if(len(folge) < stop):
+					folge = fibonacciFolge(stop, folge)
+					
+				return folge
+		</code></pre>
+			
+		<div class="fragment">
+			>>>fibonacciFolge(5) <br>
+			[0,1,1,2,3]
+		</div>
+	</section>
+</section>
+	

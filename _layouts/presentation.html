@@ -1,0 +1,72 @@
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        {%- seo -%}
+
+        <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
+
+        <link rel="stylesheet" href="dist/reset.css">
+        <link rel="stylesheet" href="dist/reveal.css">
+        <link rel="stylesheet" href="dist/theme/black.css">
+
+        <link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+
+        <script src="pdfThemeSwap.js"></script>
+
+
+        
+        <link rel="shortcut icon" type="image/png" href="{{ "/assets/favicon.png" | relative_url }}">
+
+        <script src="https://kit.fontawesome.com/f885968b9e.js" crossorigin="anonymous"></script>
+
+        {%- feed_meta -%}
+        {%- if jekyll.environment == 'production' and site.google_analytics -%}
+            {%- include google-analytics.html -%}
+        {%- endif -%}
+
+    </head>
+
+    <body>
+
+        <a href="{{ site.url }}" class="hover-opacity" style="position: absolute; bottom: 3.3rem; right: 3.2rem; color: darkgrey; z-index: 5; font-size: 1.2rem;"><i class="fav-size-med fas fa-home"></i></a>
+
+        <div class="reveal">
+
+            <div class="slides">
+                {{ content }}
+            </div>
+
+        </div>
+
+        <script src="dist/reveal.js"></script>
+        <script src="plugin/zoom/zoom.js"></script>
+        <script src="plugin/notes/notes.js"></script>
+        <script src="plugin/search/search.js"></script>
+        <script src="plugin/markdown/markdown.js"></script>
+        <script src="plugin/highlight/highlight.js"></script>
+        <script>
+            Reveal.configure({ 
+                pdfSeparateFragments: false, 
+                pdfMaxPagesPerSlide: 1 
+            })
+            Reveal.initialize({
+                controls: true,
+                progress: true,
+                center: true,
+                hash: true,
+
+                plugins: [RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight]
+            });
+
+        </script>
+
+    </body>
+
+</html>

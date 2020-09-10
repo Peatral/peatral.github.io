@@ -1,0 +1,18 @@
+.reveal 
+    .slides 
+        section 
+            .fragment.semi-fade-out.visible{opacity:1;visibility:inherit}
+.reveal 
+    .slides 
+        section 
+            section
+                .fragment.semi-fade-out.visible{opacity:1;visibility:inherit}
+.reveal 
+    .slides 
+        section 
+            .fragment.fade-in-then-semi-out.visible{opacity:1;visibility:inherit}
+.reveal 
+    .slides 
+        section 
+            section
+                .fragment.fade-in-then-semi-out.visible{opacity:1;visibility:inherit}
