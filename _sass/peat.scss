@@ -1,3 +1,9 @@
+
+$screenSmallMax: 37.5rem;
+$screenMediumMax: 62rem;
+$screenMediumMin: 37.6rem;
+$screenLargeMin: 62.1rem;
+
 @mixin hCenter {
     display: flex;
     flex-direction: column;
@@ -34,14 +40,8 @@
     }
 }
 
-html {
-    font-size: 16px;
-}
-
 body {
-    //min-height: calc(100vh - 46px);
     min-height: 100vh;
-    //margin: 46px 0px 0px 0px;
     margin: 0 0 0 0;
     @include hCenter();
 
@@ -130,25 +130,25 @@ footer {
 
 .content {
     margin: 0 8rem 0 8rem;
-    @media only screen and (max-width: 600px)  {
+    @media only screen and (max-width: $screenSmallMax)  {
         margin: 0 0.75rem 0 0.75rem;
     }
 }
 
 .hide-small {
-    @media only screen and (max-width: 600px)  {
+    @media only screen and (max-width: $screenSmallMax)  {
         display: none!important;
     }
 }
 
 .hide-medium{
-    @media (max-width:992px) and (min-width:601px){
+    @media (max-width:$screenMediumMax) and (min-width:$screenMediumMin){
         display:none!important
     }
 }
 
 .hide-large {
-    @media (min-width:993px){
+    @media (min-width:$screenLargeMin){
         display: none!important;
     }
 }
@@ -231,15 +231,15 @@ footer {
 h1, h2, h3, h4, h5, h6 {
     font-family: "Segoe UI",Arial,sans-serif;
     font-weight: 400;
-    margin: 10px 0;
+    margin: .625rem 0;
 }
 
 h1 {
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 1.875rem;
 }
 
 .container {
@@ -256,8 +256,8 @@ h2 {
 }
 
 .card {
-    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
-    padding: 16px;
+    box-shadow: 0 .125rem .312rem 0 rgba(0,0,0,0.16), 0 .125rem .625rem 0 rgba(0,0,0,0.12);
+    padding: 1rem;
 }
 
 .flex-container {
@@ -265,19 +265,19 @@ h2 {
     flex-flow: row wrap;
     align-items: stretch;
     justify-items: stretch;
-    @media only screen and (max-width: 992px)  {
+    @media only screen and (max-width: $screenMediumMax)  {
         flex-direction: column;
     }
 }
 
 .flex-item {
     box-sizing: border-box;
-    padding: 0 8px;
+    padding: 0 .5rem;
     display: flex; 
     flex-direction: row; 
     align-items: stretch;
     justify-items: stretch;
-    @media only screen and (max-width: 992px)  {
+    @media only screen and (max-width: $screenMediumMax)  {
         flex-direction: column;
     }
 
@@ -309,14 +309,14 @@ h2 {
 }
 
 .text-container {
-    max-width: 800px;
+    max-width: 50rem;
 }
 
 .navigation {
     width: 50%;
     margin: auto;
-    margin-bottom: 16px;
-    padding: 16px;
+    margin-bottom: 1rem;
+    padding: 1rem;
     min-height: fit-content;
 
     .prev {
