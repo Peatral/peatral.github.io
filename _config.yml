@@ -27,6 +27,9 @@ url: "https://peatral.github.io" # the base hostname & protocol for your site, e
 twitter_username: TheRealPeatral
 github_username:  Peatral
 
+disqus:
+  shortname: peatral
+
 # Build settings
 
 show-excerpts: true
