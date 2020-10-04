@@ -1,8 +1,9 @@
 var CACHE_NAME = 'peatral-cache-v1';
 var urlsToCache = [
-  '/',
-  '/assets/style.css',
-  '/scripts/main.js'
+    '/',
+    '/presentations/',  
+    '/assets/style.css',
+    '/scripts/main.js'
 ];
 
 self.addEventListener('install', function(event) {

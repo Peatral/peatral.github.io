@@ -1,0 +1,105 @@
+---
+layout: presentation
+title: Kontrollstrukturen
+description: Eine Präsentation über Kontrollstrukturen in Java
+author: Christof
+date: 2020-9-23
+---
+<section>
+    <h1>Kontroll Strukturen</h1>
+</section>
+<section id="intro">
+    <h2 class="fragment shrink">Was sind denn eigentlich Kontrollstrukturen?</h2>
+    <p class="fragment fade-in-then-semi-out">Alles was beeinflusst wie der Code abgearbeitet wird.</p>
+</section>
+<section id="ifelse">
+    <section id="ifelse-explanation">
+        <h2 class="fragment shrink">if / else</h2>
+        <p class="fragment fade-in-then-semi-out">wenn -> dann -> ansonsten</p>
+    </section>
+    <section data-auto-animate id="ifelse-withparenthesis">
+        <pre data-id="code-animation"><code data-trim data-noescape data-line-numbers class="java">
+if (a) {
+    doA(); // Wenn a true ist
+} else if (b) {
+    doB(); // Wenn ansonsten b true ist
+} else {
+    doC(); // Alle anderen Fälle
+}
+		</code></pre>
+    </section>
+    <section data-auto-animate id="ifelse-withoutparenthesis">
+        <pre data-id="code-animation"><code data-trim data-noescape data-line-numbers class="java">
+if (a)
+    doA(); // Wenn a true ist
+else if (b)
+    doB(); // Wenn ansonsten b true ist
+else
+    doC(); // Alle anderen Fälle
+        </code></pre>
+    </section>
+    <section id="ifelse-ternaryifelse">
+        <h2 class="fragment shrink">Ternäres if / else</h2>
+        <p class="fragment fade-in-then-semi-out">if/else <span class="fragment highlight-red">innerhalb</span> einer Zeile</p>
+        <pre class="fragment fade-in"><code data-trim data-noescape data-line-numbers class="java">
+doX(bedingung ? optionIf : optionElse);
+int test = bedingung ? bedingung2 ? 404 : 420 : 69;
+        </code></pre>
+    </section>
+</section>
+<section id="switch">
+    <h2 class="fragment shrink">Switch</h2>
+    <p class="fragment fade-in-then-semi-out">Effizientes überprüfen von Fällen</p>
+    <pre class="fragment fade-in"><code data-trim data-noescape data-line-numbers class="java">
+int x = 10;
+switch(x) {
+    case 1:
+        System.out.println("kommt wenn x 1 ist");
+    case 2:
+        System.out.println("kommt wenn x 1 oder 2 ist");
+        break;
+    case 3:
+        System.out.println("kommt wenn x 3 ist");
+        break;
+    default:
+        System.out.println("kommt wenn x was anderes ist");
+        break;
+}
+    </code></pre>
+
+</section>
+<section id="loops">
+    <section id="loops-explanation">
+        <h2 class="fragment shrink">Schleifen</h2>
+        <p class="fragment fade-in-then-semi-out">Wiederholen Code unter bestimmten Umständen</p>
+    </section>
+    <section id="loops-forloop"> 
+        <pre><code data-trim data-noescape data-line-numbers class="java">
+for (int i = 0; i < 10; i++)
+    doX(i);
+
+for (int i = 0; i < 10; ++i) {
+    doX(i);
+}
+        </code></pre>
+    </section>
+    <section data-auto-animate id="loops-whileloop">
+        <pre  data-id="code-animation"><code data-trim data-noescape data-line-numbers class="java">
+while (bedingung) {
+    // Solange bedingung hier nicht geändert wird 
+    // liegt eine Endlos-Schleife vor!
+}
+        </code></pre>
+    </section>
+    <section data-auto-animate id="loops-dowhileloop">
+        <pre  data-id="code-animation"><code data-trim data-noescape data-line-numbers class="java">
+do {
+    // Die Schleife wird einmal durchlaufen
+    // bevor die Bedingung überprüft wird
+} while (bedingung);
+        </code></pre>
+    </section>
+</section>
+<section>
+    <h2>danke für die Aufmerksamkeit</h2>
+</section>
