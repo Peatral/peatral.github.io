@@ -16,4 +16,4 @@ window.onload = function(){
         document.getElementById("homebutton").remove();
         print();
     }
- };
+};
