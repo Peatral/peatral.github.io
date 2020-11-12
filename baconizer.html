@@ -1,0 +1,43 @@
+---
+title: Baconizer
+layout: page
+permalink: /baconizer/
+description: A weird baconian translator...
+---
+<div class="centered">
+    <script src="{{ "/scripts/baconizer.js" | relative_url }}"></script>
+    
+
+    <div class="content text-container justify">
+        <p>
+            I made this little tool in an afternoon after I watched the <span><a href="https://youtu.be/6hz-t3y1C9Y">"Hidden Messages on Twitter"-Video</a></span> by 
+            The Modern Rogue. In the comments I read about Baconian and so I made this page.
+        </p>
+    </div>
+    
+
+    <h2>Encode</h2>
+    <form>
+        <label for="hiddentext">Hidden Text:</label>
+        <textarea type="text" id="hiddentext" name="hiddentext" rows="4" cols="50">Dog</textarea>
+        <br>
+        <label for="rawbacon">Raw Baconian:</label>
+        <label id="rawbacon">Bacon</label>
+        <br>
+        <label for="messagetext">Message Text:</label>
+        <textarea type="text" id="messagetext" name="messagetext" rows="4" cols="50">Bacon Bacon Bacon</textarea>
+        <br>
+        <label for="bacon">Encrypted Message:</label>
+        <label id="bacon">Bacon</label>
+        <br>
+    </form>
+
+    <h2>Decode</h2>
+    <form>
+        <label for="encryptedtext">Encrypted Text:</label>
+        <textarea type="text" id="encryptedtext" name="encryptedtext" rows="4" cols="50"></textarea>
+        <br>
+        <label for="decryptedtext">Decrypted Text:</label>
+        <label id="decryptedtext" name="decryptedtext">Bacon</label>
+    </form>
+</div>
