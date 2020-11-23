@@ -37,6 +37,7 @@ $screenLargeMin: 62.1rem;
         display: flex;
         flex-direction: row;
         justify-items: flex-start;
+        align-content: center;
     }
 }
 
@@ -226,6 +227,10 @@ footer {
     to {
         opacity:1;
     }
+}
+
+textarea { 
+    vertical-align: top; 
 }
 
 h1, h2, h3, h4, h5, h6 {
