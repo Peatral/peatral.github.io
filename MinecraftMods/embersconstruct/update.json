@@ -12,10 +12,11 @@
 		"1.2.3": "Possibility to remove recipes from the Tinkers Smeltery",
 		"1.2.4": "Recipe Fix, Dust Stamping, Proxy Overhaul",
 		"1.3.0": "More Support + Fixes",
-		"1.3.1": "Bloomery, Wrought Iron, Bolt Core Stamping, Fixes"
+		"1.3.1": "Bloomery, Wrought Iron, Bolt Core Stamping, Fixes",
+		"1.3.2": "Enable/Disable Bloomery, Kiln and Stamp Table"
 	},
 	"promos": {
-		"1.12.2-latest": "1.3.1",
-		"1.12.2-recommended": "1.3.1"
+		"1.12.2-latest": "1.3.2",
+		"1.12.2-recommended": "1.3.2"
 	}
 }
