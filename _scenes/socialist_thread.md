@@ -1,9 +1,10 @@
 ---
 layout: scene
 title: Socialist Thread
+description: A funny thread about State Socialism and Germany.
 ---
 
-.Kommentar Thread unter GERMAN HEALTHCARE EXPLAINED AND WHY THE US HATES IT! (https://www.youtube.com/watch?v=vKx55oj6dQw)
+.A Comment Thread under GERMAN HEALTHCARE EXPLAINED AND WHY THE US HATES IT! (https://www.youtube.com/watch?v=vKx55oj6dQw)
 
 GUENTHER WITH H
 In germany there is no socialism,it is a social system that makes a huge difference
@@ -1629,4 +1630,4 @@ Also the healthcare system in Germany has nothing to do with the economic model 
 
 
 
-(letzter Stand: 28.06.2021, 20:19 Uhr)
+(last updated: 28.06.2021, 20:19 PM)
