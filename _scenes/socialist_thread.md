@@ -1,0 +1,1632 @@
+---
+layout: scene
+title: Socialist Thread
+---
+
+.Kommentar Thread unter GERMAN HEALTHCARE EXPLAINED AND WHY THE US HATES IT! (https://www.youtube.com/watch?v=vKx55oj6dQw)
+
+GUENTHER WITH H
+In germany there is no socialism,it is a social system that makes a huge difference
+
+
+
+JONATHAN S.
+ @wolf B  I lived in the US for 13 years and also had to give up explaining this to people there. When I explained to them that Sozialstaat translates to Welfare State and not Socialist State they completely lost their minds and accused me of spreading Socialist propaganda.
+
+
+LESTAT LEGISTAT
+​ @Jonathan S.  I gave up to convince Americans, not just related to socialism, but like almost everything. Once they believe they "know" something, they are turn off their brains. (Not all Americans are like this, but many of my conversations with them end up like this.)
+
+
+
+TECHNOESTATE
+Except Germany's system is *literally* called **State Socialism**. 
+Germany might not like that association, but that's what the German people called it when the system was introduced, and it's what the chancellor that introduced it called it, and socialism is also what Bernie Sanders calls it today. So by all intents and purposes: It is (a variant of) socialism. 😌
+
+
+
+TECHNOESTATE
+ @Jonathan S.  The correct term is **Staatssozialismus** (State Socialism) -- as coined by the German people at the time, later adopted by the chancellor who introduced it himself. 
+"Sozialstaat" also exists, but that's not the term in question.
+
+
+
+JONATHAN S.
+ @TechnoEstate  At the time. We are now in the 20th century. And using an American‘s definition of socialism is useless because Americans dont even understand its basic definition.
+
+
+
+TECHNOESTATE
+ @Jonathan S.  Not just at the time. Bernie Sanders and the millions who voted for him also call it socialism today and deem the state the provider of it. So you can spin it and swap labels all you want: if it looks like a duck, smells like a duck, quacks like a duck... 😌
+
+
+
+JONATHAN S.
+ @TechnoEstate  Like I said what an American calls socialism is of zero interest to me. Not sure why you're telling me about a US politician since we are talking about Germany.
+
+
+
+TECHNOESTATE
+ @Jonathan S.  So let me get this straight: 
+● the GERMANS THEMSELVES named it socialism. 
+● the GUY WHO INTRODUCED it agreed it's socialism. 
+● MILLIONS OF PEOPLE around the world agree it's (a form of) socialism. 
+***But here you are, telling everyone they're wrong, because you suffer from HDS (Honnecker Derangement Syndrome).***
+ 🤣 🤣 🤣
+
+
+
+JONATHAN S.
+ @TechnoEstate  Not sure how else I can get it into your head. Socialism means that the means of production and distribution are owned by everyone (everyone or the socialist government representing everyone) and this is simply not the case in Germany. Germany has a capitalist economy with privately owned companies and companies owned by stockholders. There are examples of the German government being major stockholders in companies that are crucial to the infrastructure such as the Deutsche Bahn (German Railway) but the economy is still a capitalist free market. What someone in the past called something is of zero interest and irrelevant when speaking of today's Germany.
+
+
+
+TECHNOESTATE
+ @Jonathan S.  Germany has a ***mixed economy*** with a private and a (strong) public sector. They share this with countries like **Bolivia**, **Venezuela**, and **China** -- and of course with most of Europe. Whether or not you, personally, regard any of those "sufficiently socialist" to deserve the term is largely irrelevant and a purely semantic argument at this point. :yawn:
+
+
+
+JONATHAN S.
+ @TechnoEstate  Your whole argument fell apart and now you are comparing Germany to other countries...
+
+
+
+TECHNOESTATE
+ @Jonathan S.  *"Your whole argument fell apart"* 
+I'm not the one who got schooled on German history, buddy. The Dunning-Krueger sure is strong in you!
+
+
+
+JONATHAN S.
+​ @TechnoEstate  I think you've embarrassed yourself enough for today. Pre-WW2 Germany has nothing to do with today's government or economy. Let it go, all you've done is underline my point that you dont understand socialism.
+
+
+
+TECHNOESTATE
+ @Jonathan S.  *"Pre-WW2 Germany has nothing to do with today's government or economy."* 
+[citation missing]
+Really? **Why are they using the pre-WW2 flag? Why do they still have a CHANCELLOR? Why was one of the two biggest parties founded in the days of CHANCELLOR Bismarck?**
+Blank canvas, huh? Don't hurt yourself, buddy. 😏
+
+
+
+HARRY DEHNHARDT
+ @TechnoEstate  Social”ism”paranoia? 
+This is not about a social order or its definition but about the German health care system in comparison and the reasons why the US refuse to overhaul it’s overpriced and inefficient HCS. Like she said in the video: You only have to stick the “socialism” label onto something and instantlly Americans run for their lives. It’sc an uncontrolled reflex like Pavlo’v’s dog.
+
+
+
+TECHNOESTATE
+ @Harry Dehnhardt  More like Social"ism"trauma, perhaps. 
+I'm not the one suffering from HDS here (Honecker Derangement Syndrome). It's those who are so traumatized by what happened in East Germany that they cannot even acknowledge the **plain historical FACT** that the FRG, too, has its own socialist system in place. :shrugs:
+
+
+
+CAIN SOLES
+ @TechnoEstate  I am a German. We call it "Sozialstaat" not "Staatssozialismus". It is not socialism but "social" It literally translates to "social state" as in "welfare". So please just accept it as it is. Thanks.
+
+
+
+RETRORAINER
+ @Cain Soles  du kannst von vielen amerikanern nicht erwarten, dass sie von ihrem "ich weiss alles und wir sind die besten" standpunkt abrücken. 
+ein begriff, der vor weit mehr als 100 jahren gefallen ist, ist für ihn relevant. was es bedeutet, wie viel angenehmer es ist etc KANNST du nicht in seinen schädel kriegen.
+seiner meinung nach wurden wir indoktriniert, aber selbst alles wie ein mantra runterbeten 😐
+
+
+
+RETRORAINER
+ @TechnoEstate  hahahaha
+call it whatever you want. I pay a portion of my income for a better educational system, healthcare and other stuff and still got money for my capitalistic cravings. now tell me that I'm wrong, knowitall.
+I don't have to worry if I'm going to be sick, no matter what it's going to be.
+heart transplant? chances are, that I'm going to get one, without burrying my grandchildren in debts.
+
+
+
+SHIMA PHYS
+Well, Americans want to be Nr.1 in everything. 
+Even if it means a bad thing.
+Like, worst country by having the most people imprisoned
+10.000.000+ People are imprisoned.
+Because it makes them a lot of money, 2 Billion + $ per year.
+Most people in the USA choose rather to die, then going to a doctor.
+The USA is also, on of the most intolerant and ignorant countries.
+I mean, they want to nuke the entire world.
+They want to go to war 24/7.
+They want other countries to respect the USA, but the USA doesn't respect any other country.
+
+
+
+RAEV LYCKASSON
+ @TechnoEstate  but that historic background is irrelevant. And ofc the welfare state is somewhat a variant of a socialist state, that's because the ideas of social welfare by the state were developed by people who also are the avantgarde of socialism. Socialism and social welfare developed together. But socialism has experienced a shift in meaning towards a totalitarian society, thus the modern word socialism is unfit at describing any kind of modern welfare. And even in German we dont use socialism but social instead to describe such things. We don't call it staatssozialismus at least since the end of ww2. It's der Sozialstaat which is better translated as the social state as with the socialist state. The welfare is called soziale Maßnahme or the economy soziale Marktwirtschaft. That is no socialist economy but a social economy. So yes we don't have any socialism in Germany since the end of the DDR and its neither perceived as socialism nor is it in any way called any form of socialism. Socialism is what we saw in soviet states, social is what we see in modern germany
+
+
+
+RAEV LYCKASSON
+ @TechnoEstate  ok sorry dude but with that comment you showed every German that you literally do not know shit.
+Just to point out a few things. The flag Germany uses today is a design that developed in the liberation wars against napoleonic France as a symbol of unity among all Germans, because there wasn't such a thing as Germany until half a century later.
+The modern Germany doesn't share much similarities with the only other German state that used this flag, das Weimarer Reich. The Weimarer Reich was a distinct entity in regards to modern Germany. They are not the same, nor are they that much similar except superficial similarities. At that time social welfare and socialism were indeed the same and used interchangeable.
+After the ww2 two new German states formed, one socialist and one not. The socialist is no longer existent. Because of this split, the meaning of socialism in Germany changed, because the BRD didn't want to be associated with its socialist brother. So the BRD developed the social economy in opposition to an socialist economy found in the DDR.
+And thus Germany may be considered socialist by English definition, but it's not by its own definition. And I would argue that the English one is too broad because it encompasses everything from a stalinist dictatorship to a free market society with a social safety net and great emphasis on freedom rights
+
+
+
+STUART JONES
+O
+
+
+
+FRITZ LANG
+ @TechnoEstate  Telling someone else he has the Dunning-Kruger effect when you yourself have it, i love that irony
+
+
+
+DENNIS WITT
+ @TechnoEstate  The public sector can hardly be considered economy. It is simply administration and does not produce anything marketable.
+
+
+
+NUCLEARSAVETY
+You can have a capitalist economic system AND a social state .... for many Americans, however, a country without starving poor children is Soviet dictatorship...
+
+
+
+WOLFGANG ENGEL
+ @TechnoEstate  Wow, your on the wrong track so much....Please educate yourself.
+
+
+
+TECHNOESTATE
+ @Fritz Lang  *"Telling someone else he has the Dunning-Kruger effect when you yourself have it, i love that irony"*
+😏 Yeah, joke's on you, buddy. 
+I've ***studied*** this sh!t. In Germany. Under German professors. A grades. And I know for a fact that current German school books also teach about Staatssozialismus and how it is the basis of modern Germany's Soziale Marktwirtschaft. So when some German user name comes in here and acts like they've never even heard the term, they're really just outing themselves as blissfully unaware Schulschwänzer -- and that's only if they're being honest and not just in ideologically motivated denial (looking at you, FDP voters...)
+
+
+
+BABBAFUC
+ @Jonathan S.  It's so crazy for a german to see that, like they are brainwashed
+
+
+
+CAIN SOLES
+ @RetroRainer  Leider. :/ Aber immerhin wissen wir, dass wir uns in Krankheit und Alter keine Sorge machen müssen. Das ist doch auch ein Sieg. :)
+
+
+
+TECHNOESTATE
+ @RetroRainer  *"call it whatever you want. I pay a portion of my income for a better educational system, healthcare and other stuff and still got money for my capitalistic cravings. now tell me that I'm wrong, knowitall."*
+Why would I tell you you're wrong? 🤔 In fact, I gave your comment a thumbs-up: you've just perfectly described the merits of German Staatssozialismus and why I'm in full support of it. Now, if I can call a spade "a spade", so can you! I believe in you! 😌
+
+
+
+TECHNOESTATE
+ @Cain Soles  Sorry, not a big fan of revisionism. Which is what this little game of ***label swapping*** really is.
+
+
+
+WANDI LISMUS
+ @Jonathan S.  American education is about as high as Hauptschule
+
+
+
+WANDI LISMUS
+ @TechnoEstate  it is called Sozialstaat ... and it is Welfare State. But hey America calls itself Democracy and Acts like a totalitarian system
+
+
+
+JONATHAN S.
+ @Wandi Lismus  As someone who went to school in the US i can definitely confirm that. In highschool I slept all day for 4 years and still somehow managed to graduate in the top percent and got a full scholarship. Went to a US Uni for few years and was in for a rude awakening when I came back to Germany to finish my bachelors. I was a complete moron compared to the Germans I was studying with. I went from an A- student in the US to failing every Klausur except for one in my first semester here.
+
+
+
+TECHNOESTATE
+ @Wandi Lismus  For the 5th (or 6th?) time: **False**. It's called **Staatssozialismus** (= State Socialism). That's the original term for Germany's current system, meant to indicate a form of socialism provided by the state, w/o getting overthrown by a revolutionary mob. "Sozialstaat" (= social/welfare state) is a German word, too, yes, but a different one. 🙄
+
+
+
+CAIN SOLES
+ @TechnoEstate  Dude, just stop. Literally everyone here is against you. You lost, just accept it and go in peace and dignity. xD
+
+
+
+TECHNOESTATE
+ @Cain Soles  It's not an uncommon thing for pupils to meet their teacher with defiance. Especially if the lesson is a hard one. 😌 
+That said, @RetroRainer and me just have reached full agreement (see exchange above). So you might want to show some modesty and speak for yourself, buddy. 😏
+
+
+
+HOVAWARTFREUNDE
+ @TechnoEstate  in Germany it is not called socialism but welfare state which is granted by our constitution. It means that whatever marketform German people chose that they have to gurantee everyone to be able to live with dignity and be able to participate socially in at least the basic forms of culture, education and society. Germans have chosen the "soziale Marktwirtschaft " or social(ly) just capitalism. We believe in a free market and competition but also see the problems of the system. In it's pure form it creazes huge differences between rich and poor. So there are rules that keep capitalism in check and help to create equality in opportunity. The system has it's flaws but this is the case for all economic systems. The problem is that American society is so divided and often so poorly educated that they see the whole world in black and white.
+
+
+
+HOVAWARTFREUNDE
+ @Jonathan S.  he won't get it. He is just uneducated about what he is talking about.
+
+
+
+HOVAWARTFREUNDE
+ @TechnoEstate  you mix up the German healthcare system with it's market system. It's a bit embarressing for you.
+
+
+
+HOVAWARTFREUNDE
+ @Dennis Witt  he mixed up healthcare and economy...
+
+
+
+HOVAWARTFREUNDE
+ @TechnoEstate  which professors tried and failed to educate you if I may ask?
+
+
+
+HOVAWARTFREUNDE
+ @TechnoEstate  This is just plain wrong. You neither get the word nor the meaning nor the history behind it right. Please do read a book.
+
+
+
+FINE FLAVOUR
+ @TechnoEstate  i'm interested in your studies here in Germany. Which university, which study objects? And the names of your incompetent profs please.
+
+
+
+CAIN SOLES
+ @TechnoEstate  The audacity xDD Okay, buddy. Just believe what you want. As we say in Germany: "Einbildung ist auch 'ne Bildung."
+
+
+
+TECHNOESTATE
+ @Fine Flavour  You first. Show some courtesy before you beg. 😉
+
+
+
+TECHNOESTATE
+ @Cain Soles  That saying probably is the first one you've learned... 😏
+
+
+
+CAIN SOLES
+ @TechnoEstate  Mhm... Yeah I assume you'd be right. Dude, you bore me. I'm out. Just consider yourself the winner if that makes you happy. Good life!
+
+
+
+FINE FLAVOUR
+ @TechnoEstate  Your reaction shows: you are a liar.
+
+
+
+TECHNOESTATE
+ @Fine Flavour  *"you are a liar."* 
+😃 No, you didn't! Okay, buddy, time to put your money where your cakehole is: your legal contact, please. Heading to the notary tomorrow to set up a contractual bet that I have indeed studied German history in Germany. What sum would you like? Let's say €10k? More/less?
+
+
+
+FINE FLAVOUR
+ @TechnoEstate  Ooohhhh sweet :) come on give that a try! I'm shaking in fear!!!
+
+
+
+FINE FLAVOUR
+ @TechnoEstate  Oh and for you, something more to study: https://wirtschaftslexikon.gabler.de/definition/soziale-marktwirtschaft-42184 versus https://wirtschaftslexikon.gabler.de/definition/staatssozialistische-marktwirtschaft-43764
+
+
+
+TECHNOESTATE
+ @Fine Flavour  Yes, so your legal contact -- i.e. lawyer / legal firm and box number -- please.
+
+
+
+FINE FLAVOUR
+ @TechnoEstate  Thats your part to find out :) what about the factlinks? not interested in them? yeah i thought so. okay, you are not necessarily a liar. there are three possibilities: 1. you had the worst profs in the whole country 2. you were the worst student in the whole country or 3. you are a liar.
+
+
+
+TECHNOESTATE
+ @Fine Flavour  No. If you're serious about calling me a liar and not some nutless basement polemic, then it's ***UP TO YOU*** to kindly provide your legal contact and box/client number (to ensure anonymity). Then my notary will send the contract to your lawyer/firm, we will both deposit the agreed sum -- e.g., €10k -- and once I provide the receipts that I have indeed studied the subject of German history in Germany, I get paid back my deposit plus your €10k, i.e., €20k in total. If I fail to provide the receipts, it's you who gets those €20k paid out from his/her firm. 
+I'm waiting.
+
+
+
+FINE FLAVOUR
+ @TechnoEstate  do you really think i'll play your childish little distraction game with you? maybe you've studied German HISTORY, but you have absolutely no clue of our economic system.
+
+
+
+TECHNOESTATE
+ @Fine Flavour  So, to summarize, please allow me to respond in your native language: 
+"BOGAAAACK! GACK! GACK! GACK! BOGAAAAACK!" 🐓🐓🐓 
+😁
+
+
+
+FINE FLAVOUR
+ @TechnoEstate  Ah, why didn't you say you are a clueless troll?
+
+
+
+MYRTHE66
+ @Fine Flavour  Ich nehme mal meine harten Worte zurück. Wir alle wissen, dass in unseren Schulbüchern und unseren Schulen kein Staatssozialismus gelehrt wird. Daraus folgt, dass die Geschichte mit dem deutschen Professor auch nicht stimmt. Mehr gibt es dazu nicht zu sagen.
+
+
+
+TECHNOESTATE
+ @myrthe66  @Fine Flavour hat sich mit seiner arroganten Anschuldigung bereits auf die Nase gelegt und als rückgratloser Feigling erwiesen. Das Angebot der notariellen Wette gilt auch für Dich. Bitte benenne einen Anwalt oder eine Kanzlei, die Dich in dieser Angelegenheit vertritt, und wir stellen ein für alle Mal klar, ob ich die Wahrheit sage. Ich warte.
+
+
+
+JULON KRUTOR
+ @TechnoEstate  Google translation? 
+... 
+Let's set a few facts straight: the healthcare system in Germany was introduced by Bismarck. He did it to counter the social Democrats witch he was suppressing at the time. He started with the Communists. Its at the moment a capitalist system with competition and regulations. 
+Now to the flag: Germanys 🇩🇪 is adopted from the student movement after WW2 . Before WW2 it was different. I recommend looking it up on Wikipedia. 
+Now the translations:
+Sozialstaat: It's a complex term and describes a state that takes a care of its peoples welfare while being capitalistic. The closes but not completely accurate translation is welfare state.
+Sozialismus: pretty much wath you think and most germans HATE it with a passion ... because the east of Germany had to live through it.
+Communism is even more radical.
+Why I know all this? 1. I am a German. 2. I have it in writing from government and the USA that my English is not bad. Good enough to command troops in battle - witch I never did but I was trained to do it. ... so you have a choice to make:believe me and the others or start learning German and we meet in Berlin I'm around 2 to 6 years.
+
+
+
+BOREDMARCUS
+ @TechnoEstate  ​ @TechnoEstate  By your definition, that Germany has a mixed economy and therefore is a socialist state, EVERY modern state is socialist, even the US. In the US there is also a public sector. That is smaller doesn't matter, you said yourself it's irrelevant if it's "sufficiently socialist". There is no 100% free market on this planet. If you studied this with A grades you should know this. It's actually you that's arguing semantics. Socialism is a political, social and economic philosophy with no clear definition, so arguing if and what type of socialism is practiced is actually the problem in arguing with americans and you're a prime example of what the OP meant. Because instead of arguing the point (here: is healthcare a good idea), this whole thread is about  if it's called a word and what word exactly. Because if certain ppl in the US don't have real arguments, the scream 'socialism' so no one notices they don't actually have good arguments.
+
+
+
+TECHNOESTATE
+ @julon krutor  lol Did you believe one can study humanities in Germany with flying colors and NOT be fluent in German? (BTW, I also won a notarial bet with some people online who doubted I'm fluent in three languages... wanna give it a try as well? 😚) 
+*"Germanys 🇩🇪 is adopted from the student movement after WW2"* 
+**Inaccurate and misleading**. The student movement's flag itself is based on the pre-WW2 flag, which is based on the ***revolutionary flag of the 1800s*** Hence ***the same frickin' layout & colors***. Your very first "correction" already reveals your insincerity. 😔 
+The term in question is neither "Sozialstaat" nor "Sozialismus" but **STAATSSOZIALISMUS**. Which is the proper term, as used by Bismarck himself. 
+Also, since you appear to take pride in your English prowess: it's spelled "which", not "witch". I hope you did not accidentally command your "battle troops" to make pyres and round up all womenfolk with cats at home... 😜
+
+
+
+BOREDMARCUS
+ @TechnoEstate  and btw, you're not even wrong about the fact that all these can be viewed as some forms of socialism, but the whole point of the debate is that modern systems like germanys are nowhere near what Americans mean, when they say socialism. They mean China(hilarious, could be called state capitalism today), USSR, GDR, but the US System and Germanys are only a few inches apart whereas 'socialist' systems like the 'planned economy' of the USSR was a completely different way of running an economy. And that is what the other ppl in this thread want to argue, even, and here I agree with you, they sometimes use the wrong terms. But you're actually unprecise yourself, like when you say Germany still has state socialism, the current economic form is called social market economy. And while Bismarck practiced state socialism he did so in a totalitarian state ruled by a king. This is a BIG difference, amreicans always think how you run youir economy is the problem, but in reality is how you run your political system. And what all these failed states had in common was not socialism, it was that they were totalitarian states! The political system from 1870/71 has nothing to do with the current one. And then you argue it has, because we still call someone chancellor. Do you think the King of Spain or Queen of England have the same power like 600 years ago? And you're even unprecise about the flag either in trying to tie 19th hundred Germany with it's state socialism to modern Germany. But this flag was actually used by ppl who opposed the monarchy and wanted a republic. So in no way it's in the tradition of this state and therefore you just can't say it's all the same.
+
+
+
+FINE FLAVOUR
+ @TechnoEstate  auf der Nase liegst nur du Spinner :) Wie ich schon sagte, vielleicht hast du hier Geschichte studiert. Von unserer Wirtschaftsform hast du null Plan, führst dich aber auf wie der Allwissende. Sinnloses, dümmliches Rumgetrolle. Deine Ablenkungsnummer a la "ICH RIPPE DIR JETZT GELD AB, HAHAHA!" hilft dir dabei null weiter. Kindischer geht es nicht mehr.
+
+
+
+TECHNOESTATE
+ @BoredMarcus  *"you just can't say it's all the same."* 
+**Strawman argument.** 
+Apples & oranges are not the same, yet they are **both fruits**. 
+Likewise,  **o b v i o u s l y**,  the Soviet-style authoritarian socialism of former East Germany (DDR) is not the same as Germany's democratic socialism today (i.e., Bismarck's State Socialism). ***Yet they are both forms of socialism***. The world ain't black&white, buddy. Sometimes, you do have to ***do*** the groundwork and figure out which fruits are poisonous and which are healthy... and not just condemn fruits altogether... and then pretend apples aren't fruits. 😜
+
+
+
+TECHNOESTATE
+ @Fine Flavour  🤣 🤣 🤣 Wie jetzt? Was jetzt? Ich dachte, Du hättest mich doch so kongenial als  Lügner überführt? Dann hättest doch DU MIR das "Geld abgerippt"? Du weißt schon, wie eine Wette funktioniert, so grundsätzlich, ja? Oder haste da genauso geschwänzt wie in Geschi und GK? Heimschulkind, wa? lol Nee, der eigentliche Kasus Knacksus ist eidifreilich, DASS DU DEINE STORY PLÖTZLICH SELBST NICHT MEHR GEGLAUBT HAST ALS ES UM KOHLE GING! Darum biste jetzt nur noch 'n ganz kleiner Furz mit Hut drauf. Stinken tuste aber immer noch -- Glückwunsch! Geh mal Deine Eier suchen, Du Versager! lol
+
+
+
+FINE FLAVOUR
+ @TechnoEstate  Oh da ist aber einer mad, weil ich seine Kindergartenspielchen nicht mitspiele :) Was ist denn mit dem seitenweisen geistigen Dünnschiss über angeblichen Staatssozialismus, den du Volldepp hier vom Stapel gelassen hast? Zwei Links und du Honk lenkst nur noch ab. Geh ordentlich kacken und dann zurück auf die Schulbank, du Looser!
+
+
+
+MYRTHE66
+ @TechnoEstate  I wish you and all of us peace.
+
+
+
+TECHNOESTATE
+ @myrthe66  Wir können die Wette gerne auf den Inhalt bundesdeutscher Geschichtsbücher ausweiten, damit auch Du Hauptschulabbrecher mal mitbekommst, was drinsteht! 😀 Tatsache ist aber, dass auch Du wie Dein Karnevalvereinskamerad da die Hosen voll hast, weil Du eben doch ahnst, dass Du die Wette krachend verlierst -- und das offenbart alleine Deine Schwäche. Geh Dir die Bux' wechseln, Du Spack! 
+💩   😝
+
+
+JULON KRUTOR
+ @TechnoEstate  Da sie angeblich so herausragend gute Deutschkenntnise vorweisen können, nun auf Deutsch. Dies sollte Missverständnissen vorbeugen.
+Die deutsche Flagge stammt von den Lützowschen Freikorps, oder Lützowschen Jägern die sich um 1817 in Deutschland gebildet haben. Die Frabe - Schwarz, Rot und Gold - wurden nach dem zweiten Weltkrieg als Bundesflagge übernommen. Dies wollte ich zum Ausdruck bringen. 
+Nun zum Staatssozialismus. Sie verwechseln hier eindeutig die Deutsche Demokratische Republik - kurz DDR - mit der Bundesrepublik Deutschland - kurz BRD. Erste war ein sozialistischer Staat, Zweitere war es nie. Tatsache ist auch, dass die Grundlagen des heutigen Sozialsystems von Otto von Bismarck eingeführt wurden - dem eisernen Kanzler - um den Sozialisten und Kommunisten Einhalt zu gebieten. Er nutzte eine Strategie des Zuckerbrots (Krankenversicherung, Rente, ect.) und Peitsche (Sozialistengesetzte) um diese zurückzudrängen.
+Das Zitat von Bismarck und Staatssozialismus konnte ich persönlich nicht finden. Selbst wenn er dies jedoch gesagt haben sollte - was ich bis ich ein Zitat aus glaubhafter Quelle vorliegen habe bezweifle - würde dies nichts über die heutige Regierungs- und Wirtschaftsordnung der BRD aussagen. 
+Artikel 20 Absatz 1 des Grundgesetzes besagt eindeutig: "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat." Nicht sozialistischer Bundesstaat, sondern sozialer. Die Lektüre des restlichen Grundgesetzes würde ihnen sicherlich zum Vorteil gereichen, daher hier ein Link:
+https://www.gesetze-im-internet.de/gg/art_1.html
+ Nun zu meinen Fehlern im Englischen ... Ich leide an einer Leserechtschreibschwäche. Daran kann ich nichts ändern. 
+"I hope you did not accidentally command your "battle troops" to make pyres and round up all womenfolk with cats at home... 😜" Sie können sich gern hierfür entschuldigen, wenn sie den Anstand dafür besitzen. Ich habe persönlich Männer ausgebildet die in Afghanistan gefallen sind. Ich habe gesehen wie Freunde und Kameraden aus dem Flieger stiegen und vollkommen andere Menschen waren. Ich war Offizier in der Bundeswehr und habe zusammen mit amerikanischen und französischen Soldaten gedient. Um einen dieser Männer zu zitieren "Fuck off or enlist yourself!". Außerdem habe ich klar gesagt, dass ich nie Männer und Frauen in ein echtes Gefecht geführt habe. Übungen, ja. Ein echtes Feuergefecht, nein. Mein 4443 im Englisch trotz meiner angeborenen Schwäche ist Aussage genug!
+
+
+
+J. HAUSCHILD
+It's a social market so technically it combines elements of socialism with a capitalist economic system. It  was installed by the US after WW2.
+
+
+
+PASCAL HEINRICH
+ @TechnoEstate  as German myself you speak nonsence. We call it Social state not socialism. What you say is very new to me you Schnitzel. We are far away from socialism and communism. We hate both od them.
+
+
+
+PASCAL HEINRICH
+ @TechnoEstate  we have an president but he is not very important the most time because of the shit that was happen in the time of Paul Hindenburg when he let Hitler gering chancellor. Thats why todays president have only representative status the most time. And we Used it because the one After that has the frickin swastika in it moron.
+
+
+
+BARATOR
+ @TechnoEstate  und warum lautet die Definition von staatssozialismus dann: "wirtschaftliches System, bei dem die Produktionsmittel Staatseigentum sind"
+
+
+
+TECHNOESTATE
+ @Barator  Weil Du entweder an der falschen Stelle nachgeschlagen oder nicht zu Ende gelesen hast. Hier geht es speziell um den Staatssozialismus bundesdeutscher, d.h. Bismarckscher Prägung, bei dem lediglich eine Teilverstaatlichung und ergänzend staatliche Regulierung privater Mittel stattfindet. Darum sind das im englischen Wikipedia auch zwei separate Artikel, und nur letzterer Staatssozialismus wird groß geschrieben.
+
+
+
+SIERRAFOX5418
+ @Jonathan S.  if you look it up on Wikipedia, you will find that there isn't even a common definition for socialism that is agreed upon by political scientists.
+
+
+
+ICE
+ @TechnoEstate  
+It is is really funny how you expose you stupidity.
+No need to answer.
+Greetings from Germany. :-)
+
+
+
+OLIVER DONDER
+Social and socialism are quite different things. In Germany we have a "Soziale Marktwirtschaft" -- "social market economy" and NOT sozialist market economy, its a "SOZIAL" form of kapitalism ... NOT a socialist. Who thinks Germany is a socialist state .... is (from european view) possible not good educated
+
+
+
+SLEEPINGCITY85
+Thats not true in my opinion. We have socialism parties, which dictate (not meant to be bad) the social system to a degree. Socialism is just the summed idea of all social aspects of our society. It is not the same socialism that Marx wrote of, that is another definition and not to be confused with.
+
+
+
+WITTY2U
+ @TechnoEstate 
+Oh my gosh... It seems that you are  not  understanding that there were TWO  German systems... Germany was devided after WW2.  into  two totally different countries, with two different political systems. 
+Now that Germany is reunited doesn't mean that Socialism runs the country, 
+We stayed what we were before and just because Frau Merkel  was born and raised in the socialism Germany state doesn't make her a Socialist either  nor has she turned us inti a Socialist State. 🤣
+
+
+
+TECHNOESTATE
+ @witty2u  What makes you believe that? I have been VERY clearly distinguishing between what happened in Soviet-led East Germany (DDR) and the continuation of Bismarck's State Socialism (BRD). Yes, those were TWO different, SOCIALIST systems: one Soviet-style authoritarian socialist, the other democratic socialist. It's like comparing apples & oranges: they BOTH are fruits, like it or not. 😉
+
+
+
+I P
+Klingt wohl zu ähnlich für den Amerikaner...lol
+
+
+
+MOELLE
+claiming german "sozial staat" to be socialism is as ridiculous as if u would say the "social" in "social media" stands for socialism aswell. .... if germany would actually be a socialist country, how come its GDP is in top 5 of the world? (while being such a small country)
+
+
+
+OMNIGEIL
+ @TechnoEstate complete nonsens. Absolut crap. The Bundesrepublik was created as capitalistic, democratic shield against the sowjets. By the western allies. Mostly by the US. Google "Soziale Marktwirdschaft" and "Verfassung BRD".  You get so buthurt whenever you hear the word social. Google that aswell and stop spreading bullshit on the internet.
+
+
+
+WITTY2U
+You don't understand socialism at all.
+It's been said a million times here....
+
+
+
+SIMON SAYS
+In Germany we have a "70% socialism".  And Berlin, where this is most pronounced, is the only capital in the world whose existence reduces the prosperity of the entire country.  Everything that bureaucrats in Germany plan and control always fails in the short or long term.  Germany rests on what was created in the second half of the 20th century with massive support from the USA, but is on the verge of collapse due to the submissiveness of its citizens, the lust for power and corruption of politicians and the state-crippled economy
+
+
+
+ROLAND
+ @TechnoEstate  West Germany never was a socialist Country! What are you talking about? You know that there were two german countries until the 90th? East Germany DDR and West Germany BRD. The BRD has established a system that is called Soziale Marktwirtschaft after WWII. Which translates to social market economy. And this has absolutly nothing to do with Socialism. We have capitalism just like in the USA. Get your facts straight.
+
+
+
+ALEXANDER KUPKE
+ @Roland  exactly, it is just that some interesting parts of actual socialism had been seen as beneficial and adopted in.
+So yes, there are elements of socialism in our public sector, while the main economy is based on capitalism.
+Which also makes any comparisons with other countries like Venezuela absolutely futile. If you would compare former eastern Germany to e.g. Venezuela, yeah, I might indeed agree.
+So it seems many Americans have an allergy on anything starting with social, as long as media is not the next word to follow. And it seems many condemn it because of the word and just because it has parts of socialism in it, just because of that.
+So our economy has elements of socialism in it? So what? Works fine for us. And it is not a bad thing and nothing comparable to socialism as we see and dislike it in other countries.
+
+
+
+PADA WAN
+ @TechnoEstate  the German named it freie soziale Marktwirtschaft means free social economy market 🤣🤣🤣 don't tell me how we named Something which we developed Sozialismus(socialism) is the same like Marxismus or Kommunismus. In german every word has his own definition not like in English 😉😉
+
+
+
+SASCHA 1979
+ @TechnoEstate  I don't agree with that. The "Staatssozialismus" was the system of the former GDR (Eastern Germany). This was a socialistic system but this has nothing to do with what we have now. We are a capitalistic country with a market that is regulated in some areas like out health system. It has absolutly nothing to do with socialism, it's just a comunity owned health system (which is by the way much cheaper for anyone with better service). I don't understand why a system like this shoud be socialistic. It's not tax payed, the people vote for the leadership of their health care insurance, you can choose between round about 40 different public health care insurances, they offer different things. Where is the socialism, I don't see it?
+
+
+
+SASCHA 1979
+ @TechnoEstate  I am a German, we never called it socialism. We call it social insurance not socialistic insurance. We definitly never called it Staatssozialismus in the beginnig because it was invented during monarchy and Staatssozialismus is a political system our health insurance system is not.
+
+
+
+SASCHA 1979
+ @TechnoEstate  We share this with countries like the US, too. For example, your postal service is public sector, too and I think there are a few more. So if Germany is on the same side then the cumunistic dictatorship like China, the US is on the same side, too. You may have a bad source for your information.
+
+
+
+SASCHA 1979
+ @TechnoEstate  Are you joking? The current German political system has nothing todo with any Pre-WW2 system. We have a federal-chancellor as head of the government wich is not the same as the imperial-chancellor like Bismark before WW1. We also have a (federal) president and 16 prime ministers in our federal states. We are a full democracy, in many aspects even more democratic then the US. 
+Why has the US still Gouverneurs, these position was designed in a time where kings ruled the world an Govuerneurs leaded a colony. Is the US still a monarchy?
+
+
+
+PADA WAN
+ @TechnoEstate  🤣🤣🤣🤣 china, Bolivia or Venezuela nope we share it with Swiss and Austria cause the economic form are the same free social economy market in german I would say haste nicht gelernt Trottel 🤣🤣
+
+
+
+SASCHA 1979
+ @TechnoEstate  You got A grades in Germany? This is funny, because we don't use letters for grades at our universities. That was the profession of your German professor? Cooking? He obviously gave you a lot of wrong information. If you look at the meaning of Staatssozialismus you need 5-10 seconds to see that this has nothing in common with the German system.
+
+
+
+K H
+ @TechnoEstate  Du weißt schon, dass wir noch eine Monarchie und keine Republik waren, als Bismarck Kanzler war? Und das sich das erst mit der Weimarer Republik nach dem WWI geändert hat. Ja, die Weimarer Republik wurde als "freie sozialistische Republik Deutschland" ausgerufen und kollabierte 1932 und wurde durch das Deutsche Reich (später auch 3. Reich) ersetzt.
+Seit Mai 1949 ist die BRD (seit November 1989 auch die ehem. DDR) ein demokratischer, sozialer Bundesstaat (Grundgesetz Art. 20) mit einer freien (sozialen) Marktwirtschaft. Einige Bereiche, die frührer staatlich waren, sind es heute nicht mehr. Im Prinzip sind selbst die Sozialversicherungen mittlerweile normale Wirtschaftsbetriebe...
+Und was unsere Fahne anbelangt, sind die Farben und unser Wappentier (Stilisierter Adler) an das Römische Reich angelehnt.
+
+
+
+DMZDARKWATER
+ @TechnoEstate  bin voll deiner meinung, da ich meine, dass in der "kalten krieg" ära man in der brd die "sozialistische" nomenklatur auf "sozial" gekürzt hat, gerade um sich von der ostseite zu differenzieren, als auch damit man vom staat oder andere staaten nicht bedingt als "feind" der demokratie eingestuft wird. da war die änderung des parteibuches der spd in den 50er, wo sozialistische bezeichnungen zu sozial geändert wurden, da die spd von der brd und besonders von der cdu unter beobachtung stand, sowie die linkspartei in den letzten 15 jahren - eine wortänderung ändert erstmal nicht die definition, zumindest in der deutschen sprache, sondern ist mehr eine anpassung an der sozialgesellschafftlichen betrachtungsweise (siehste was ich da gemacht habe? die änderung/anpassung der deutschen rechtschreibung ende der 90er war eine "soziale" umstellung und keine demokratische, da das was geändert werden sollte nicht wirklich zur debatte stand als auch "allen" dienen sollte die deutsche rechtschreibung besser verstehen zu können XD)
+
+
+
+OMICON
+ @TechnoEstate  You should do a little more digging. the System we live in since WWII is called "Soziale Marktwirtschaft" which translates to "social marked economy". Everybody has to contribute to the system according to their ability and up to a certain limit. Sick people cost society because they cannot be productive. Just like in the Military. So you at least have to be able to see a doctor who cures you, so you can again contribute to society. That and our collective buying power is why our system is not just cheaper to operate but has also a Bonus as a side effect; the whole population in total being more productive. It just takes you a little longer to make just as much money but as a side effect people around you don't starve and are a constant treat of raiding your house because that is the only way to have a little of what you have.
+
+
+
+ALEX S.
+In Europe even the right partys support state health insurance. The amount of it is what might make it sozialism. F. ex. ideas about installing unconditional basic income...
+
+
+
+TECHNOESTATE
+ @K H  Du weißt schon, dass die Deutschen vor 2007 keine Smartphones hatten? 
+***Trotzdem*** haben sie noch immer einen Kanzler/Kanzlerin, die Nationalfarben Schwarz-Rot-Gold aus den 1800ern, eine Sozialversicherung, eine Raiffeisenbank, eine Gewerkschaft Nahrung und Gastronomie... und und und. Manche Dinge fallen weg, andere kommen hinzu, und wieder andere dauern einfach fort. Wer hätte das gedacht? 😏
+
+
+
+TECHNOESTATE
+ @Omicon  *"the System we live in since WWII is called "Soziale Marktwirtschaft" [...] Everybody has to contribute to the system according to their ability"*
+**“From each according to their ability, to each according to their needs.”**
+—Karl Marx 
+Weren't you trying to prove Germany's system ***not*** be socialism? Oops? 🤭🤫
+
+
+
+TECHNOESTATE
+ @dmzdarkwater  Volle Zustimmung! Endlich jemand außer mir, der diesen offenkundigen Etikettenschwindel, der hier betrieben wird, durchschaut.
+
+
+
+DMZDARKWATER
+ @TechnoEstate  jo, und da muss ich andere zum teil verteidigen, da 1. die allgemeine schulbildung IN deutschland das NICHT unterrichtet (erst dann, wenn man auf der oberschule bereits eine höhere bildung anstrebt, dh. gymnasien unterrichten fast auschließlich dieses info (das gilt auch für andere unterrichtsstoffe wie chemie) aber halt nicht selbstverständlich auf sekundarschulen (real- sowie hauptschulen)) und 2. der "sozialismus-paranoia" die nach 3 generationen immernoch besteht, gerade weil die bildung dann fehlt als auch die einstellung - "wir im westen hatten freiere marktwirtschaften, deshalb KANN KEIN sozialismus darin verankert sein", was einfach nicht stimmt. ALLES was auf ein kollektives, gemeinsames sowie an einem strang ziehendes zusammenleben zusteuert ist eine form von sozialismus. gleichzeitig kennen viele menschen den unterschied zwischen sozialismus und kommunismus nicht und verbinden die beiden begriffen bis zu dem punkt, dass man davon ausgeht, dass die beiden das selbe ist, ein fehler den man gerade in der usa macht.
+further in english: as a german-american who has the dual-citizenship and has lived in both countries and has also voted mutiple times for both countries, i am glad to be living in germany currently because as someone with autism i have better medical care, while i have the states support to still be contributing to society.
+the federal republic of germany is a somewhat "socialist-democracy" where during the cold war people in west-germany out of fear being compared to the eastern block states declared everything with "socialism" to plain "social". it was just a re-branding of word, but not changing the definition. the SPD in germany was heavily under suspison of repeating the KPD (the party that turned into the NSDAP) - that's where the SPD changed their party-agenda from socialist to social WITHOUT changing the definition and then everything was "fine" with everybody and almost the only people who get to learn this in germany are those who go to higher educational schools (the gymnasium), those who then qualify for university, because it's the only point in german education where it is being taught, which is a major german flaw in education - those who don't go to university don't need the entire information, just so much to be a functional part of society and still not be complete sheeps of uneducated people (which contradicts with germany's "theoretical" policy that everyone should recieve the same education). that's why so many germans fight about this topic
+
+
+
+DMZDARKWATER
+Established in 1863, the SPD is by far the oldest existing political party represented in the Bundestag and was one of the first Marxist-influenced parties in the world. From the 1890s through the early 20th century, the SPD was Europe's largest Marxist party and was consistently the most popular party in Germany. During the First World War, the party split between a pro-war mainstream and the anti-war Independent Social Democratic Party, of which some members went on to form the Communist Party of Germany (KPD). The SPD played a leading role in the German Revolution of 1918–1919 and was chiefly responsible for the foundation of the Weimar Republic. SPD politician Friedrich Ebert served as the first President of Germany and the SPD was the strongest party until 1932. After the rise of the Nazi Party to power it was the only party in the Reichstag to vote against the Enabling Act of 1933; the SPD was subsequently banned, and operated in exile as the Sopade.
+After the Second World War, the SPD was re-established. In East Germany, it was forced to merge with the KPD to form the Socialist Unity Party of Germany. In West Germany, the SPD became one of two major parties alongside the CDU/CSU. In the Godesberg Program, the SPD dropped its commitment to Marxism, becoming a big tent party of the centre-left. The SPD led the federal government from 1969 to 1982 and again from 1998 to 2005. It served as a junior partner to the CDU/CSU from 1966 to 1969, 2005 to 2009 and again since 2013.
+The SPD holds pro-EU stances and is a member of the Party of European Socialists and sits with the Progressive Alliance of Socialists and Democrats group in the European Parliament. With 16 MEPs, it is the third largest party in the group. The SPD was a founding member of the Socialist International, but the party left in 2013 after criticising its acceptance of authoritarian parties. The SPD subsequently founded the Progressive Alliance and was joined by numerous other parties around the world. Previously, the SPD was a founding member of both the Second International and the Labour and Socialist International. (from wikipedia over the SPD party in germany)
+
+
+
+OMICON
+What is your definition of humanitarian?
+
+
+
+DMZDARKWATER
+ @Omicon  that's a good question, almost the best in this discussion
+being a humanitarian (or humanitarianism) is more a moral ideology that bases on equality for all and stems from various religions that promote the idea that all humans (and in some cases all living beings) are equal in the right of having a secured life and a base of quality of life.
+while that does somewaht align with the defintion of socialsm, there are remarkable differences and socialism include other things as well, such as the responsiblilty of power to include others in topics like economy, education, political structuring, where humanitarianism concentrates more on the wellfare of everyone and securing that (as well as spreading that) ideology
+
+
+
+OMNIGEIL
+ @dmzdarkwater  So lächerlich....
+
+
+
+DMZDARKWATER
+ @omnigeil  weil?
+
+
+
+OMNIGEIL
+ @dmzdarkwater  der zweite Weltkrieg ging absolut nahtlos in den kalten Krieg über. Die BRD ist von den westlichem Siegermächten als kapitalistischer Gegenpol gegen den Kommunismus/Sozialismus der DDR angelegt worden. Jede Form von 'Sozialismus' hätten die Amerikaner unterbunden.
+
+
+
+OMNIGEIL
+ @dmzdarkwater  Du überschätzt die deutschen Befugnisse massiv. Der Marshallplan hatte einen Sinn.
+
+
+
+DMZDARKWATER
+ @omnigeil  lese meine letzten 3 Posts durch, du bestätigst meine Aussage 🤣🤣🤣
+Nochmal in kurz und ungenau und undetailliert: aus Angst wurde „sozial-demokratisch“ gesagt, aber sozialistisch-demokratisch gehandelt was versteht man bei den ganzen Infos und Belege nicht
+
+
+
+DMZDARKWATER
+ @omnigeil  noch ein letztes Mal, die Belege sind da und die Informationen sind ausführlich, wenn man es nochmal anders bezeichnen will: die brd und das heutige Deutschland ist eine parlamentarische Republik mit unter anderem sozialistische Gesetzeszüge
+
+
+
+K H
+​ @TechnoEstate  Richtig. Ich versteh nur nicht warum du dich so auf den Kanzler fest beißt. Was hat der Kanzler von heute in deinen Augen mit Bismarck zu tun außer, dass der Begriff der gleiche ist? Das Grundsystem ist ein anderes.
+Worauf ich hinaus will ist, nach dem 3. Reich war die Neugründung der deutschen Staaten unter den Alliierten wie ein Neustart. Klar hat man sich genau überlegt wie man die neuen Staaten organisieren will. Und am Anfang war das mit der Sozialversicherung in der BRD auch wahrscheinlich so gedacht, wie du es beschreibst. Weil es auch einfach Notwendig war.
+"“From each according to their ability, to each according to their needs.” 
+—Karl Marx 
+Weren't you trying to prove Germany's system not be socialism? Oops? 🤭🤫"
+Wenn es denn heute noch ganau so wäre... 
+Rentenversicherung muss immer öfter zusätzlich privat abgeschlossen werden, weil die staatliche nicht reichen wird. 
+Krankenversicherung gibt es für bestimmte Einkommensgruppen nur als private KV oder als freiwilliges Modell, was unterschiedliche Kosten für Versicherte bringt.
+Dazu sind die Anteile der Arbeitgeber heute niedriger als die des Arbeitnehmers. Bis vor ein paar Jahren war es noch 50/50.
+Ich glaub nur bei der Arbeitslosenversicherung wurde, außer das es seit 2005 "Hartz IV" gibt, an den Beiträgen nichts verändert.
+Und es gibt Berufsgruppen, die in die Sozialversicherung nichts einzahlen und trotzdem volle Ansprüche haben. Und da liegt es nicht daran, dass sie es nicht könnten. Es ist einfach nicht vorgesehen. Wo ist das sozialistisch?
+Um nochmal den Bezug zum Video zu bekommen:
+Es interessiert nur am Rande wie das in der Vergangenheit geplant war und begonnen hat. Wie es heute ist, ist entscheidend.
+
+
+
+K H
+ @TechnoEstate  "Du weißt schon, dass die Deutschen vor 2007 keine Smartphones hatten?" Ja, weiß ich.
+"Trotzdem haben sie noch immer einen Kanzler/Kanzlerin..." seit 1949 wieder, ja.
+"...die Nationalfarben Schwarz-Rot-Gold aus den 1800ern..." ja.
+"...eine Sozialversicherung..." (siehe voriges Kommentar) ja.
+"...eine Raiffeisenbank..." und Sparkassen die alle als reine Wirtschaftsunternehmen agieren, anders als es eigendlich gedacht ist, ja.
+"...eine Gewerkschaft..."  sogar diverse, ja.
+"Nahrung und Gastronomie... und und und." ja.
+Bedeutung Sozialismus gem. DUDEN:
+1. (nach Karl Marx die dem Kommunismus vorausgehende) Entwicklungsstufe, die auf gesellschaftlichen oder staatlichen Besitz der Produktionsmittel und eine gerechte Verteilung der Güter an alle Mitglieder der Gemeinschaft hinzielt
+2. politische Richtung, Bewegung, die den gesellschaftlichen Besitz der Produktionsmittel und die Kontrolle der Warenproduktion und -verteilung verficht
+Wenn wir heute hier in der BRD einen Sozialismus hätten, sähe die Gesellschaft anders aus. Das Ost-Westgefälle gäbe es nicht. Der Mittelstand, der die wichtigste wirtschaaftliche Säule ist, würde nicht wegbrechen. Und die Besteuerung von Vermögen sähe anders aus. Was ich alles nicht schlimm fände.
+Wenn das für dich immernoch sozialistische Züge hat, kann man das der USA auch unterstellen...
+
+
+
+TECHNOESTATE
+ @K H  Auf den Kanzler hast ja nun ***Du*** Dich eingeschossen. 😉 Ich hingegen habe ja einige weitere Beispiele für die von Dir geleugnete Kontinuität des Vorkriegsdeutschlands in der heutigen Bundesrepublik genannt (Schwarz-Rot-Gold, die SPD, die NGG, die Raiffeisenbank). 
+Brauchst Dich auch hier nicht auf mein Wort alleine zu verlassen. Im deutschen Wikipedia-Artikel zum Reichskanzler steht dazu Folgendes: 
+“Die Amtsbezeichnung des Regierungschefs der Bundesrepublik Deutschland ist seit 1949 – **in bewusster Anlehnung an die Tradition sowie der staatsrechtlichen Kontinuität und völkerrechtlichen Identität des deutschen Staates zum Norddeutschen Bund und Deutschen Reich** – „Bundeskanzler“.” 
+Hört, hört! 😏 
+*"Worauf ich hinaus will ist, nach dem 3. Reich war die Neugründung der deutschen Staaten unter den Alliierten wie ein Neustart."*
+Das ist eben ein Irrtum. 
+Genauso wie Japan seinen Kaiser behielt und damit bewusst an der Meiji-Periode der friedlichen, nicht-imperialistischen Modernisierung des Landes anknüpfte (Der Kaiser war vor jener Periode über drei Jahrhunderte lang praktisch machtlos, war also durchaus eine Ikone des "modernen Japans".), so tat man dies auch in Deutschland mit Bezug auf das "Zweite Reich" und die Weimarer Republik. 
+*"Wenn es denn heute noch ganau so wäre..."* 
+Tja... wäre es vielleicht, wenn die Deutschen nicht so einen Schiss vor dem Etikett "Sozialismus" hätten, wie das hier im Thread (und ja auch bei Dir) zu Tage tritt -- einschließlich ihres eigenen, dem Bismarckschen Staatssozialismus. Aber wer sich seiner Geschichte und seiner Umstände nicht bewusst ist und die Dinge nicht beim Namen nennt, der lässt sich eben schleichend mehr und mehr Privatisierung und Sozialabbau unterschieben -- wie in Deutschland seit den 1990ern verstärkt der Fall. :schulterzuck:
+
+
+K T
+ @Hovawartfreunde  we don't have a constitution in case you didn't realize.
+The Grundgesetz is a remnant of our past as occupied country. We shouldc have gotten a real constitution in the early 2000s according to the old occupation laws (that still exist BTW and stand above the GG) but for some reason our politicians simply ignored it and continued as if nothing happened.
+
+
+
+K T
+ @Pascal Heinrich  ah yes the unimportant president that has the final veto to ANY LAW PASSED BY THE GOVERNMENT!
+Jesus! What is it with you ignorant people and parroting completely false statements?
+Yes the president is mostly representative but his obligations and powers are the most important of all political positions in Germany.
+
+
+
+K T
+ @moelle  social media is filled with hammer and sickle emojis and pink haired champagne socialists so your statement is kind of ironic...
+
+
+
+K T
+ @NuclearSavety  oh the irony of mentioning starvation and the soviet Republic in the same sentence....
+
+
+
+OMNIGEIL
+ @dmzdarkwater  je rechter man ist, je mehr hat man Angst vor allem, wo 'sozial' vorne dran steht. Ich glaub, das ist einfach hier das Problem. Gab ja auch keinerlei Untwrschiede zwischen BRD und DDR, gell?
+
+
+
+K H
+ @TechnoEstate  Das der Begriff "Bundeskanzler" wieder aufgegriffen wurde, habe ich nicht geleugnet. Und du hattest ihn in anderen Komments in Bezug gesetzt bevor ich überhaupt was geschrieben hatte. Und damit ich dich dann auch korrekt verstehe, fass bitte mal zusammen, was du unter dem "Bismarckschen Staatssozialismus" verstehst. Ich glaube wir reden aneinander vorbei.
+Das für Deutschland das Ende des WW2 ein Neuanfang war, ist also Falsch. Es hat nichts abrupt geendet und was anderes begonnen, ist klar!
+Ich rede nicht von Japan, denn kein anders Land war in vier Besatzungszonen unterteilt, wo die Interessen der jeweiligen Besatzer unterschiedlicher nicht hätten sein können.
+Ich für meinen Teil, habe keine Angst vor dem Begriff "Sozialismus" oder in einem sozialistischen Staat zu leben. Das siehst du leider falsch.
+Aber nochmal: Im Video geht es um den IST-Zustand in der heutigen BRD, nicht um das was mal war.
+Dazu denke ich auch, was die wirtschaftlichen Veränderungen anbelangt, waren sie aufgrund der Entstehung und Formung der EU und der Globalisierung teils zwingend und teils hätte man deutlich mehr gegensteuern müssen.
+
+
+
+DMZDARKWATER
+ @omnigeil  joa, könnte oberflächlich erstmal als zutreffend gelten.
+ich verstehe den zusammenhang der frage nicht so richtig, meinst du das im zusammenhang mit rechten gedankengut? dann muss ich dir auf jeden fall recht geben, in der usa ist auch nicht anders, selbst ein paar meiner verwandten  dort, nicht mal 100km von chicago entfernt, sie sind übelst tolerant und weltoffen, ABER es gibt bei den einigen immer eine sache die das widerspricht (einer meine eingeheirateten tanten hat 15 jahre "crack-babies" gepflegt - zuhause und liebevoll wie eine löwin-mutter, bezeichnete aber obama als affen - nicht nachvollziehbar)
+ich glaube wir ALLE können uns darauf einigen, dass der kalte krieg soviel versaut hat auf so vielen ebenen, und das spürt man bis heute / i think we can ALL agree that the cold war destroyed so many things on so many levels, which we still live with today
+
+
+
+THATTOBITHOUGH
+ @Cain Soles  Lustiger Weise leben wir in nem konservativen Wohlfahrtsstaat und nichtmal in einem sozialdemokratischen; und trotzdem rasten die Amis aus wie sonst was
+
+
+
+THATTOBITHOUGH
+ @TechnoEstate  https://www.bpb.de/nachschlagen/lexika/pocket-politik/16561/sozialstaat
+"And I know for a fact that current German school books also teach about Staatssozialismus and how it is the basis of modern Germany's Soziale Marktwirtschaft" idk about you but in my school we used the definitions which were given out by our own state, the bpb
+
+
+
+THATTOBITHOUGH
+ @TechnoEstate   Since I haven't seen this point in the argument, one question: What do you define as Sozialstaat and what do you define as Staatssozialismus?
+You alwaays mentioned how you clearly differentiate between the two but maybe we could make this a little bit more clear if you told us what these two words mean to you.
+By definition Germany is a conservative welfare state, such as many western european countries.
+Skandinavia is almost entirely a (social democratic? couldn't find a translation but you seem to understand german so just search for it on the bpb) welfare state and
+the USA or Canada are liberal welfare states
+We do pay almost as much as social democratic welfare states and certainly above average for a conservative one but we still are one.
+Since you stated that you were so certain that we learn this in school, this was part of my Abitur from a few weeks back and this model of welfare states was created by Esping-Andersen. Cant be that wrong since I passed
+
+
+
+KEVIN
+Ah, well USA is already factually a 3rd world country. In a few years, who really cares about the USA? Let them have civil uproar because a pedophilia GOP member wasn't elected or a Democrat member tried to advocate Darwinism and got shot by true believers.
+
+
+
+TECHNOESTATE
+ @ThatTobiThough  I have never claimed to clearly differentiate between Sozialstaat and Staatssozialismus. In relation to Germany, both terms are virtually synonymous, but that doesn't change the fact that Staatssozialismus is the proper original term, as used by the system's architect, Bismarck, himself, and that the term Sozialstaat is a ***fig leaf*** later introduced to hide that fact (see also @dmzdarkwater's comments above). And no: Germany is most certainly ***not*** a conservative welfare state. A conservative state does not have its "conservative" party join the Green Party in declaring the ATOMAUSSTIEG. As others have already pointed out: even the nominally "conservative" parties in Germany (and most of Europe) are actually on the ***left half*** of the political spectrum.
+
+
+
+TECHNOESTATE
+ @K H  *"fass bitte mal zusammen, was du unter dem "Bismarckschen Staatssozialismus" verstehst."*
+Diese URL hatte ich bereits eingangs gepostet: **en . wikipedia . org/wiki/State Socialism (Germany)**
+Siehe dazu auch die entsprechenden Passagen unter: **de . wikipedia . org/wiki/Staatssozialismus** -- speziell die letzten beiden Absätze im Haupttext.
+
+
+
+LIGHTBARON
+ @TechnoEstate  It seems that you should have taken a few courses in linguistics together with your history courses. Maybe then somebody would have told you how definitions of words can change over the course of time. Because language itself is a living thing and it transforms in its use with the passing of time. A definition of a word from around 150 years ago can often not be compared to it's definition nowadays. Even moreso if said word (socialism) had over 260 different definitions at some point during that time. The 260, btw. come from the number of definitions for the term collected by sociologist Werner Sombart in the 1920s. 
+Even if you don't differentiate between Sozialstaat and Staatssozialismus there is a clear difference between them in the definition of socialism as it is widely in use today, which is often associated with countries like China, the DDR or Venezuela and the definition of socialism to the time of chancelor Bismarck, which basically was an inexistent mess, because nobody could agree on a definition for it. Even Marx and Engels at first prefered to use the term of communism for their ideals as they believed communism to be a system born from the worker class while socialism was a system born from the bourgeoisie, people who, in the wake of the industrial modernization, got to obtain the means of production and wanted to protect the accompanying capital from nobility and royalty.
+It is, after all, called the Communist Manifesto and not the Socialist Manifesto which was published by them in 1848, even though nowadays Marxism is seen as a socialist ideology and not a communist one after they adapted their understandings and interpretations of the terms socialism and communism based on the experiences they had during their lifetime and their work on the topic. A clear point that even their own definition of what makes something socialist or communist has changed during their lifetime and in the span of a few decades.
+Even if Bismarck called the health-care package back then part of a "state socialist system", due to the evolution of the meaning the term socialism itself has went through in that timespan of over a century it is no longer applicable to the systems used widely across europe and arguing otherwise is building an argument based on an outdated definition of the word socialism itself. Now those definitions of socialism still have their place if you study history (which you apparently did) and look at them in the appropriate timeframe, but arguing that the term socialism (by itself or in combination with other terms) still fits to describe systems of social welfare as used in the current day Europe is semantically incorrect as it puts those countries on the same level with countries defined by a current day definition as socialist like the DPRK, the USSR or the GDR for example.
+Oxford dictionary currently defines socialism as: "a set of political and economic theories based on the belief that everyone has an equal right to a share of a country's wealth and that the government should own and control the main industries"
+While wikipedia states: "Socialism is a political, social, and economic philosophy encompassing a range of economic and social systems characterised by social ownership of the means of production."
+Neither of which is true for the many European countries with a social welfare system and which disqualifies them from being socialist by present definition of the term. Though who knows if that might change again if another 100 or 150 years pass.
+
+
+
+MUSICCER
+ @TechnoEstate  honestly man, I am just going to delete my other comments because first, there is no sense in this discussion, and second, you are a damn great troll. Managed to piss of literally everyone.
+Just a tip, if you are serious you should never base arguments on a large crowd of people agreeing with what you say. Because looking at this comment section you would be dead wrong
+
+
+
+BURKHARD PROKSCH
+ @NuclearSavety  That is why Germany is a welfare state and not a socialist state. Social means common, socialist means oppression of the human being.
+
+
+
+ROMANPUL
+ @TechnoEstate  You have no idea what you are talking about. I‘m German and I lived in both the US and Venezuela. Venezuela is a country with a strongly divided society consisting of a rich upper class, which makes up the corrupt and cleptocratic government and a extremely poor lower class. Their understanding of socialism is stealing everything from the economy to put it into the pockets of the upper class and leave the rest to rot. This has absolutely nothing to do with the way the german welfare system works were the state provides a healthcare and retirementsystem which you are free to leave as you please and look for alternatives on the free market
+
+
+
+BIDEN 4 PRISON
+we have plenty of socialism dude
+
+
+
+BIDEN 4 PRISON
+"Mietpreisbremse" and "Mindestlohn" are both socialist policies. Plenty more examples.
+
+
+
+BIDEN 4 PRISON
+ @RetroRainer  Our german education system is rotten and broken, only leftwing idiology professors indoctrinating our children to be woke etc. Also we pay way too much in taxes.
+
+
+
+ROMANPUL
+ @Biden 4 Prison  Funny that the US had minimum wages way before Germany. And they are not socialist policies they are regulations
+
+
+
+BIDEN 4 PRISON
+ @romanpul  They are socialist policies my guy. And they suck. They don't work and ruin job chances especially for young people who are just entering the work force. But lefties don't want to think about that.
+
+
+
+LLORTNEROF
+ @Biden 4 Prison  Do you have any grounded criticisms, or are you just here to regurgitate tired old debunked claims?
+Sure, the german education system has issues... but they're mostly right-wing costcutting cloaked with a thin veneer of pseudo-socialism. I can guarantee your children won't get indoctrinated by left-wing professors, too. Professors are exclusive to universities. They don't teach in schools.
+
+
+
+ATOOK774
+ @TechnoEstate  
+It‘s not.
+
+
+
+ATOOK774
+ @TechnoEstate  
+Bernie Sanders is not German. So we don't care what he calls any system.
+You are also a product of US educational policy.
+
+
+
+TECHNOESTATE
+ @Llortnerof  *"but they're mostly right-wing costcutting cloaked with a thin veneer of pseudo-socialism."* 
+Wait... what? 🤔 I'm 100% on your side in disagreeing with @Biden 4 Prison (though Biden ***should*** probably be in prison), but which one is it? **Do the issues stem from right-wing costcutting OR from socialism/welfare, i.e., from funding public education socially?** You can't have both. 
+Hier nochmals für Deutschländer Würstchen: 
+Moment... wie bitte? 🤔 Bin ja 100% auf Deiner Seite, @Biden 4 Prison zu widersprechen (obwohl Biden wohl tatsächlich in den Knast gehört), aber was isset denn nun? **Stammen die Probleme des deutschen Bildungswesens vom rechtskonservativen Streichen der Mittel ODER von der sozialistisch/wohlfahrtstaatlichen Finanzierung derselben?** Beides gleichzeitig geht nicht!
+
+
+
+TECHNOESTATE
+ @Atook774  Again: my knowledge stems from studying the subject IN GERMANY. I'm not even a US citizen! Been to the US once for, like, two weeks? 😅 If I'm "a product of US educational policy", then so are you... though this would explain why you're so afraid of socialism... while it would not at all explain why I'm the one in favor of it. Odd, isn't it? 😉
+
+
+
+ATOOK774
+ @Fine Flavour  
+Lass ihn doch. Der Typ ist einfach ein ungebildeter Hinterwäldler.
+Irgendwo aus der hintersten Ecke.
+Wahrscheinlich sind in seinem Stammbaum alle miteinander blutsverwandt.
+
+
+
+ATOOK774
+ @TechnoEstate  
+Du bist nur ein kleiner Troll, der keine Ahnung hat und es hier immer und immer wieder zur Schau stellt.
+Wahrscheinlich bist du einer dieser Quarkdenker oder Reichsbürger.
+Deine verquere Gesinnung und deine mehr als dümmlichen Definitionen würde dazu passen.
+
+
+
+WOLF B
+Do not even try to explain the difference. The term "social" defaults to "socialism" in the common American mind, and only the very open minded ones are willing to overwrite their (oops)"social" conditioning. I've lived 16 y in the USA, and "social" is simply not a concept there.
+
+
+
+TECHNOESTATE
+ @Atook774  Eine köstliche Ironie, dass Du getretener Dackel andere als "Troll" zu beschimpfen berechtigt zu sein glaubst, deren nachweisbaren, Dich entlarvenden Fakten und Belegen Du mit Schaum vorm Mund nichts als Schimpfereien, persönliche Angriffe und -- durch die Bank falsche -- Mutmaßungen entgegenkleffst. Gute Nacht, Deutschland!
+
+
+
+LLORTNEROF
+ @TechnoEstate  Steht da doch. Rechtskonservativ unter einem dünnen Deckchen aus Pseudosozialismus versteckt.
+
+
+
+WITTY2U
+ @Simon says 
+As a German you should not use the wrong terminology, because it's not socialism.
+First we are a Republic, with a social democratic order, and our economy is somewhat between a free - and a social, market economy. 
+Socialism does not know private businesses or companies - all belongs to the State. There is no competition. Government  dictates the production ( what is produced and the amount) and the distribution. These Countries  followed a strict 5 years plan.
+
+
+
+TECHNOESTATE
+ @Llortnerof  Aber seit wann haben rechtskonservative Kostenstreichungen auch nur einen entfernt sozialistischen Anschein? 🤔 Wenn, dann richten sich solche Maßnahmen gerade ausdrücklich GEGEN den "pösen, pösen" Sozialismus. Hab noch nie gehört, dass das irgendwer in D (oder USA) als "Sozialismus" verkauft.
+
+
+
+LLORTNEROF
+ @TechnoEstate  Seit man sie an tendenziell eher sozial aufgestellte Menschen verkaufen muß. Lehrer z.B..
+Das sie inhaltlich nicht die Bohne sozial sind ist ja nun keine große Überraschung sondern der Punkt um den es geht.
+Aber wer in D Lehrer wird heutzutage hat sowieso nicht mehr alle Tassen im Schrank. Vor allem Grundschullehrer. Unterbezahlt, überarbeitet und nicht geachtet. Die verdienen kaum mehr als im letzten Jahrtausend, schon garnicht wenn man die Inflation rausrechnet. Vor ein paar Jahren war es sogar weniger, bei gleichzeitig mehr Arbeit weil Hausmeister und ähnliche Hilfsstellen abgebaut wurden und das jetzt auch von Lehrern gemacht werden muß.
+
+
+
+ANSON
+ @TechnoEstate  what is the american abbreviation SSN ?
+Socialist Security Number ???
+then why do so many people translate like this:
+sozial = socialistic = communist ? and not sozial = social ?
+and when having a social(istic) health insurance is so bad, why do americans still allow ANY insurance where many people pay a bit and some who got unlucky (be it accidents, car accidents, floods, hurricanes, whatever) get paid from that collected money ?
+
+
+
+TECHNOESTATE
+ @Anson  🤔 Why are you asking me all that? Who said socialized healthcare be a bad thing? And yes: that's a good question regarding the basic concept of insurances altogether that I do hope you get to ask an actual (US-)American! 😌
+
+
+
+K H
+ @TechnoEstate  
+Aus deiner Quelle "de . wikipedia . org/wiki/Staatssozialismus" 
+Erster Absatz:
+"Staatssozialismus ist eine Begriffsvariante des Sozialismus, die sich auf die Verstaatlichung der Produktionsmittel und des politischen Monopols bezieht. Staatssozialismus wird oft einfach nur als „Sozialismus“ bezeichnet. Das Attribut „Staat“ wird vor allem verwendet, um die sich als sozialistisch bezeichnenden Staaten des ehemaligen Warschauer Pakt, der Volksrepublik China und anderen von demokratischen, anti-autoritären oder staatskritischen sozialistischen Bewegungen und Theorien zu unterscheiden."
+Begriffsgeschichte letzter Absatz:
+"Heute unterstützen viele linksgerichtete europäische Parteien verschiedene Formen der Verstaatlichung in der Form des demokratischen Sozialismus. Viele dieser zumeist gemäßigten sozialistischen Parteien negieren jedoch die Überwindung des Kapitalismus in Form einer sozialistischen Revolution, sie befürworten somit einen Weiterbestehen des kapitalistischen Staates, jedoch mit erweiterten sozialen Komponenten."
+WICHTIG (letzter Satz): "Dies wird häufig auch als Staatssozialismus bezeichnet, ist letztendlich aber eine Variante der Sozialdemokratie, der Idee den Kapitalismus durch wohlfahrtsstaatliche Maßnahmen zu „zähmen“."
+Mal ganz davon abgesehen, dass Wikipedia nicht die zuverlässigste Quelle ist, hast du mit dieser Quelle deine Aussage selbst negiert. Wenn die vorhandenen Bedingungen nicht der Definition eines Begriffs entsprechen, trifft der Begriff nicht zu!
+Das habe ich dir in meinen Kommentaren versucht klar zu machen.
+Wir haben KEINEN Staatssozialismus, wir haben eine Sozialdemokratie. Auch wenn manche Elemente aus dem Sozialismus übernommen wurden.
+
+
+
+RANDYMAHNKE
+ @TechnoEstate  ich empfehle dir ein ausgiebiges Studium der Politikwissenschaften, dann blamierst du dich künftig auch nicht mehr so dermaßen in der Öffentlichkeit.
+
+
+
+OXYBENZOL
+ @K H  Ich verstehe die ganze Disskusion nicht. Selbst wenn man Deutschland als Staatssozialimus bezeichnet, weil man eine andere Definition verwendet, spielt das keine Rolle, denn der US-Amerikaner fürchtet den Sozialismus der DDR und der anderen Staaten des Warschauer Paktes. Mal abgesehen davon beschweren sich US-Amerikaner auch nicht über den "Staatssozialismus" Deutschlands, wenn sie hier Urlaub machen oder auch arbeiten. Gerade aus dem Sportbereich gibts da ja viele, da die USA viel Geld in den Highschool- und Collegesport stecken.
+Wenn man Deutschland mit Staatssozialismus gleichsetzt, so wird dies hier als abwertend gesehen. Da ist der shitstorm natürlich vorprogrammiert. Und wenn man bei dieser Meinung bliebt, muss man schon erklären können worin diese Abwertung dann z.B. gegenüber der USA besteht.
+
+
+
+GORDUAN
+Das alles zu lesen ist Gold XD kann bitte jemand diese ganze Unterhaltung in Bild und Ton verwandeln? Das wäre ein Klasse Video egal ob in Deutsch oder Englisch ^^
+
+
+
+CHRISTIAN MONIATIS
+ @TechnoEstate  alter, du diskutierst hier seit 6 Tagen wegen nem Etikett rum? 
+Was machste nächste Woche? Leuten erklären, dass es 'Sinn ergeben' heißt und nicht 'Sinn machen'? Geh dir mal n Leben kaufen
+
+
+
+K H
+ @oxybenzol  
+Mir geht es um den richtigen Begriff im Bezug auf die BRD. Zwischen Sozialdemokratie und Sozialismus gibt es nunmal einen Unterschied. Und wenn User "TechnoEstate" sagt, dass er es auf Grund eines Studiums (der dt. Geschichte) besser weiß, aber meiner Meinung nach trotzdem falsch liegt, kann ich das doch sagen. Oder siehst du das anders?
+Wie schon mal geschrieben: Ich hätte kein Problem mit der Bezeichnung, wäre die BRD wirklich sozialistisch. Ist sie meiner Meinung nach aber schlichtweg nicht!
+Und wo gibt es eine Abwertung gegenüber der USA oder anderen Staaten?
+
+
+
+WORLD OF TANKS BLITZ
+ @TechnoEstate  Vielleicht bist du auch einfach nur doof!?
+
+
+
+WORLD OF TANKS BLITZ
+ @dmzdarkwater  Es gibt aber Leute, welche glauben gebildet zu sein, die nicht zwischen Gross- und Kleinschreibung unterscheiden können.
+
+
+
+WORLD OF TANKS BLITZ
+ @Biden 4 Prison  😁😁Gesetzte sind immer Scheiße. Echt jetzt??
+
+
+
+DMZDARKWATER
+ @World of Tanks Blitz  Kommst Du jetzt ernsthaft mit einer überhaupt nicht relevanten Aussage von der Seite? XD Jetzt habe ich darauf geachtet, ist es jetzt so besser?
+
+
+
+BIDEN 4 PRISON
+ @World of Tanks Blitz  Hab ich nie gesagt, aber gut dass du gut zuhörst.
+
+
+
+OXYBENZOL
+ @K H  
+"TechnoEstate" hat auch einen Beweis geliefert: State Socialism (Germany) wiki. Nur wird aus dem Artikel nicht klar, was daran schlecht sein soll, denn der Durchschnittami denkt ja, dass Staatssozialismus schlecht ist. Daher kann gar nicht die Definition für Germany gemeint sein, sondern es geht um die DDR. Warum der deutsche oder viel eher der Solzialstaat in vielen europäischen Ländern was schlechtes sein soll, wohl weil es sich bei der amerikanischen Nächstenliebe nicht um die nächste Person geht sondern um deren Geld. Der Nächste ist also der nächstbeste den man um sein Geld erleichtern kann. Jesus würden die auch über den Haufen schießen. Der hat ja sozialistische Werte gepredigt, aber "in God we trust". Muss sich dann wohl um den Gott der Juden handeln, denn mit dem alten Testament haben die weniger Probleme.
+Appropos Definition. Die GOP behauptet von sich ja pro life zu sein, aber am Bundesgesetz für Mutterschaftsurlaub hat sie auch nichts ändern wollen. Da gibts 12 Wochen unbezahlt, wenn der Arbeitsgeber min 50 Angestellte hat. Es ist also noch nicht mal ein Grundrecht. Also schnell Baby rauspressen und am nächsten Tag wieder kellnern gehen, sonst wirst du gefeuert.
+
+
+
+K H
+ @oxybenzol  Was den Text aus Wikipedia anbelangt, hat sich "TechnoEstate" meiner Meinung nach ein Eigentor geschossen...
+Die Begriffsgeschichte wiederspricht seiner Interpretation spätestens mit dem letzten Satz.
+Das was "TechnoEstate" als Staatssozialismus bezeichnet, ist per Definition eigentlich keiner und er bezieht sich auch eindeutig auf die BRD.
+Es geht auch nicht darum ob Sozialismus schlecht ist, sondern wirklich darum die Begriffe zu kären.
+Ansonsten bin ich voll und ganz bei dir. Ich bin froh, dass wir hier in den allermeisten Bereichen keine amerikanischen Verhältnisse haben. Und ich hoffe, dass es auch nie so weit kommt.
+Ja, das Thema "pro life" mit all seinen Facetten ist auch ein sehr großer Themenbereich, mit viel Diskussionspotential und Handlungsbedarf.
+
+
+
+TECHNOESTATE
+ @RandyMahnke  Es ist die "Öffentlichkeit" aus einem Dutzend US-indoktrinierter Deutschländer Würstchen in anti-sozialistischer Identitätskrise, die sich hier blamiert. Magste Dich anschließen? Lass mal was hören, Du Pfeife!
+
+
+
+TECHNOESTATE
+ @Christian Moniatis  Wie man im Englischen so treffend sagt: "It takes two to tango." 😉 
+**de . wikipedia . org/wiki/Etikettenschwindel#Folgen**
+
+
+
+TECHNOESTATE
+ @K H  :gähn: 
+Auf den Punkt gebracht, Meister: 
+**"Germany is 'not socialist' in the same sense that Venezuela is 'not socialist'."** 
+Stimmste zu? Ja? Dann ist damit ALLES gesagt, was es zum Thema zu sagen gibt. 😌
+
+
+
+TECHNOESTATE
+ @oxybenzol  *"Und wenn man bei dieser Meinung bliebt, muss man schon erklären können worin diese Abwertung dann z.B. gegenüber der USA besteht."* 
+Das würde ich auch gerne mal wissen, bei dem ganzen sozialistophoben Geheul hier. 😔
+
+
+
+TECHNOESTATE
+ @World of Tanks Blitz  Wenn's Dir besser passt, von 'nem Doofen zurechtgestutzt zu werden? 😏
+
+
+
+K H
+ @TechnoEstate  Nein! Weil die Definition für Sozialismus im Gesamten so nicht auf die BRD zutrifft. Das richtige Wort ist Sozialdemokratie. Du hast selbst diese Definition mit den Wiki-Artikeln angeführt und widersprichst dir selbst. Nur weil die Sozialdemokratie Teile des Sozialismus übernimmt ist sie noch lange keiner. Es fehlen entscheidende Teile.
+Schau bitte mal nach wie "Sozialdemokratie" definiert ist!
+
+
+
+OXYBENZOL
+ @TechnoEstate  Wenn du jemand als Wich.ser bezeichnest, wunderst du dich dann wenn der mit nem Fausthieb antwortet? Vor 100 Jahren war das aber ne Bezeichnug für einen Schuhputzer. Definitionen ändern sich, denn Sprache ist lebendig.
+
+
+
+TECHNOESTATE
+ @K H  Aber dasselbe ließe sich auch über Venezuela sagen -- wie ja bereits einige Deiner Mitstreiter hier bestätigt haben. 🤔 
+Wie Du Dich zierst...! 🤭
+
+
+
+TECHNOESTATE
+ @oxybenzol  Gestatte mir, entsprechend pointiert zu antworten: 
+Wenn du mir mit einem Fausthieb antwortest, nachdem ich Dich ausdrücklich im Sinne Deines tatsächlichen Berufs des Schuhputzers als "Wichser" bezeichnet habe... dann bekomme ich Freispruch wegen Notwehr... und pinkle dann auf Dein Grab. 😌
+
+
+
+FREDERIK BEIMGRABEN
+ @TechnoEstate  Schon begeisternd, wie durch das Wiederholen falscher oder überzogener Aussagen eine so lange Diskussion lostreten konntest.
+Als Deutscher fühle ich mich hier genötigt, auch noch mal meinen Senf dazuzugeben.
+Ich habe soeben (nur zur Sicherheit) nochmal ein paar Kommilitonen gefragt (die btw. alle Abi haben): Keiner von ihnen hat den Begriff "Staatssozialismus" jemals im Kontext des deutschen politischen Systems gehört. Auch die Definitionen und Inhalte in GG. Art. 20 stellen ziemlich eindeutig klar: das deutsche System ist ein Sozialstaat mit einer sozialen Marktwirtschaft als politisches System. Der Unterschied zwischen "Sozial" als (wortwörtlich) "gemeinsam" oder "auf die Gesellschaft bezogen" und "Sozialistisch", welches sich vom durch Marx klar definierten politischen Systems als Übergangsphase zum Kommunismus ableitet, sollte mittlerweile eigentlich auch klar sein.
+Ich hoffe mit diesem Kommentar einen Punkt setzten zu können.
+
+
+
+FREDERIK BEIMGRABEN
+ @TechnoEstate  Des Weiteren passe eventuell deinen Wortlaut an. Es ist schwierig jemanden ernst zu nehmen, wenn er in vulgäre Ausdrucksweisen verfällt. Selbst wenn dieser einen validen Standpunkt hat.
+
+
+
+MANTHIKOR
+😂😂😂 That was it, now we are miles away from it! The own population is valued less than migrants. Old people who have worked hard here for over 40 years now have to collect bottles to top up their pensions are the order of the day! Germany has become a shit hole! social system for the ass! Greetings from Germany
+
+
+
+TECHNOESTATE
+ @Frederik Beimgraben  Mit Verlaub: Wie es in den Wald hineinruft, Sie echauffierter Anstandspudel. 😉
+
+
+
+TECHNOESTATE
+ @Manthikor  Nothing has changed though, according to most here! You know, because the FRG/BRD "never was socialist" to begin with. If anything, they'll ***blame*** the social system and call for ever more Sozialabbau (deregulation & privatization), because not being socialist is what had made Germany great in past decades, right? Right? "Sozial ist, was Arbeit schafft" -- or as they used to say: "Arbeit macht frei!" 😏
+
+
+
+TECHNOESTATE
+ @Frederik Beimgraben  *"Ich habe soeben (nur zur Sicherheit) nochmal ein paar Kommilitonen gefragt (die btw. alle Abi haben): Keiner von ihnen hat den Begriff "Staatssozialismus" jemals im Kontext des deutschen politischen Systems gehört."* 
+**Gute Nacht, Deutschland!** Als ich in der (bereits wiedervereinten) BRD die Unibank gedrückt habe, da war das noch gymnasialer  **M I T T E L S T U F E N S T O F F**  -- wohl gemerkt im Westen der Republik! Dieses unliebsame Detail wurde wohl inzwischen weggeklittert... wieviel die Amis dafür wohl klimpern lassen mussten? Oder war's eher ein Rasseln mit dem Säbel? 😔
+
+
+
+SOEREN SCHEID
+ @TechnoEstate  Please check out the definition of "Staatssozialismus" (e.g. https://en.wikipedia.org/wiki/State Socialism (Germany)). It was a thing a long time ago.
+What we have today is "Soziale Marktwirtschaft" (e.g. https://en.wikipedia.org/wiki/Social market economy) with the legal framework aiming to limit the negative effects of pure capitalism. 
+Additionally, there is "Sozialstaat" (e.g. https://en.wikipedia.org/wiki/Welfare_state) with the government taking care of the (basic) wellbeing of its citizens (infrastructure, education, health service, ...)
+
+
+
+MARKO LINIR
+ @TechnoEstate  I came from germany and mostly it's not called like that.
+Translated word by word, the social-economic system, is called social market-economy.
+That means there ARE capitalist instututions (factories, etc), but the taxes they pay are used to avoid homelessness and to give finaciall support to non profit health insurances.
+Fun fact: Even in the health system there are many private/capitalist health insurances and ambulances.
+So just because there are a few non profit organisations, providing health insurance for the poor and middle income, you can't say it's socialism. In socialism, there can't be huge factories running for profit. Thats basicly the definition of socialism.
+
+
+
+DER MCEL
+ @TechnoEstate  Please tell me the original German term, because state socialism as far as I know only was the political system of the GDR, which collapsed. 
+Germany is a Republic, it's economic system is the social market economy (soziale Marktwirtschaft), based on the principles of the free market, but with the state regulating some parts to counter monopolies and to grant minimum needs for every citizen, because of our value of human dignity.
+
+
+
+DER MCEL
+ @TechnoEstate  Mate your talking about the wrong Germany, your talking about the GERMAN EMPIRE. We still had an emperor back then, and the chancellor, empire's Chancellor, not state Chancellor as Merkel is today named it State Socialism to silence socialist voices calling for a democracy.
+After that time period we had 3 different German states 
+The Weimar republic
+Nazi Germany
+And then modern Germany, the Federal republic of Germany, as well as the German German democratic republic, a socialist state which failed.
+Modern Germany has nothing to do with the empire, except for the name and taking over the pillars of our insurance system, and only the pillars
+
+
+
+TECHNOESTATE
+ @Der Mcel  The original German term is Staatssozialismus, as used by its architect, chancellor Otto von Bismarck. The GDR (DDR) also was socialist, but following the authoritarian Soviet model instead. 
+The FRG (BRD) is expressly the continuation of the "Second Reich" aka the German Empire under Bismarck et al., with elements of the Weimar Republic (such as the abolished monarchy). The term chancellor was kept expressly to establish that direct connection. 
+Your concluding paragraph almost sounds like a Radio Eriwan skit. 🤭
+
+
+
+DER MCEL
+ @TechnoEstate  1. I actually need to correct my mistake, Bismarck actually was federal chancellor as well, not just chancellor of the empire. 
+2. Yes the term federal chancellor was taken over, since the German Federal Republic of course saw itself as the new lawful German State and since the term chancellor has been used since the Holy German Empire, and federal chancellor for the head of government since the North German Confederation. Hitler actually was the one renaming it to Reichskanzler, empire of the realm. 
+The term has a rich German history, why wouldn't we use it today. 
+Still that doesn't change that nearly nothing was taken over from the German Empire. The new constitution, on which modern Germany was built was framed after the second world war and it's ideology is a reaction to the atrocities of the war and the Holocaust, not carried over from the empire. The insurance system was largely extended upon and changed, and just because Bismarck, the chancellor of a predecessor to the Federal Republic called his system State socialism, mostly to appease socialist after he BANNED the socialist party, that doesn't mean because Germany took over a fraction of his ideas, it's still socialist today. 
+What counts is the definition of socialism, which Germany doesn't follow and never did follow
+
+
+
+DER MCEL
+ @TechnoEstate  Also the GDR didn't follow the soviet model, it had it's own model but later on encorporated more and more of it's elements. 
+Still not the same "socialism" as in the empire or the socialism which wings in the NSDAP followed.
+
+
+
+PATTY FAIRYTALE
+ @TechnoEstate  Nope translation mistake !!
+
+
+
+PATTY FAIRYTALE
+ @TechnoEstate  even then when you do not understand a foreign language you make translation mistakes !!
+
+
+
+PATTY FAIRYTALE
+ @TechnoEstate  No, you re  wrong ! I am a west german citizen with historic knowledge ! First "guy" who introduced a basic healthcare system in Germany was an aristocrat called Fürst von Bismark in the year 1884 ! He was the chancellor (unelected of course) of the emperor Wilhelm I ! Socialism wasn t his aim at all ! He imprisoned every political opponent his police got ! This was a "s o c i a l " assurance because it assured a "s o c i a l " crisis (illness) and the aim of this system was to create healthy soldiers and a healthy workforce ! There was never a socialist guy chancellor under an Emperor ! But sure you can try and write our history a new way !
+While the pandemic we had  s o c i a l distance  all ! But that doesn t mean we re all socialists or anti--  .... and there are multiple translation mistakes because we (Germans) use a word called "social" and that means society ! Have you heard from social workers ? The aren t socialists too !
+
+
+
+JOHN BOY
+Nope, you are talking about the former East Germany.  West Germany was and the current Germany is a social state with capitalism not socialism
+
+
+
+TECHNOESTATE
+ @Der Mcel  Let me summarize your argument: 
+**"Radio Eriwan, this is Dmitri from Pontemkin! My question is: Is it true that the Federal Republic of Germany has got nothing to do with State-Socialist pre-war Germany anymore?"**
+RADIO ERIWAN ANSWERS: 
+"In principle: yes. 
+Except they still fly their pre-war flag, and the head of their government is still the chancellor, and their labor unions hail back to the 1800s, as do the pillars of their universal healthcare, social security, and pensioning systems as well as many of their labor rights -- not to mention one of the two biggest parties in parliament, which is still a multi-party representational parliament (much unlike in the US and the UK), is literally one of the original SOCIALIST parties, also from the 1800s, and one of their most widely used banks today, the Raiffeisen People's Bank, was created specifically as a SOCIALIST COOPERATIVE to protect peasants from exploitation. 
+But other than that, by and large: yes, it's got nothing to with it!" 
+ 🤣 🤣 🤣
+
+
+
+TECHNOESTATE
+ @john boy  Nope, I'm talking about the FRG/BRD, previously West-Germany, now reunited with the East. Former East Germany (the GDR/DDR) also was socialist, but followed a different, authoritarian model (vs. West-Germany's democratic socialist model).
+
+
+
+MIJARENA P.
+ @TechnoEstate  it had to do with different meanings.
+To act in a sozial way is something different than to have a sozialism called political system.
+Social state in Germany derives from  the meaning "acting in a social way"
+
+
+
+ASRB
+Yeah well but it kinda is. Its pretty much social democracy or democratic socialism or whatever you want to call it. Its exactly what Bernie Sanders was advocating for when he ran for president. People in the US need to start to understand that socialism is a very broad term. Just like capitalism which can mean libertarian anarcho capitalism but also more regulated capitalism with interference from the state through subsidies, tariffs, unionization and other workforce regulations.
+The problem is that all nuance is out the window as soon as someone says the word socialism due to Mccarthy era brainwashing. You either are for socialism which means you want to transform the country into UDSSR or Venezuela or some other communist hellhole, or you are against it and therefor also against the social democratic systems implemented in pretty much all Europe for some strange reason. Its a sleight of hand trick and a very cheap one and the US population keeps falling for it because US mainstream media sucks ass and refuses to call it out.
+
+
+
+TECHNOESTATE
+ @ASRB  The fact that you just uttered the **USSR** (which corresponds to fmr. East Germany) and **Venezuela** (which corresponds to West/reunited Germany, minus the crippling US sanctions) in the same breath exposes that you, too,  have fallen for the McCarthy-induced Pavlovian conditioning you (rightly) point out many others have. 😔
+
+
+
+MIJARENA P.
+ @ASRB   The meaning of social(ism) is different in our countries.
+Use "solidaric" instead and you get the meaning in "social staate" as it is used in our language.
+
+
+
+MICHAEL MATSCHKE
+ @TechnoEstate  So the Kaiser was a socialist?!
+
+
+
+SOLSERE JEREMY
+1) Americans will never get the distinction between 'social democracy' and 'socialism and communism'. It's a lost cause. 
+To 'socialize' has several semantic meanings, even in English.
+More importantly is that we have a dual payment system with an emphasis on general health insurance for our population and it's usually payed 50% bei the employer and 50% by the employee. You don't loose it, if you loose your job. Having a health plan isn't connected to having a job. Additional to that everyone who likes can have individual additional insurances to cover costs for better quality dental for example. Out of pocket costs are very very low in Germany and the deductibles are, too.
+
+
+
+SOLSERE JEREMY
+ @TechnoEstate  Where and when did you study under German professors and got A grades? Before or after 1989?
+Give me a break, buddy. Only the GDR (DDR) had 'Staatssozialismus'. The Western counterpart was always capitalistic with a social welfare state, like unemployment benefits, food stamps, parental leave, pensions and other perks, usually payed with taxes.
+Whatever you studied, it was not Germany's contemporary economic system.
+
+
+
+SOLSERE JEREMY
+ @Fine Flavour  👏🏼👏🏼👏🏼🎯 Yes, it sharpens the mind to look stuff up.
+
+
+
+SOLSERE JEREMY
+ @TechnoEstate  Lol, buddy. Bismarck had nothing in common with the Bundesrepublik (BRD) which was established after the end of WWII in 1949. The US was the blueprint for the Bundesrepublik (BRD). That's why we have States and State legislators and a Federal government, like in the US. The constitution (Grundgesetz) was adopted in 1949, too. It's just a continuation and tradition that the head of state is still called Chancellor and not President. Legally it's the same. 
+Contemporary Germany has very few things in common with Bismarck but he was the 1st Reichs-Chancellor, after he politically united several territories  and he established the legal work frame that we use today, the Bundesgesetzbuch (BGB). He also introduced reforms and the first ideas of a welfare state. Nothing more, nothing less.
+
+
+
+SOLSERE JEREMY
+ @dmzdarkwater  Es ist nicht lauter anhand des Beispiels der Umbenennung der SPD von 'sozialistisch' auf 'sozial' den Rückschluss zu ziehen, dass es sich bei der Bundesrepublik um keinen Staat mit einer grundsätzlich kapitalistischen Wirtschaftsform handelt. Die Implementierung von Sozialleistungen und Sozialstandards in eine Gesellschaftsform ändert nichts an der Tatsache, dass das Vermögen zum überwiegenden Teil in Privatbesitz oder im Besitz von Körperschaften, wie GmbHs oder Aktiengesellschaften, ist, wie auch selbstverständlich die Produktionsmittel. 
+Mit Sozialismus nach Venzuelnischem, Chinesischen oder Russischen Anstrich hat dies gar nichts gemeinsam.
+
+
+
+SOLSERE JEREMY
+ @TechnoEstate  You have no real deep knowledge. The more you post, the deeper you dig yourself in. 
+The conservative parties in Germany are, in comparison to the GOP in the US, which completely turned to the far-right to be an authoritarian party with fascist markers, in the left-center compared to the GOP in 2021. And I cite American political analysts on this. But the CDU/CSU and FDP is conservative all right in comparison to SPD, Grüne und Linke.
+
+
+
+SOLSERE JEREMY
+ @Biden 4 Prison  Hahahaha, lol, you are funny, dude. We in Germany copied the system of minimal wage from the US not a long time ago as it was introduced here quite recently.
+
+
+
+K H
+ @TechnoEstate  Nochmal zum Mitmeiseln: Ich spreche von der heutigen BRD (seit 1949) und deren Definition, denn darum geht es in unserer Diskussion und darauf bezieht sich das Video.
+Und wenn du hier mit irgendwelchen Begriffen und deren Definition um dich wirfst, solltest du sicherstellen, dass deine Quellen (z.B. Wiki) deiner Aussage nicht widersprechen.
+Behalte deine Meinung, ich behalte meine. Wir kommen hier sowieso auf keinen gemeinsamen Nenner.
+Allerdings bin ich etwas enttäuscht, dass ein studierter Mensch nicht in der Lage ist 
+- eine zuverlässige Quelle anzugeben (Wiki ist eher so mäh!)
+- einen Begriff mit eigenen Worten in Kürze so zu beschreiben, dass man als Diskussionspartner versteht, wie es gemeint ist.
+End of story!
+
+
+
+SOLSERE JEREMY
+ @Marko Linir  Der Typ ist Deutscher und trollt hier nur rum. 🙋🏾‍♂️🙋🏻‍♀️
+
+
+
+DER MCEL
+ @TechnoEstate  The flag has been a symbol for democratic movements during the empire, not the flag used by the empire mate XD the flag is literally a symbol against the government during the time in which this "state socialism" was invented by Bismarck. The first German State to use the modern flag is the Weimar republic, a democracy.
+The party you are referring to is the german  social party (SPD). They distance themselves heavily from socialist, at least most of them, and called for a democratic government after the first world war, opposed the socialist-communist plan of the Communist parties, the SPD leader actually hired militant groups to murder the socialists in fear of a planned economy. 
+The SPD was also BANNED during Bismarcks time as chancellor, to appease the workers he formed the first pillars of our modern insurance.
+Our modern system still uses those pillars, but is way more open and added upon it's predecessor.
+Germany is a social market economy, encorporating social and capitalist elements, same with our insurance. We get to choose which insurance and there are ways to leave it all together. Having social elements in a country does not make it socialist, read the definition. I guess your American, Burnie Sanders is no socialist, he is a bumbling old fool and can name himself whatever he wants, that doesn't change the definition of the word socialist.
+Germany doesn't think the government can plan better than the individual, it only restricts as much as it needs to ensure equal footing and the human dignity of every citizen
+There is no social ownership of means of production
+Social≠Socialist
+
+
+
+DER MCEL
+ @TechnoEstate  Those banks were founded by groups of workers, not the state. Them existing doesn't even conflict with capitalism, same with unions, they were made by the workers and they have the right to form together. Politically they had no influence during the empire.
+Germany has way more ties to the Weimar republic than to the empire and it's "state socialism". The extensions made to the social security system during the Republic were largely take over, the SPD had real political power for the first time back then and many other modern parties or their predecessors were found.
+Our pension system is very different to the one established in Bismarcks time, it actually got more social, in Bismarcks time the money more or less was just given back to you when you were older, now the young pay for the old, and no one likes the new system but changing it would currently cause a bunch of problems.
+Bismarcks state socialism largely helped industrialists, not workers. A basic social security system was established, by that logic Trump would have been socialist because of Trumpcare
+The biggest connection is the name federal chancellor, which was chosen, not to connect with the empire, but to distance ourselves from Empire's Chancellor and Leader you know who and the idea of an empire in total. Again, why would we look for some other word but chancellor, it's a neutral word with a certain political meaning in Germany.
+
+
+
+TECHNOESTATE
+ @Michael Matschke  *"So the Kaiser was a socialist?!"* 
+Obviously not. 
+Not even Bismarck was -- in his own book, at least (though effectively, he was). 
+Are you trying to be silly? 😝
+
+
+
+TECHNOESTATE
+ @SolSere Jeremy  *"Where and when did you study under German professors and got A grades? Before or after 1989?"*
+As already stated: in reunified Germany, in the Western part of the country. 
+You guys are beginning to bore me.
+
+
+
+BIDEN 4 PRISON
+ @SolSere Jeremy  Ich weiß, bin schließlich selber Deutscher.
+
+
+
+TECHNOESTATE
+ @SolSere Jeremy  *"The US was the blueprint for the Bundesrepublik (BRD). That's why we have States and State legislators and a Federal government"*
+🤣🤣🤣 
+Then why is it not the VEREINIGTE STAATEN DEUTSCHLANDS? Why is Germany's "Commander-in-Chief" the CHANCELLOR and not the president? Why does Germany not have a TWO-PARTY SYSTEM? Why do they have UNIVERSAL HEALTHCARE and STRONG LABOR UNIONS?   
+So no: **you're wrong**. Germany is a ***Bund*** (coarsely translated as "federation") in continuation to and extension of the ***Norddeutscher Bund***, Germany has been a multi-state construct ***since the Middle Ages***.
+
+
+
+TECHNOESTATE
+ @SolSere Jeremy  *"The conservative parties in Germany are [...] in the left-center compared to the GOP in 2021. [...] the CDU/CSU and FDP is conservative all right in comparison to SPD, Grüne und Linke."* 
+And how does that refute anything I've said? In fact, you're ***repeating*** what I've said. 🤔
+
+
+
+TECHNOESTATE
+ @Der Mcel  *"Those banks were founded by groups of workers, not the state. Them existing doesn't even conflict with [the existence of free enterprise]"*
+Of course it doesn't. As I had to explain to you guys before: like Venezuela and even China, Germany has a ***mixed economy***. What the existence of those banks **DOES** contradict is your & others claim here that modern Germany supposedly has got nothing to do with pre-WW2 Germany, started over with a "blank canvas" after WW2, so anything that happened before, such as the establishing of State Socialism, supposedly has no validity today. That's **patently false**. As illustrated, modern Germany is very much a continuation of pre-WW2 Germany, from Bismarck through the Weimar Republic. So... *easy on the strawmen*, buddy. 😌
+
+
+
+MECHANIKLE
+ @TechnoEstate  also erstmal dir und allen anderen hier ein Dankeschön für die Unterhaltung, die ich mit den Kommentaren hier hatte!
+1. Gute Idee mit der Wette, schön ausgeführt. Da hätte niemand gewinnen können, weil sich niemand auf das Wort "Staatssozialismus" von 1880 bezieht.
+2. Nur mal so als Frage, bitte nicht böse auffassen, ich bin nur neugierig.
+Bist du einfach halb Kommunist/Anti-D und halb Troll?
+
+
+
+TECHNOESTATE
+ @mechanikle  Gern geschehen! 😌 
+Zu Deinen Fragen & Anmerkungen: 
+1) Versteh' ich jetzt nicht. Bei der Wette ging's darum, ob ich tatsächlich in Deutschland studiert habe, und ob in bundesdeutschen Schulbüchern das Thema Bismarckscher Staatssozialismus gelehrt wird bzw. während meines Aufenthalts in der wiedervereinigten BRD gelehrt wurde. Mit Erbringung des jeweiligen Nachweises (z.B. Studienschein und Literaturnachweis) hätte ich die Wette und somit 10.000 Euro gewonnen. Bei Ausbleiben des Nachweises (typischerweise bis zu einem vorher festgelegten Stichtag) hätten hingegen die Zweifler die Wette und somit 10.000 Euro gewonnen. Apropos... wie steht's mit Dir? Magste Dein Unglück versuchen oder gibste Dich gleich geschlagen? Das Wettangebot steht weiterhin! 😁 
+2) Ich identifiziere mich als demokratischer Sozialist, bin Anti-Doofheit, und da "Troll" heutzutage schlicht ein Schimpfwort ist für jemanden, der Dir komplett gegen den Strich geht und dabei aber "leider" 100% Recht hat, kannst diese Frage wohl letztlich nur Du für Dein eigenes Empfinden beantworten. 😌
+
+
+
+DER MCEL
+ @TechnoEstate  It very much is a successor, of course it has something to do with it. I just claim just because of the loose governmental similarities that doesn't mean that we still work under the principle "state socialism". "State socialism is the name of Bismarcks policies, a fraction of which the modern German system has build upon. Of course it's a successor, but it took over very little politically from the Empire
+
+
+
+DER MCEL
+ @TechnoEstate I never claimed that Germany started again with a blank canvas, I said that there were multiple German states in-between which weren't the same and that considering the many changes calling Germany socialist today is not fitting. 
+You mentioned a non state funded bank as a response
+But I'm easy on the straw man. Sure dude 😂
+
+
+
+TECHNOESTATE
+ @Der Mcel  This is your initial claim -- and I quote you directly: 
+***"Modern Germany has nothing to do with the empire"*** 
+**F A L S E**.  It's got its flag from the days of the empire, it's got its head of government directly from the empire, it's got its universal healthcare, social security, and pensions system also directly from the empire, it's got its second biggest party from the days of the empire. ***ET CETERA ET CETERA***  Modern Germany has **TONS** to do with the empire! 
+Your claim that those had been simply **"three separate, likewise unrelated states"** is also  **w r o n g**.  Modern Germany is NEITHER the continuation of the 3rd Reich NOR the continuation of the GDR/DDR  **but it very much**  ***i s***  the continuation of both the "Second Reich" -- specifically the Norddeutscher ***Bund*** -- as well as the Weimar ***Republic***. Whence the effin' name: ***BUNDESREPUBLIK***. Holy shizznuck! 🙄🙄🙄
+
+
+
+LABER TASCHE
+ @TechnoEstate  Its not. You are simply wrong, its not important how chancellors or Bernie Sanders calls it, its only important, HOW it works. And thats NOT socialism. But this is the big problem with US american people: they know nothing, but believes in useless words.
+
+
+
+LABER TASCHE
+ @TechnoEstate  You are the perfect example of the american guy going for words but knowing nothing. You even dont know what socalism means.
+
+
+
+LABER TASCHE
+ @TechnoEstate  In den USA werden die Straßen auch von Steuern bezahlt, die jeder nutzt und jeder mit seinen Steuern (jeder wie er kann) mitfinanziert. Die USA sind also auch ein sozialistischer Staat. Das ist doch richtig, oder nicht? Wird das auch in Euren Schulen richtig gelehrt? Ist das schon Kommunismus?
+
+
+
+TECHNOESTATE
+ @Laber Tasche  *"You are the perfect example of the american guy"* 
+I'm not American. 
+Swing... and miss.
+
+
+
+TECHNOESTATE
+ @Laber Tasche  Richtig: *gewissermaßen* sind selbst die USA bereits "teilsozialistisch" -- wie ja viele Leute im Umkreis Bernie Sanders' immer wieder hervorheben. Die Sozialismusfrage ist also eine Frage des Grades, der sich an gewissen Meilensteinen (wie z.B. öffentliche Verkehrsinfrastruktur und/oder staatlich reguliertes Gesundheitswesen... und nicht zuletzt das BEKENNEN zum Sozialismus wie etwa seitens Bismarcks) festmachen lässt. Und da ist die Bundesrepublik mit ihrem Staatssozialismus ziemlich weit vorn! Wenn jetzt noch das Volk mental Schritt hält... 😌
+
+
+
+LABER TASCHE
+Was soll "teils" sein? Nach Deiner Definition leben alle Länder der Welt im Sozialismus, die Steuern eintreiben, die nicht nur ausschließlich für einen Despoten ausgegeben werden. Das kann man so sehen, ich sehe es nicht so und diese extrem grobe Unterscheidung, die für mich aus einer Verwechslung von "hinreichenden" vs. "notwendigen" Kriterien für Sozialismus entsteht, läßt dann nur noch diesen Schluss zu. Und was bringt das dann? Genau deswegen wird in Deutschland die deutliche feinere Granulierung "Sozialstaat" gewählt und insbesondere sind ja die "gesetzlichen" Krankenversicherungen gar nicht staatlich (was der Staatssozialiusmus eigentlich voraussetzt). Das sind ja immer noch private Unternehmen, aber sie müssen bestimmte Bedingungen erfüllen. Übrigens sind in den USA auch KFZ Haftpflicht Versicherungen "compulsory", nach Deiner Sicht der nächste Baustein des amerikanischen Sozialismus. Ob Trump wirklich geglaubt hätte, einen sozialistischen Staat zu führen?
+
+
+
+SABINE DIEKMANN-GOTT
+ @TechnoEstate 
+ BS! We in Germany are social people, we care about the people in our Country, It is called a Social Democratic State. Meanwhile in the US ( the greatest country in the world LOL) everybody cares about himself. I lived in the US for eight years, the worst eight years in my life!
+
+
+
+TECHNOESTATE
+ @Laber Tasche  *"Was soll "teils" sein?"* 
+Hab' ich doch gerade erläutert! Mal bisschen weiterlesen als bis zum ersten Satzzeichen! 😄  
+*"Genau deswegen wird in Deutschland die deutliche feinere Granulierung "Sozialstaat" gewählt"* 
+Nö. Den wahren Grund für diesen ***Etikettenschwindel*** hat ja @dmzdarkwater weiter oben bereits gut auf den Punkt gebracht. 
+*"Das sind ja immer noch private Unternehmen, aber sie müssen bestimmte Bedingungen erfüllen."* 
+Jep. Wie gesagt: staatliche Regulierung privaten Eigentums. Ein Kennzeichen des Sozialismus, speziell des demokratischen Sozialismus (wie eben im Bismarckschen Staatssozialismus). 
+*"Übrigens sind in den USA auch KFZ Haftpflicht Versicherungen "compulsory", nach Deiner Sicht der nächste Baustein des amerikanischen Sozialismus."*
+Nicht nur nach meiner Sicht. Frag mal Rand Paul & Co., was die davon halten! 😅 
+Von Rand Paul bis Bernie Sanders, vom radikalen FDPler bis zum SPD-Fundi sind sich also alle einig: Das ist sozialistisch! 
+*"Ob Trump wirklich geglaubt hätte, einen sozialistischen Staat zu führen?"* 
+Pf! Trump und seine Gemeinde können ihren Hintern nicht von 'nem Loch im Boden unterscheiden! 😜 
+Als der Kerl der Corona-Krise mit knallhart ***planwirtschaftlichen Maßnahmen im Soviet-Stil*** begegnen wollte, haben seine Anhänger gejubelt. Und als denen ein paar Linke gesteckt hatten, was die da eigentlich zujubeln, war die Antwort "DAS IST KEIN SOZIALISMUS! DAS IST AMERIKANISMUS!" 
+Hmmm... also im Wesentlichen die gleiche Reaktion, die ich als Linker auch hier bekomme. Na sowas? 🤔🤭🤫
+
+
+
+ELITE7555
+ @TechnoEstate  Ah, you must be one of those Americans. No, it's nothing like socialism like in the late DDR, and Wikipedia translates the market system as Social market economy, which is also known as Rhine capitalism or social capitalism. The state doesn't control buisnesses. The state only provides a framework in which buisnisses can operate. And insurance companies are nothing but regular buisnesses that need to adhere to certain criteria.
+
+
+
+THE SEBI
+The Federal Republic of Germany (current form of Germany) is a Sozialstaat 'social state' and does not have Staatssozialismus 'state socialism' it sounds similar, but is fundamentally different. Seriously... read up on this topic....
+The state does not own the means of production....
+Germany is a democratic country, aspiring to ensure the economic security of the citizens and establish equal opportunities  for all social classes (from poor to rich).
+ Well, that's the ideal, people don't have the same chances, but at least you have much better chances of making something out of your life, coming from a poor family, than in the US.
+
+
+
+TECHNOESTATE
+ @Elite7555  I'm not an American. 😄
+
+
+
+LE BL
+ @TechnoEstate  Sozialstaat and state Socialism isn’t even the right translation. State socialism would be Staatssizialismus and not Sozialstaat wich is a huge difference. State socialism was practiced in the DDR not BRD. Sozial Staat means something like social State wich really means something different than State Socialism. So yea it’s something completely different
+
+
+
+NORDLICHT
+ @Jonathan S.  hahahaha... Ok this is not funny
+
+
+
+MECHANIKLE
+ @TechnoEstate  Die Frage mit dem "Troll" war ja garnicht böse gemeint, das war tatsächlich interesse :D Und nee ich kann momentan keine 10.000 Euro aufbringen, mal davon abgesehen dass das bestimmt gelehrt wurde (in meiner Schulzeit nicht mehr, bzw vielleicht in den Leistungskursen der Oberstufe.) Aber ich hoffe es geht jemand auf die Wette ein! 
+Ich würde mich freuen, zu erfahren wer gewinnt :D
+
+
+
+LABER TASCHE
+ @TechnoEstate  >Von Rand Paul bis Bernie Sanders, vom radikalen FDPler bis zum SPD-Fundi sind sich also alle einig: Das ist sozialistisch! 
+Ne, das ist sozial. Aber von mir aus kannst Du auch gerne glauben, dass die Erde eine Scheibe ist. Ist mir ziemlich Wurst.
+
+
+
+LABER TASCHE
+ @TechnoEstate  Im Übrigen ist ein Gehalt kein "Eigentum" (im Gegensatz zum "Vermögen"), der Besitz eines PKWs keine Pflicht und selbst im ach so tollen Deutschland sind immerhin 1% der Bürger komplett ohne KV. Das sind alles Dinge, die im Sozialismus unmöglich sind.
+Deswegen haben diese Dinge sicherlich sozialistische Züge, aber es ist kein Sozialismus. Dafür reicht es einfach nicht. Da sind mir die Herren Sanders & Co. ziemlich egal, wenn die das dennoch glauben. Das war die Sache mit hinreichend und notwendig.
+
+
+
+TECHNOESTATE
+ @Laber Tasche  
+*"Aber von mir aus kannst Du auch gerne glauben, dass die Erde eine Scheibe ist. Ist mir ziemlich Wurst."*
+Du verkennst das Problem. Über die Form der Erde sind wir uns ja weitgehend einig. Das Problem ist, dass von uns beiden nur ich es bin, der sie, mit Verweis auf den Schöpfer selbst, korrekt als "Ball" bezeichnet, Du hingegen als "Kreis", mit Verweis darauf, dass das Solarsystem ja nun mal kein Ballsaal sei. 😉😜 
+*"Im Übrigen ist ein Gehalt kein "Eigentum""* 
+Eigentum, Mittel, Jacke, Hose. 😌 
+Spitzfindigkeiten bringen Dich hier nicht weiter, Gutster. 
+*"Das sind alles Dinge, die im Sozialismus unmöglich sind."* 
+Offenbar ja eben doch.  
+*'sozialistisch vielleicht... aber doch kein Sozialismus!'* 
+🤣🤣🤣 
+Verbieg Dich mal nicht, Alter! Tust Dir noch weh! 
+🤣
+
+
+
+LABER TASCHE
+ @TechnoEstate  Ich habe das Problem längst erkannt: Du bist ein eingebildeter Schnösel, der irgendwo mal irgendeinen Quatsch gelesen hat und den jetzt fanatisch verteidigt. Es ist und bleibt dabei: mir ist das Wurst.
+
+
+
+GOLDFIEND
+ @Jonathan S.  I'm fine with you calling it the "patriotism" system as long as we universal healthcare.
+
+
+
+CLOUD EX MACHINA
+ @TechnoEstate  how long did you live in germany? I am a german person and i can asure you its not called Staatssozialismus. Thats something that was never used to desgribe any now working system and its not gonna change if you just repeat yourself over and over again. THERE IS NO SUCH THING AS STAATSSOZIALISMUS IN GERMANY AT THIS POINT..... got it now? good.
+
+
+
+ANTIFANTASTISCH
+It's a pseudo social system.
+Compare it to Germany 20 years ago: Welfare has been decreased a whole lot, property tax (Vermögenssteuer) has been abolished.
+
+
+
+LUKE ELAVAN
+Germany even tore down a giant wall to get rid of the socialism americans despise so much
+
+
+
+JUDY MAY
+ @TechnoEstate  I studied this shit in Germany too and came to diffrent conclusions. (I can't see anything in you're writing that tells you lived in Germany. You even talk about your marks in the us system. That's strange)
+These terms: socialism, communism, capitalism they are pretty old and so not fitting for the 21first century. I'm embarrassed our generation is still talking in these terms. Our reality changed so much, but systems are slow and people are to stupid to adapt.
+
+
+
+TECHNOESTATE
+ @Judy May  *"(I can't see anything in you're writing that tells you lived in Germany. You even talk about your marks in the us system. That's strange)"* 
+So let's have a notarial wager then! 😀 I'll head to the notary on Monday and set up a matching contract over a sum of, say, $10k Euros? Please provide your legal contact and client/box number so we can get this rolling! 🤑😁 
+*"These terms: socialism, communism, capitalism they are pretty old and so not fitting for the 21first century. I'm embarrassed our generation is still talking in these terms."* 
+So you're not just objecting to MY take then. You're objecting to this entire discussion. 
+Okay... :shrugs:
+
+
+
+TECHNOESTATE
+ @Antifantastisch  As long as you realize the problem is the slow *abolishing* of socialism, not its *introduction*, we're on the same page. 😌
+
+
+
+GOLDFIEND
+ @Luke Elavan  Yes, and America even fought Germany because of how much they hated fascism at the time. And now look at us.
+
+
+
+RAPSACK 70
+ @Jonathan S.  
+Thats the point!
+
+
+
+JENS SCHILLING
+ @TechnoEstate  you are mixing up former Eastern Germany with Germany now. The former Eastern Germany has had Staatssozialismus, after the reunion with West Germany that was finnished. Btw. the US uses socialist systems as well, infrastructure and public schools for example, payed for by taxpayers, if you use them or not, you pay.
+
+
+
+TIBO REEB
+ @TechnoEstate  Wow... cant believe you studied this. Youre just wrong by a whole lot... The german care-system for people in general (not healthcare! Things like unemployment/education/ financial help agains poverty) is called Sozialstaat. 
+The german Healthcare is called "gesetzliche Krankenversicherung" and is a different beast! It is run by a lot of somewhat private insurance companies and even technological companies. You can choose where you are insured, for me its the "Siemens Betriebskrankenkasse" so not even remotely run by the state! This system is required by the Law! but you can choose to be privately insured if you like. Private healthcare insurances do exist, but tend to become more&more expensive with your physical age... i guess like in the US? 
+The german Economy system is Called "Soziale Marktwirtschaft" Which translates in english like Social Capitalism. Thar means NOT Sozialism! It is a Capitalism with some rules to help people and Companies develop a thriving economy. Yes you have to pay taxes. but these taxes are used to make sure your company will have good employes in the future and your goods will be transported on good secured roads. 
+The system was developed by Ludwig Erhard, a quy from the CDU, and you wont get much less sozialist than beeing a CDU-guy... And by the way: This system made the rocket like recovery of the BRD after WW2 possible by strategically placing the Marshalplan money from the US in the right places. 
+The "Soziale Marktwirtschaft" is definately one of the best systems you can have as a citizen AND Company!
+
+
+
+CHILL PLAYZ
+ @TechnoEstate   Do I understand you correctly in saying, that the founder of the german healthcare system (Bismarck) was a socialist, who called it a part of a state socialist program and therefore the modern day german healthcare system is still/also socialist?
+1. Bismarck wasn't a socialist, he was anti-socialist, and used socialist language in an attempt to get the left on his side while simultaneously cracking down on political opponents (sozialistengesetz), similarly to the nazis (national-SOZIALISMUS vs. putting actual socialist in KZ).
+2. The modern day BRD, as well as the understanding of what is socialist has changed a lot since WW1
+3. In Germany, the insurance companies aren't owned by the state, they just have to follow strict(er) rules and regulations.
+
+
+
+NICO STEFFEN
+Its a social economy in a democratic country!
+Socialism isnt a political system, its a social system that takes away the worst parts of capitalism!
+Socialism has nothing to do with elections or who is running the country, its simply taking care of the people, helps them and supports them when there is any medical problem and it is a safety net so that you dont loose your life when loosing your job!
+
+
+
+GUIDO HAAS
+ @TechnoEstate  Get informed before you issue wrong facts. The guy who introduced was Otto Fürst von Bismarck and he did that in the 1880s and in the "Kaiserreich" back then it was by no means called "socialism". Yes that term was coined and made public by people like Friedrich Engels, Karl Marx, Wilhelm Lieberknecht, and August Bebel. People that were opposed to von Bismarck's ideas.
+
+
+
+ANTIFANTASTISCH
+ @TechnoEstate  Of course. Let's hope for red-red-green in GER (won't happen, I know).
+
+
+
+DMZDARKWATER
+ @SolSere Jeremy  Das war nicht damit gesagt, deshalb dann bitte meine vorherigen Posts durchlesen, wenn ich schreibe, dass wir hier in Deutschland u.a. sozialistische Gesetze haben - bedeutet das nicht, dass wir ein sozialistischer Staat sind, was wir eindeutig nicht sind, zumal nur meinerseits erklärt wurde, warum wir in der deutschen Sprache "sozial" verwenden und nicht "sozialistisch".
+Interessant ist die Tatsache, dass in der deutschen Sprache (sowie im Englischem) eine Handlung oder Sache aus einem Adjektiv unter der Endung "-ismus" fällt.
+
+
+
+TECHNOESTATE
+ @Guido Haas  Please take your own advice and educate yourself before you spew 'alternative facts' like that. Staatssozialismus was the EXACT term used for Bismarck's policies that are the foundation of modern Germany's welfare state -- including by Bismarck himself. 
+**de . wikipedia . org/wiki/Staatssozialismus** 
+Setzen. Sechs.
+
+
+
+TECHNOESTATE
+ @Antifantastisch  Would be cool, but doesn't even need to. Keep in mind Bismarck was nominally "anti-socialist". As was FDR in the US. If there's enough **public pressure**, then even rightwingers can end up enacting Staatssozialismus. After all, even Trump kept ogling far-left policies that went well beyond even Germany's good old Staatssozialismus -- such as his original plan to ***force*** private companies (!) to manufacture ventilators for Corona patients, or to ***dictate*** medical drug prices (two hallmarks of Soviet-style planned economy, no less!) And did you see the facial expressions of the Green Party when Merkel announced the Atomausstieg? Priceless! 😝
+
+
+
+F-RUNE
+ @TechnoEstate  We Germans never called our system socialism or state socialism, ever. You are ill informed! We call our system Rhein-Capitalism or Social-marked-economy! The idea is to have a social parachute in a marked-economic plane. 
+Yet I guess you are an American...and when Americans "KNOW" something it's impossible to confront them with facts. I guess you are this kind of person too , are you?
+Also the healthcare system in Germany has nothing to do with the economic model of Germany. We allways had a solidaric healthcare system about the time when medicine starteted to effective enough that it wasn't 50/50 when you visited a doctor if he would make it better or worse. Healthcare for all is a cultural self-concept! Wehave soldiers that kill for the us and we have doctors that heal for us. There is nothing special about it, we have it like that through all models and governments and ideologies, no matter if Monarchy, Democracy, Socialism or Faschism. Germans just allways communally funded soldiers and healers. Just unlike the USA whose militarry is paid by individuals who like to kill someone because the militarry is not socialistic or solidaric at all. And healers are paid by individuals who like to heal someone.
+
+
+
+(letzter Stand: 28.06.2021, 20:19 Uhr)
