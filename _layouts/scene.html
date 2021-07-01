@@ -13,110 +13,13 @@ layout: default
         background-color: black;
         color: white;
     }
-
-    .scene-page {
-        font-family: "Courier Prime", monospace;
-    }
-
-    .scene-page .scene {
-        max-width: 40rem;
-        margin: auto;
-    }
-
-    .scene-page .scene .title {
-        text-align: center;
-        font-size: larger;
-    }
-
-    .scene-page .scene .actor {
-        text-align: left;
-        margin-top: 4rem;
-    }
-
-    .scene-page .scene .text {
-        text-align: justify;
-        margin-left: 5rem;
-    }
-
-    .scene-page .scene .note {
-        font-size: small;
-        font-style: italic;
-    }
-
-    em {
-        font-style: italic;
-    }
-
-    ins {
-        text-decoration: underline;
-    }
-
-    strong {
-        font-weight: bolder;
-    }
 </style>
+<script src="{{ "/scripts/fountainparser.js" | relative_url }}"></script>
 
-<div class="scene-page">
+<section class="scene-page">
     <div id="script">{{ content }}</div>
-    <div id="scene" class="scene"></div>
-</div>
+    <div class="scene-holder">
+        <div id="scene" class="scene"></div>
+    </div>
+</section>
 
-<script>
-    function formatLine(text, regex, replace, open, close) {
-        var count = (text.match(regex) || []).length;
-        var replaced = 0;
-        while (
-            replaced < count &&
-            !(replaced === count - 1 && count % 2 === 1)
-        ) {
-            if (replaced % 2 === 0) {
-                text = text.replace(replace, open);
-            } else {
-                text = text.replace(replace, close);
-            }
-            replaced += 1;
-        }
-        return text;
-    }
-
-    window.onload = function () {
-        var script = document
-            .getElementById("script")
-            .innerHTML.replaceAll("<p>", "")
-            .replaceAll("</p>", "")
-            .split("\n");
-        document.getElementById("script").remove();
-
-        var scene = document.getElementById("scene");
-
-        var lastline = "empty";
-        for (var i = 0; i < script.length; i++) {
-            var line = script[i].trim();
-            if (line.length > 0) {
-                const para = document.createElement("p");
-
-                if (lastline === "empty") {
-                    if (line.startsWith(".")) {
-                        line = line.substr(1);
-                        para.classList.add("title");
-                        lastline = "title";
-                    } else if (line.toUpperCase() == line) {
-                        para.classList.add("actor");
-                        lastline = "actor";
-                    } else {
-                        para.classList.add("note");
-                        lastline = "note";
-                    }
-                } else {
-                    para.classList.add("text");
-                    lastline = "text";
-                }
-
-                para.innerHTML = line;
-                scene.appendChild(para);
-            } else {
-                lastline = "empty";
-            }
-        }
-    };
-</script>

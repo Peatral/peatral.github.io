@@ -1,4 +1,3 @@
-
 $screenSmallMax: 37.5rem;
 $screenMediumMax: 62rem;
 $screenMediumMin: 37.6rem;
@@ -11,23 +10,24 @@ $screenLargeMin: 62.1rem;
 }
 
 @mixin default {
-    background: white; 
-    color: black; 
+    background: white;
+    color: black;
 }
 
 @mixin inverted {
-    background: black; 
-    color: white; 
+    background: black;
+    color: white;
 }
 
 .site-header {
     position: sticky;
-    top: 0; 
-    left: 0; 
-    right: 0; 
-    width: 100%; 
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
     height: 3rem;
-    box-shadow: 0 0.125rem 0.312rem 0 rgba(0,0,0,0.16), 0 0.125rem 0.625rem 0 rgba(0,0,0,0.12);
+    box-shadow: 0 0.125rem 0.312rem 0 rgba(0, 0, 0, 0.16),
+        0 0.125rem 0.625rem 0 rgba(0, 0, 0, 0.12);
     z-index: 10;
 
     @include inverted();
@@ -62,25 +62,25 @@ body {
 
 main {
     flex: 1 0 auto;
-    
-    position: relative;  
-    left: 0; 
-    right: 0; 
+
+    position: relative;
+    left: 0;
+    right: 0;
 }
 
 footer {
-    position: relative;  
-    left: 0; 
-    right: 0; 
-    width: 100%;  
+    position: relative;
+    left: 0;
+    right: 0;
+    width: 100%;
     padding: 2rem 0 2rem 0;
 
     @include inverted();
 
     .link-wrapper {
-        display: flex; 
-        flex-direction: row; 
-        justify-content: center; 
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
         margin: 1rem;
         font-size: 1.5rem;
 
@@ -96,15 +96,15 @@ footer {
 
 .button {
     padding: 1rem;
-    
+
     @include inverted();
 
     text-decoration: none;
     text-transform: uppercase;
-    
+
     &:hover {
         background: lightgray;
-        color: black;    
+        color: black;
     }
 
     line-height: 1;
@@ -128,31 +128,31 @@ footer {
 }
 
 .opacity {
-    opacity: .6;
+    opacity: 0.6;
 }
 
 .content {
     margin: 0 8rem 0 8rem;
-    @media only screen and (max-width: $screenSmallMax)  {
+    @media only screen and (max-width: $screenSmallMax) {
         margin: 0 0.75rem 0 0.75rem;
     }
 }
 
 .hide-small {
-    @media only screen and (max-width: $screenSmallMax)  {
-        display: none!important;
+    @media only screen and (max-width: $screenSmallMax) {
+        display: none !important;
     }
 }
 
-.hide-medium{
-    @media (max-width:$screenMediumMax) and (min-width:$screenMediumMin){
-        display:none!important
+.hide-medium {
+    @media (max-width: $screenMediumMax) and (min-width: $screenMediumMin) {
+        display: none !important;
     }
 }
 
 .hide-large {
-    @media (min-width:$screenLargeMin){
-        display: none!important;
+    @media (min-width: $screenLargeMin) {
+        display: none !important;
     }
 }
 
@@ -167,17 +167,17 @@ footer {
 }
 
 .padding-16 {
-    padding-top: 1rem!important;
-    padding-bottom: 1rem!important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
 }
 
 .padding-32 {
-    padding: 2rem!important;
+    padding: 2rem !important;
 }
 
 .padding-64 {
-    padding-top: 4rem!important;
-    padding-bottom: 4rem!important;
+    padding-top: 4rem !important;
+    padding-bottom: 4rem !important;
 }
 
 .text-white {
@@ -192,12 +192,12 @@ footer {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
-    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
 }
 
 .jumbo {
-    font-size:4rem;
+    font-size: 4rem;
 }
 
 .large {
@@ -205,40 +205,45 @@ footer {
 }
 
 .animate-top {
-    position:relative;
-    animation:animatetop 0.4s
+    position: relative;
+    animation: animatetop 0.4s;
 }
 @keyframes animatetop {
     from {
-        top:-19rem;
-        opacity:0;
-    } 
+        top: -19rem;
+        opacity: 0;
+    }
     to {
-        top:0;
-        opacity:1;
+        top: 0;
+        opacity: 1;
     }
 }
 
 .animate-opacity {
-    animation:opac 0.8s
+    animation: opac 0.8s;
 }
 @keyframes opac {
     from {
-        opacity:0;
-    } 
+        opacity: 0;
+    }
     to {
-        opacity:1;
+        opacity: 1;
     }
 }
 
-textarea { 
-    vertical-align: top; 
+textarea {
+    vertical-align: top;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Segoe UI",Arial,sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Segoe UI", Arial, sans-serif;
     font-weight: 400;
-    margin: .625rem 0;
+    margin: 0.625rem 0;
 }
 
 h1 {
@@ -263,7 +268,8 @@ h2 {
 }
 
 .card {
-    box-shadow: 0 .125rem .312rem 0 rgba(0,0,0,0.16), 0 .125rem .625rem 0 rgba(0,0,0,0.12);
+    box-shadow: 0 0.125rem 0.312rem 0 rgba(0, 0, 0, 0.16),
+        0 0.125rem 0.625rem 0 rgba(0, 0, 0, 0.12);
     padding: 1rem;
 }
 
@@ -272,19 +278,19 @@ h2 {
     flex-flow: row wrap;
     align-items: stretch;
     justify-items: stretch;
-    @media only screen and (max-width: $screenMediumMax)  {
+    @media only screen and (max-width: $screenMediumMax) {
         flex-direction: column;
     }
 }
 
 .flex-item {
     box-sizing: border-box;
-    padding: 0 .5rem;
-    display: flex; 
-    flex-direction: row; 
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: row;
     align-items: stretch;
     justify-items: stretch;
-    @media only screen and (max-width: $screenMediumMax)  {
+    @media only screen and (max-width: $screenMediumMax) {
         flex-direction: column;
     }
 
@@ -296,7 +302,6 @@ h2 {
 .flex-half {
     @extend .flex-item;
     flex: 0 50%;
-
 }
 
 .flex-third {
@@ -305,14 +310,14 @@ h2 {
 }
 
 .flex-vertical {
-    display: flex; 
-    flex-flow: column nowrap; 
-    justify-items: stretch; 
+    display: flex;
+    flex-flow: column nowrap;
+    justify-items: stretch;
     align-items: stretch;
 }
 
 .flex-stretch {
-    flex-grow: 1 ;
+    flex-grow: 1;
 }
 
 .text-container {
@@ -326,11 +331,11 @@ h2 {
     padding: 1rem;
     min-height: fit-content;
     max-width: 50rem;
-    
+
     .prev {
         float: left;
     }
-    
+
     .next {
         float: right;
     }
@@ -339,4 +344,4 @@ h2 {
 @import "tooltip";
 @import "itchwidget";
 @import "infocard";
-
+@import "scene_styles";
