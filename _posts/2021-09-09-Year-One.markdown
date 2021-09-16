@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Year One"
+date: 2021-09-09 13:10:00 +0200
+categories: update
+excerpt_separator: <!--more-->
+author: Christof Reimers
+---
+
+Ok, one year has passed, what did I do? A lot and nothing at the same time...
+
+<!--more-->
+
+First things first, the actual accomplishments: I finished school and I am starting with university soon, that is at least something. But the last half a year you could more or less look at the Github commit history to see how productive I was. Be warned, it looks less than it is because _private repos_.
+So that is what I did the last year:
+
+-   I updated my mod, but now you could say I'm in integration hell, to many mod integrations and being on the verge of a new forgegradle version don't mix well. Yes, I can't update my mod anymore
+-   There is a lot of self-taught JavaScript/Node.js sites/applications:
+    -   A website that takes youtube streams and plays back the audio
+    -   A Discord Bot. No, it is not publicly available, it is used as a gimmick on two servers. But this bot has actually quite a range of features
+        -   Polls
+        -   random post from specified subreddits
+        -   nekos.life - oh yes
+        -   a more or less broken stock api
+    -   A minecraft skin-viewer (it _works_)
+-   I contributed to a few things:
+    -   German translations for the [Create Mod](https://www.curseforge.com/minecraft/mc-mods/create)
+    -   The Godotcord-Godot-Module (a discord integration for the [Godot Engine](https://godotengine.org))
+-   besides those things i did a few things in private:
+    -   more Minecraft modding, a mod that lets you level things like in [Warframe](https://www.warframe.com) (a really good time sink over the last months)
+    -   a not-playable online game a friend started, got me interested in all kinds of JS things
+
+Oh, and i was so nice to get a domain: `peatral.xyz`. It just bugged me that i used a domain in my java packages that i didn't even own, so i guess from now on i use `peatral.xyz` and not `peatral.com`, it was free all the time but .com domains are boring and .xyz domains are cheaper and cooler. I mean .moe would have been nice too but those are way to expensive (for me at least, the person with a budget of 0€, I usually try to get things for free if and look to get it as cheap as possible if there's no other way).
+
+So, what now?
+
+I guess I have no idea, exactly like the last time I wrote something on here. Well, till next year or whenever, I guess i will figure something out...
