@@ -12,7 +12,7 @@ Ignatz sitzt im Hintergrund mit hochgelegten Füßen auf einem Stuhl. Er hat ein
 Martin, mittig, frontal zum Publikum gewandt:
 
 MARTIN
-Darf Ich mich vorstellen, mein Name ist Martin. Ich bin der Schwager von Anna und habe ihr auch schon damals geholfen aufs Land zu ziehen. Nun kam sie wieder in die Stadt und klagte mir ihr leid dass Frau Zingli ihr Kind gestohlen hätte. Dieses Leid betrübt auch mich sehr, daher werde Ich nun meinen langjährigen und sehr guten Freund den Richter... den Richter... 
+Darf Ich mich vorstellen, mein Name ist Martin. Ich bin der Schwager von Anna und habe ihr auch schon damals geholfen aufs Land zu ziehen. Nun kam sie wieder in die Stadt und klagte mir ihr Leid dass Frau Zingli ihr Kind gestohlen hätte. Dieses Leid betrübt auch mich sehr, daher werde Ich nun meinen langjährigen und sehr guten Freund den Richter... den Richter... 
 _(Zu Ignatz im Hintergrund)_ 
 Wie heißt du nochmal? 
 
