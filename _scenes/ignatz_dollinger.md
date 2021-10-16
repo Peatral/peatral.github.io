@@ -1,6 +1,6 @@
 ---
 layout: scene
-title: Ignatz Dollinger
+title: Ignatz Dollinger und das Fass
 description: Szene zu "Der Augsburger Kreidekreis"
 author: Christof & Peter
 date: 2020-09-08
