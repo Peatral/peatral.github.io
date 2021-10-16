@@ -38,6 +38,15 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: 'reveal.js'
+    values:
+      sitemap: false
+
 
 collections:
   presentations:
