@@ -21,9 +21,9 @@
 title: Peatral
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Frontpage of a coder
+  Frontpage of a coder
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://peatral.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.peatral.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheRealPeatral
 github_username: Peatral
 
@@ -35,28 +35,28 @@ github_username: Peatral
 show-excerpts: true
 
 plugins:
-    - jekyll-feed
-    - jekyll-seo-tag
-    - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
 
 collections:
-    presentations:
-        output: true
-    projects:
-        output: true
-    scenes:
-        output: true
+  presentations:
+    output: true
+  projects:
+    output: true
+  scenes:
+    output: true
 
 kramdown:
-    syntax_highlighter_opts:
-        disable: true
+  syntax_highlighter_opts:
+    disable: true
 
 feed:
-    path: feed/posts.xml
-    collections:
-        - presentations
-        - projects
-        - scenes
+  path: feed/posts.xml
+  collections:
+    - presentations
+    - projects
+    - scenes
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
