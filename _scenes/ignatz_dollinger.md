@@ -72,7 +72,7 @@ Nun, das Kind ist nicht ihr leibliches Kind, sie hat es vor dem Tod gerettet und
 IGNATZ
 Diese Frage bedarf durchaus eine moralische Lösung, eine Juristische wäre unangebracht. Mir fällt da ein Test ein. Ich brauche ein großes Stück Kreide und ein randvolles Fass. 
 _(Zum Publikum gewandt)_
-Die Kreide für den Test und das Fass für die Feier danach, versteht ssch...
+Die Kreide für den Test und das Fass für die Feier danach, versteht sich...
 
 MARTIN
 Nun die Kreide muss Ich noch besorgen, aber Ich kenne dich nun doch und habe ein ebensolches Fass genau hier: frisch vom Kloster Andechs! 
