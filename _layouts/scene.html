@@ -5,21 +5,45 @@ layout: default
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link
-    href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-    rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+  rel="stylesheet"
 />
 <style>
-    main {
-        background-color: black;
-        color: white;
-    }
+  main {
+    background-color: black;
+    color: white;
+  }
 </style>
-<script src="{{ "/scripts/fountainparser.js" | relative_url }}"></script>
+<!--<script src="{{ "/scripts/fountainparser.js" | relative_url }}"></script>-->
+<script src="{{ "/scripts/fountain.js" | relative_url }}"></script>
+<script type="text/javascript">
+  window.onload = function () {
+    if (window.location.search.match(/raw/gi)) {
+      return;
+    }
+    var scriptElement = document.getElementById("script");
+    if (scriptElement == undefined) {
+      return;
+    }
+    var script = scriptElement.innerHTML;
+    fountain.parse(script, true, (output) => {
+      console.log(output.tokens);  
+      var sceneElement = document.getElementById("scene");
+      scriptElement.remove();
+      sceneElement.innerHTML = output.html.script;
+    });
+  };
+</script>
 
+{% if page.fountain_file %}
 <section class="scene-page">
-    <div id="script">{{ content }}</div>
-    <div class="scene-holder">
-        <div id="scene" class="scene"></div>
-    </div>
-</section>
+  {%- capture rawContent -%} {% include_relative {{ page.fountain_file }} %} {%-
+  endcapture -%}
+  <pre id="script">{{- rawContent -}}</pre>
 
+  <div class="scene-holder">
+    <div id="scene" class="scene"></div>
+  </div>
+</section>
+{% endif %}
+<article class="justify padding-32">{{ content }}</article>

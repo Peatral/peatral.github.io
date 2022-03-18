@@ -1,67 +1,79 @@
 .scene-page {
-    font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
 
-    .scene-holder {
-        display: flex;
-        flex-flow: row nowrap;
-        justify-content: center;
+  .scene-holder {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
 
-        .scene {
-            display: flex;
-            flex-flow: column nowrap;
-            max-width: 40rem;
-            margin: 2rem;
+    .scene {
+      display: flex;
+      flex-flow: column nowrap;
+      max-width: 40rem;
+      margin: 2rem;
+      white-space: pre-wrap;
+      word-wrap: break-word;
 
-            .sceneheading {
-                margin-top: 2rem;
-                text-align: center;
-                font-size: 150%;
-                font-family: "Courier Prime", monospace;
-            }
+      .sceneheading {
+        margin-top: 2rem;
+        text-align: center;
+        font-size: 150%;
+        font-family: 'Courier Prime', monospace;
+      }
 
-            .actor {
-                text-align: left;
-                margin-top: 3rem;
-                margin-bottom: 0.5rem;
-                font-size: 110%;
-            }
+      .dialogue {
+        max-width: 40rem;
+        margin: 0 0 0 0;
+      }
 
-            .text {
-                text-align: justify;
-                margin-top: 0.5rem;
-                margin-bottom: 0.5rem;
-                @media (min-width: 600px) {
-                    margin-left: 5rem;
-                }
-                @media (max-width: 600px) {
-                    margin-left: 1rem;
-                }
-            }
+      .character {
+        text-align: left;
+        margin-top: 3rem;
+        margin-bottom: 0.5rem;
+        font-size: 110%;
+        font-family: 'Courier Prime', monospace;
+      }
 
-            .action {
-                margin-top: 0.5rem;
-                margin-bottom: 0.5rem;
-                font-style: italic;
-            }
-
-            .note {
-                margin-top: 0.5rem;
-                margin-bottom: 0.5rem;
-                font-size: small;
-                font-style: italic;
-            }
+      .text {
+        text-align: justify;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+        @media (min-width: 600px) {
+          margin-left: 5rem;
         }
+        @media (max-width: 600px) {
+          margin-left: 1rem;
+        }
+      }
+
+      .action {
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+        font-style: italic;
+      }
+
+      .note {
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+        font-size: small;
+        font-style: italic;
+      }
     }
+  }
 }
 
-.underlined {
-    text-decoration: underline;
+.underline {
+  text-decoration: underline;
 }
 
-em {
-    font-style: italic;
+.italic {
+  font-style: italic;
 }
 
-strong {
-    font-weight: bolder;
+.bold {
+  font-weight: bolder;
+}
+
+pre {
+  white-space: pre-wrap;
 }

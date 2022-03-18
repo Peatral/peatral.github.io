@@ -14,6 +14,5 @@ if (window.location.search.match(/print-pdf/gi)) {
 window.onload = function () {
   if (window.location.search.match(/print-pdf/gi)) {
     document.getElementById("homebutton").remove();
-    print();
   }
 };
