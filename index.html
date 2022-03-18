@@ -59,8 +59,8 @@ headbar: true
       <div class="card notinverted">
         <h2>{{ item.title | escape }}</h2>
         <p class="opacity"><i>{{ item.description }}</i></p>
-        <a href="{{ item.secondlink }}" class="tooltip"><i class="fav-size-med {{ item.secondlink-class }} w3-hover-opacity"></i><span class="tooltiptext">{{ item.secondlink-tooltip}}</span></a>
-        {% if item.repo %}<a href="https://github.com/Peatral/{{ item.repo }}" class="tooltip"><i class="fav-size-med fab fa-github w3-hover-opacity"></i><span class="tooltiptext">Github Repository</span></a>{% endif %}
+        <a href="{{ item.secondlink }}" class="tooltip"><i class="fav-size-med {{ item.secondlink-class }} hover-opacity"></i><span class="tooltiptext">{{ item.secondlink-tooltip}}</span></a>
+        {% if item.repo %}<a href="https://github.com/Peatral/{{ item.repo }}" class="tooltip"><i class="fav-size-med fab fa-github hover-opacity"></i><span class="tooltiptext">Github Repository</span></a>{% endif %}
         {{ item.excerpt }}
         
         {%- if item.more -%}
@@ -77,7 +77,7 @@ headbar: true
 
 {%- if site.posts.size > 0 -%}
   <!-- Posts -->
-  <div class="center container padding-64">
+  <div id="posts" class="center container padding-64">
     <div class="page-heading">
       <h2 class="wide">{{ page.list_title | default: "Posts" }}</h2>
       <i class="opacity">Random stuff...</i>

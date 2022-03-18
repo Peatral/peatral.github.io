@@ -3,7 +3,7 @@ title: Scenes
 layout: page 
 permalink: /scenes/
 description: A few scenes. A pretty random collection
-headbar: true
+headbar: false
 ---
 <div class="center text-container">
   <p class="justify">
@@ -21,9 +21,9 @@ headbar: true
           {{ scene.description }}
         </div>
         <div class="link">
-          <a class="hover-opacity tooltip" href="{{ scene.url | relative_url }}"><i class="icon fab fa-readme hover-opacity"></i><span class="tooltiptext">Read</span></a>
+          <a class="tooltip" href="{{ scene.url | relative_url }}"><i class="icon fab fa-readme hover-opacity"></i><span class="tooltiptext">Read</span></a>
           {%- if scene.fountain_file -%}
-            <a class="hover-opacity tooltip" href="{{ scene.fountain_file | prepend: '/scenes' }}" target="_blank" content-type="plain/text"><i class="icon fas fa-code hover-opacity"></i><span class="tooltiptext">Fountain File</span></a>
+            <a class="tooltip" href="{{ scene.fountain_file | prepend: '/scenes' }}" target="_blank" content-type="plain/text"><i class="icon fas fa-code hover-opacity"></i><span class="tooltiptext">Fountain File</span></a>
           {%- endif -%}
         </div>
       </div>

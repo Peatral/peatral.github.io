@@ -1,0 +1,46 @@
+---
+title: Projects
+layout: page 
+permalink: /projects/
+description: All my projects...
+headbar: false
+---
+<div class="center text-container">
+    <p class="justify">
+        Projects, totally random, whatever:
+    </p>
+</div>
+
+<div class="flex-stretch flex-container center" style="max-width: 1100px; width: 100%">
+    {% assign sorted = site.projects | sort: 'date' | reverse %}
+    {%- for project in sorted -%}
+    <div class="{% if site.projects.size > 2 %}flex-third{% else %}flex-half{% endif %}" style="padding: 8px;">
+        <div class="card inverted info-card">
+            <div class="excerpt center">
+                <div class="justify">
+                    {{ project.description }}
+                </div>
+                <div class="link">
+                  <a class="tooltip" href="{{ project.url | relative_url }}"><i class="icon fab fa-readme hover-opacity"></i><span class="tooltiptext">Read</span></a>
+                  <a href="{{ project.secondlink }}" class="tooltip"><i class="fav-size-med {{ project.secondlink-class }} hover-opacity"></i><span class="tooltiptext">{{ project.secondlink-tooltip}}</span></a>
+                  {% if project.repo %}<a href="https://github.com/Peatral/{{ project.repo }}" class="tooltip"><i class="fav-size-med fab fa-github hover-opacity"></i><span class="tooltiptext">Github Repository</span></a>{% endif %} 
+                </div>
+                
+            </div>
+            <div class="primary-infos">
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                <p class="meta">
+                    <span >{{ project.date | date: date_format }} </span>
+                    {%- if project.author -%}
+                     • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ project.author }}</span></span>
+                    {%- endif -%}
+                </p>
+                
+                <h3 class="title">{{ project.title | escape }}</h3>
+            </div>  
+        </div>
+    </div>
+    {%- endfor -%}
+</div>
+
+<a href="{{ "/feed/projects.xml" | relative_url }}" class="tooltip"><i class="fas fa-rss-square" style="font-size: 1.5rem;"></i><span class="tooltiptext bottom">RSS</span></a>

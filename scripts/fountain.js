@@ -324,12 +324,12 @@
           break;
 
         case 'scene_heading':
-          /*html.push(
+          html.push(
             '<h3 class="sceneheading"' +
               (token.scene_number ? ' id="' + token.scene_number + '">' : '>') +
               token.text +
               '</h3>'
-          );*/
+          );
           break;
         case 'transition':
           html.push('<h2>' + token.text + '</h2>');
@@ -339,12 +339,12 @@
           html.push('<div class="dual-dialogue">');
           break;
         case 'dialogue_begin':
-          /*html.push(
+          html.push(
             '<div class="dialogue' + (token.dual ? ' ' + token.dual : '') + '">'
-          );*/
+          );
           break;
         case 'character':
-          //html.push('<h4 class="character">' + token.text + '</h4>');
+          html.push('<h4 class="character">' + token.text + '</h4>');
           break;
         case 'parenthetical':
           html.push('<p class="parenthetical text">' + token.text + '</p>');
@@ -353,7 +353,7 @@
           html.push('<p class="text">' + token.text + '</p>');
           break;
         case 'dialogue_end':
-          //html.push('</div> ');
+          html.push('</div> ');
           break;
         case 'dual_dialogue_end':
           html.push('</div> ');

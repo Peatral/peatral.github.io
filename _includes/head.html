@@ -1,41 +1,38 @@
 <head>
-	<meta charset="utf-8">
-	
-	<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
-	<script src="https://kit.fontawesome.com/f885968b9e.js" crossorigin="anonymous"></script>
-	<!--<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">-->
-	
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- seo -%}
-	
-	<link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
-	<link rel="shortcut icon" type="image/png" href="{{ "/assets/icon/icon-512x512.png" | relative_url }}">
-	<link rel="icon" type="image/png" href="{{ "/assets/icon/icon-512x512.png" | relative_url }}">
-	<link rel="apple-touch-icon" href="{{ "/assets/ios-icon/ios-icon-180x180.png" | relative_url }}">
-	
-	<link rel="manifest" href="/manifest.webmanifest">
-	<!--<script src="{{ "/scripts/main.js" | relative_url }}"></script>-->
-	<meta name="theme-color" content="#000">
+  <meta charset="utf-8" />
 
-    {%- feed_meta -%}
-    {%- if jekyll.environment == 'production' and site.google_analytics -%}
-		{%- include google-analytics.html -%}
-    {%- endif -%}
+  <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
+  <script
+    src="https://kit.fontawesome.com/f885968b9e.js"
+    crossorigin="anonymous"
+  ></script>
+  <!--<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">-->
 
-    
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-	<style>
-		body {
-			font-family: "Lato", sans-serif
-		}
-		
-		.fav-size-med {
-				font-size: 1.5em;
-		}
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  {%- seo -%} <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url
+  }}"> <link rel="shortcut icon" type="image/png" href="{{
+  "/assets/icon/icon-512x512.png" | relative_url }}"> <link rel="icon"
+  type="image/png" href="{{ "/assets/icon/icon-512x512.png" | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ "/assets/ios-icon/ios-icon-180x180.png"
+  | relative_url }}">
 
-		html {
-			scroll-behavior: smooth;
-		}
-	</style>
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <!--<script src="{{ "/scripts/main.js" | relative_url }}"></script>-->
+  <script src="{{ "/scripts/load_theme.js" | relative_url }}"></script>
+  <meta name="theme-color" content="#000" />
+
+  {%- feed_meta -%} {%- if jekyll.environment == 'production' and
+  site.google_analytics -%} {%- include google-analytics.html -%} {%- endif -%}
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato" />
+  <style>
+    body {
+      font-family: 'Lato', sans-serif;
+    }
+
+    .fav-size-med {
+      font-size: 1.5em;
+    }
+  </style>
 </head>

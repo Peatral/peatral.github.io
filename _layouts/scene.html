@@ -8,12 +8,6 @@ layout: default
   href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap"
   rel="stylesheet"
 />
-<style>
-  main {
-    background-color: black;
-    color: white;
-  }
-</style>
 <!--<script src="{{ "/scripts/fountainparser.js" | relative_url }}"></script>-->
 <script src="{{ "/scripts/fountain.js" | relative_url }}"></script>
 <script type="text/javascript">
@@ -26,8 +20,7 @@ layout: default
       return;
     }
     var script = scriptElement.innerHTML;
-    fountain.parse(script, true, (output) => {
-      console.log(output.tokens);  
+    fountain.parse(script, true, (output) => {  
       var sceneElement = document.getElementById("scene");
       scriptElement.remove();
       sceneElement.innerHTML = output.html.script;
@@ -35,15 +28,17 @@ layout: default
   };
 </script>
 
-{% if page.fountain_file %}
-<section class="scene-page">
-  {%- capture rawContent -%} {% include_relative {{ page.fountain_file }} %} {%-
-  endcapture -%}
-  <pre id="script">{{- rawContent -}}</pre>
-
-  <div class="scene-holder">
-    <div id="scene" class="scene"></div>
-  </div>
-</section>
-{% endif %}
-<article class="justify padding-32">{{ content }}</article>
+<div class="center">
+  {% if page.fountain_file %}
+    <section class="scene-page">
+      {%- capture rawContent -%} {% include_relative {{ page.fountain_file }} %} {%-
+      endcapture -%}
+      <pre id="script">{{- rawContent -}}</pre>
+    
+      <div class="scene-holder">
+        <div id="scene" class="scene"></div>
+      </div>
+    </section>
+  {% endif %}
+  <article class="content text-container justify">{{ content }}</article>
+</div>
