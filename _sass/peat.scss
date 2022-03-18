@@ -4,235 +4,235 @@ $screenMediumMin: 37.6rem;
 $screenLargeMin: 62.1rem;
 
 @mixin hCenter {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 @mixin default {
-    background: white;
-    color: black;
+  background: white;
+  color: black;
 }
 
 @mixin inverted {
-    background: black;
-    color: white;
+  background: black;
+  color: white;
 }
 
 .site-header {
-    position: sticky;
-    top: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-    height: 3rem;
-    box-shadow: 0 0.125rem 0.312rem 0 rgba(0, 0, 0, 0.16),
-        0 0.125rem 0.625rem 0 rgba(0, 0, 0, 0.12);
-    z-index: 10;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 3rem;
+  box-shadow: 0 0.125rem 0.312rem 0 rgba(0, 0, 0, 0.16),
+    0 0.125rem 0.625rem 0 rgba(0, 0, 0, 0.12);
+  z-index: 10;
 
-    @include inverted();
+  @include inverted();
 
-    nav {
-        height: 100%;
-        display: flex;
-        flex-direction: row;
-        justify-items: flex-start;
-        align-content: center;
-    }
+  nav {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-items: flex-start;
+    align-content: center;
+  }
 }
 
 body {
-    min-height: 100vh;
-    margin: 0 0 0 0;
-    @include hCenter();
+  min-height: 100vh;
+  margin: 0 0 0 0;
+  @include hCenter();
 
-    font-size: 1rem;
-    line-height: 1.5;
+  font-size: 1rem;
+  line-height: 1.5;
 
-    width: 100%;
+  width: 100%;
 
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 
-    @include default;
+  @include default;
 
-    a {
-        color: darkslategray;
-    }
+  a {
+    color: darkslategray;
+  }
 }
 
 main {
-    flex: 1 0 auto;
+  flex: 1 0 auto;
 
-    position: relative;
-    left: 0;
-    right: 0;
+  position: relative;
+  left: 0;
+  right: 0;
 }
 
 footer {
-    position: relative;
-    left: 0;
-    right: 0;
-    width: 100%;
-    padding: 2rem 0 2rem 0;
+  position: relative;
+  left: 0;
+  right: 0;
+  width: 100%;
+  padding: 2rem 0 2rem 0;
 
-    @include inverted();
+  @include inverted();
 
-    .link-wrapper {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        margin: 1rem;
-        font-size: 1.5rem;
-
-        a {
-            margin: 0.125rem;
-        }
-    }
+  .link-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 1rem;
+    font-size: 1.5rem;
 
     a {
-        color: lightgray;
+      margin: 0.125rem;
     }
+  }
+
+  a {
+    color: lightgray;
+  }
 }
 
 .button {
-    padding: 1rem;
+  padding: 1rem;
 
-    @include inverted();
+  @include inverted();
 
-    text-decoration: none;
-    text-transform: uppercase;
+  text-decoration: none;
+  text-transform: uppercase;
 
-    &:hover {
-        background: lightgray;
-        color: black;
-    }
+  &:hover {
+    background: lightgray;
+    color: black;
+  }
 
-    line-height: 1;
+  line-height: 1;
 }
 
 .hover-opacity:hover {
-    opacity: 80%;
+  opacity: 80%;
 }
 
 .page-heading {
-    text-align: center;
+  text-align: center;
 
-    i {
-        width: 100%;
-    }
+  i {
+    width: 100%;
+  }
 }
 
 .wide {
-    letter-spacing: 0.25rem;
-    text-transform: uppercase;
+  letter-spacing: 0.25rem;
+  text-transform: uppercase;
 }
 
 .opacity {
-    opacity: 0.6;
+  opacity: 0.6;
 }
 
 .content {
-    margin: 0 8rem 0 8rem;
-    @media only screen and (max-width: $screenSmallMax) {
-        margin: 0 0.75rem 0 0.75rem;
-    }
+  margin: 0 8rem 0 8rem;
+  @media only screen and (max-width: $screenSmallMax) {
+    margin: 0 0.75rem 0 0.75rem;
+  }
 }
 
 .hide-small {
-    @media only screen and (max-width: $screenSmallMax) {
-        display: none !important;
-    }
+  @media only screen and (max-width: $screenSmallMax) {
+    display: none !important;
+  }
 }
 
 .hide-medium {
-    @media (max-width: $screenMediumMax) and (min-width: $screenMediumMin) {
-        display: none !important;
-    }
+  @media (max-width: $screenMediumMax) and (min-width: $screenMediumMin) {
+    display: none !important;
+  }
 }
 
 .hide-large {
-    @media (min-width: $screenLargeMin) {
-        display: none !important;
-    }
+  @media (min-width: $screenLargeMin) {
+    display: none !important;
+  }
 }
 
 .justify {
-    text-align: justify;
-    text-justify: inter-word;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .center {
-    @include hCenter();
-    text-align: center;
+  @include hCenter();
+  text-align: center;
 }
 
 .padding-16 {
-    padding-top: 1rem !important;
-    padding-bottom: 1rem !important;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
 }
 
 .padding-32 {
-    padding: 2rem !important;
+  padding: 2rem !important;
 }
 
 .padding-64 {
-    padding-top: 4rem !important;
-    padding-bottom: 4rem !important;
+  padding-top: 4rem !important;
+  padding-bottom: 4rem !important;
 }
 
 .text-white {
-    color: white;
+  color: white;
 }
 
 .display-container {
-    position: relative;
+  position: relative;
 }
 
 .display-middle {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
 }
 
 .jumbo {
-    font-size: 4rem;
+  font-size: 4rem;
 }
 
 .large {
-    font-size: 1.125rem;
+  font-size: 1.125rem;
 }
 
 .animate-top {
-    position: relative;
-    animation: animatetop 0.4s;
+  position: relative;
+  animation: animatetop 0.4s;
 }
 @keyframes animatetop {
-    from {
-        top: -19rem;
-        opacity: 0;
-    }
-    to {
-        top: 0;
-        opacity: 1;
-    }
+  from {
+    top: -19rem;
+    opacity: 0;
+  }
+  to {
+    top: 0;
+    opacity: 1;
+  }
 }
 
 .animate-opacity {
-    animation: opac 0.8s;
+  animation: opac 0.8s;
 }
 @keyframes opac {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 textarea {
-    vertical-align: top;
+  vertical-align: top;
 }
 
 h1,
@@ -241,104 +241,122 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Segoe UI", Arial, sans-serif;
-    font-weight: 400;
-    margin: 0.625rem 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-weight: 400;
+  margin: 0.625rem 0;
 }
 
 h1 {
-    font-size: 2.25rem;
+  font-size: 2.25rem;
 }
 
 h2 {
-    font-size: 1.875rem;
+  font-size: 1.875rem;
 }
 
 .container {
-    padding: 0.01em 1rem;
-    min-height: 100vh;
+  padding: 0.01em 1rem;
+  min-height: 100vh;
 }
 
 .inverted {
-    @include inverted();
+  @include inverted();
 }
 
 .notinverted {
-    @include default();
+  @include default();
 }
 
 .card {
-    box-shadow: 0 0.125rem 0.312rem 0 rgba(0, 0, 0, 0.16),
-        0 0.125rem 0.625rem 0 rgba(0, 0, 0, 0.12);
-    padding: 1rem;
+  box-shadow: 0 0.125rem 0.312rem 0 rgba(0, 0, 0, 0.16),
+    0 0.125rem 0.625rem 0 rgba(0, 0, 0, 0.12);
+  padding: 1rem;
 }
 
 .flex-container {
-    display: flex;
-    flex-flow: row wrap;
-    align-items: stretch;
-    justify-items: stretch;
-    @media only screen and (max-width: $screenMediumMax) {
-        flex-direction: column;
-    }
+  display: flex;
+  flex-flow: row wrap;
+  align-items: stretch;
+  justify-items: stretch;
+  @media only screen and (max-width: $screenMediumMax) {
+    flex-direction: column;
+  }
 }
 
 .flex-item {
-    box-sizing: border-box;
-    padding: 0 0.5rem;
-    display: flex;
-    flex-direction: row;
-    align-items: stretch;
-    justify-items: stretch;
-    @media only screen and (max-width: $screenMediumMax) {
-        flex-direction: column;
-    }
+  box-sizing: border-box;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-items: stretch;
+  @media only screen and (max-width: $screenMediumMax) {
+    flex-direction: column;
+  }
 
-    .card {
-        flex-grow: 1;
-    }
+  .card {
+    flex-grow: 1;
+  }
 }
 
 .flex-half {
-    @extend .flex-item;
-    flex: 0 50%;
+  @extend .flex-item;
+  flex: 0 50%;
 }
 
 .flex-third {
-    @extend .flex-item;
-    flex: 0 33.333%;
+  @extend .flex-item;
+  flex: 0 33.333%;
 }
 
 .flex-vertical {
-    display: flex;
-    flex-flow: column nowrap;
-    justify-items: stretch;
-    align-items: stretch;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-items: stretch;
+  align-items: stretch;
 }
 
 .flex-stretch {
-    flex-grow: 1;
+  flex-grow: 1;
 }
 
 .text-container {
-    max-width: 50rem;
+  max-width: 50rem;
 }
 
 .navigation {
-    width: 50%;
-    margin: auto;
-    margin-bottom: 1rem;
-    padding: 1rem;
-    min-height: fit-content;
-    max-width: 50rem;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  min-height: fit-content;
+  max-width: 50rem;
 
-    .prev {
-        float: left;
-    }
+  .prev {
+    float: left;
+  }
 
-    .next {
-        float: right;
-    }
+  .next {
+    float: right;
+  }
+}
+
+.image-container {
+  width: calc(100% - 2 * 1rem);
+  margin: 1rem;
+
+  img {
+    width: 100%;
+  }
+
+  p {
+    margin: 0;
+    font-style: italic;
+  }
+}
+
+.project-section {
+  margin-top: 3rem;
 }
 
 @import "tooltip";

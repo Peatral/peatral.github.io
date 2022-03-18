@@ -6,14 +6,120 @@ author: Christof Reimers
 layout: project
 repo: EmbersConstruct
 secondlink: https://www.curseforge.com/minecraft/mc-mods/embersconstruct
-secondlink-class: fas fa-home
+secondlink-class: fa-solid fa-fire-flame-curved
 secondlink-tooltip: Curseforge Page
+excerpt_separator: <!--more-->
+more: true
+permalink: /embersconstruct/
 ---
 
-<p class="justify">
-  Looking around I just didn't find the right mod that fulfilled this purpose.
-  Me, having modding experience (although I never finished/published one before)
-  took the task on myself and created Embers' Construct. Although it is still in
-  heavy development I actually released it and updated it several times till
-  now.
-</p>
+<section>
+  <p class="justify">
+    Looking around I just didn't find the right mod that fulfilled this purpose.
+    Me, having modding experience (although I never finished/published one before)
+    took the task on myself and created Embers' Construct. Although it is still in
+    heavy development I actually released it and updated it several times till
+    now.
+  </p>
+</section>
+<!--more-->
+
+<section class="project-section" id="introduction">
+  <!-- The introduction of the mod -->
+  <h2 class="center">The Mod</h2>
+  <p class="justify">
+    So what is this mod about? This mod is the bridge that connects Tinkers' Construct with Embers Rekindled,
+    the bridge between classic tool tinkering and dwarven magic.
+    <br>
+    This mod has a set of features:
+    <ul>
+      <li><a href="#melting_stamping_mixer">Melting and Stamping recipe integration</a></li>
+      <li><a href="#recipe_removal">Tinker recipe removal</a></li>
+      <li><a href="#kiln_stamps">The Kiln and stamps</a></li>
+      <li><a href="#bloomery_wrought_iron">The Bloomery and wrought iron</a></li>
+    </ul>
+    
+    <div class="image-container">
+      <img src="{{ "/assets/projects/embersconstruct/blocks_added.png" | relative_url }}" alt="The three important blocks added by the mod." title="The three important blocks added by the mod.">
+      <p>The Stamp Table, Kiln and Bloomery.</p>
+    </div>
+  </p>
+</section>
+
+<section class="project-section" id="melting_stamping_mixer">
+  <!-- Melting, Stamping, Mixing -->
+  <h2 class="center">Melting and Stamping recipe integration</h2>
+  <p class="justify">
+    This mod takes all recipes from the smeltery and copies them to the melter, mixer centrifuge and stamper, meaning we can do the following:
+    <ul>
+      <li>Melt everything with the melter that you can also smelt in the smeltery</li>
+      <li>Create alloys with the mixer centrifuge that could be created in the smeltery</li>
+      <li>Through the stamp system, stamp nearly everything you can obtain through casting</li>
+    </ul>
+  </p>
+</section>
+
+<section class="project-section" id="recipe_removal">
+  <!-- Recipe removal -->
+  <h2 class="center">Tinker recipe removal</span></h2>
+  <p class="justify">
+    The config system allows it to remove the recipes of the smeltery after the recipes got copied. This enables you to experience Tinkers with Embers only.
+    <br>
+    <br>
+    <span style="color: red; font-style: italic; font-weight: bold;">Warning!</span> If this feature is used in combination with Tinkers Survival, read more at <a href="#bloomery_wrought_iron">The Bloomery and wrought iron</a>.
+  </p>
+</section>
+
+<section class="project-section" id="kiln_stamps">
+  <!-- Kiln and Stamps -->
+  <h2 class="center">The Kiln and stamps</h2>
+  <p class="justify">
+    So how do the stamps work? If you remember, Tinkers uses casts to let you create your metallic desires, Embers uses the stamper. 
+    <br>
+    The conversion is easy, you just need to create the kiln and stamp table beforehand:
+  </p>
+    <ol>
+      <li>Craft some raw flat stamps</li>
+      <li>Put them into the stamp table</li>
+      <li>Select the stamp in the stamp table you want to create</li>
+      <li>Put raw stamp into kiln</li>
+      <li>Bake!</li>
+      <li>Put finished stamp into stamper</li>
+      <li>Profit</li>
+    </ol> 
+    <div class="image-container">
+      <img src="{{ "/assets/projects/embersconstruct/stamp_table.png" | relative_url }}" alt="The interface of the stamp table." title="The interface of the stamp table.">
+      <p>The interface of the stamp table.</p>
+    </div>
+    <div class="image-container"">
+      <img src="{{ "/assets/projects/embersconstruct/kiln_gui.png" | relative_url }}" alt="The interface of the kiln." title="The interface of the kiln.">
+      <p>The interface of the kiln.</p>
+    </div>
+  <p class="justif">
+    As you can see the system works similar to the pattern system of Tinkers. Instead of blank patterns you need raw stamps. 
+    After you have your desired flat stamp you have to bake them like other Embers stamps, with the only difference being you have to use the kiln to bake them.
+    When you got you finished stamps you can just use them as any other stamp in Embers.
+  </p>
+</section>
+
+<section class="project-section" id="bloomery_wrought_iron">
+  <!-- Bloomery and Wrought Iron -->
+  <h2 class="center">The Bloomery and wrought iron</h2>
+  <p class="justify">
+    What is the deal with wrought iron? If you have Tinkers Survival installed and remove the Tinkers recipes, we got a problem with the tech tree.
+    To melt metals with Embers you need the melter, it is crafted using lead. Lead is mining level iron, so you basically need an iron pickaxe. Easy, right? Wrong!
+    Tinkers Survival disables the default tools so that you have to use the Tinkers Tools. But with Tinkers you create iron picks by melting iron and casting it.
+    This works because the smeltery is only crafted with seared bricks, which are relatively easy to come by. But because the recipes got removed and the smeltery is therefore
+    basically disabled, you need to use Embers melter to melt iron. Oh, wait, we needed the iron pick to craft the melter in the first place... 
+  </p>
+  <div class="image-container"">
+    <img src="{{ "/assets/projects/embersconstruct/bloomery_wrought_iron.png" | relative_url }}" alt="The interface of the bloomery." title="The interface of the bloomery.">
+    <p>The interface of the bloomery, currently creating wrought iron.</p>
+  </div>
+  <p class="justify">
+    But have no fear, this is where wrought iron comes in. Wrought iron is gained by heating up iron together with a specific amount of carbon dioxide and is easily malleable.
+    This is perfect to use as a material in the pattern table (which of course doesn't get disabled). How do we get wrought iron? Put iron ore together with some charcoal in the 
+    bloomery and there you have it! Now you can craft an "iron" pick in the pattern table. It is less durable but in all other traits basically the same! With this wrought iron pick
+    you can now gather some lead and craft your desired melter to get your production up and running!
+  </p>
+</section>
