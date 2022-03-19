@@ -150,6 +150,10 @@ body {
 
   a {
     color: var(--color-link);
+
+    &.inverted {
+      color: var(--color-link-inverted);
+    }
   }
 }
 
