@@ -10,20 +10,29 @@ $screenLargeMin: 62.1rem;
 }
 
 :root {
-  --color-1-default: white;
-  --color-2-default: black;
-  --color-1: var(--color-1-default);
-  --color-2: var(--color-2-default);
+  --color-light: white;
+  --color-dark: black;
+  --color-link-light: rgb(255, 234, 177);
+  --color-link-dark: darkslategrey;
+
+  --color-1: var(--color-light); // default background
+  --color-2: var(--color-dark); // default color
+  --color-link: var(--color-link-dark); // default link
+  --color-link-inverted: var(--color-link-light); // inverted link
 }
 
 html[data-theme='light'] {
-  --color-1: var(--color-1-default);
-  --color-2: var(--color-2-default);
+  --color-1: var(--color-light);
+  --color-2: var(--color-dark);
+  --color-link: var(--color-link-dark);
+  --color-link-inverted: var(--color-link-light);
 }
 
 html[data-theme='dark'] {
-  --color-1: var(--color-2-default);
-  --color-2: var(--color-1-default);
+  --color-1: var(--color-dark);
+  --color-2: var(--color-light);
+  --color-link: var(--color-link-light);
+  --color-link-inverted: var(--color-link-dark);
 }
 
 @mixin color-transition {
@@ -32,26 +41,30 @@ html[data-theme='dark'] {
 }
 
 @mixin keep-color-notinverted {
-  background: var(--color-1-default);
-  color: var(--color-2-default);
+  background: var(--color-light);
+  color: var(--color-dark);
+
   @include color-transition();
 }
 
 @mixin keep-color-inverted {
-  background: var(--color-2-default);
-  color: var(--color-1-default);
+  background: var(--color-dark);
+  color: var(--color-light);
+
   @include color-transition();
 }
 
 @mixin notinverted {
   background: var(--color-1);
   color: var(--color-2);
+
   @include color-transition();
 }
 
 @mixin inverted {
   background: var(--color-2);
   color: var(--color-1);
+
   @include color-transition();
 }
 
@@ -66,12 +79,22 @@ html[data-theme='dark'] {
 .keep-color {
   @include keep-color-notinverted();
 
+  a {
+    color: var(--color-link-dark);
+  }
+
   &.notinverted {
     @include keep-color-notinverted();
+    a {
+      color: var(--color-link-dark);
+    }
   }
 
   &.inverted {
     @include keep-color-inverted();
+    a {
+      color: var(--color-link-light);
+    }
   }
 }
 
@@ -126,7 +149,7 @@ body {
   @include notinverted;
 
   a {
-    color: darkslategray;
+    color: var(--color-link);
   }
 }
 
@@ -160,12 +183,13 @@ footer {
   }
 
   a {
-    color: var(--color-1-default);
+    color: var(--color-light) !important;
   }
 }
 
 .button {
   @include keep-color-inverted();
+  color: var(--color-light) !important;
 
   display: flex;
   height: calc(100% - 2rem);
@@ -180,6 +204,7 @@ footer {
 
   &:hover {
     @include keep-color-notinverted();
+    color: var(--color-dark) !important;
   }
 }
 
@@ -242,6 +267,11 @@ footer {
 .padding-16 {
   padding-top: 1rem !important;
   padding-bottom: 1rem !important;
+}
+
+.padding-16-sides {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
 }
 
 .padding-32 {
@@ -327,6 +357,10 @@ h2 {
   font-size: 1.875rem;
 }
 
+code {
+  font-family: 'Courier Prime', monospace;
+}
+
 .container {
   padding: 0.01em 1rem;
   min-height: 100vh;
@@ -407,11 +441,15 @@ h2 {
 }
 
 .image-container {
-  width: calc(100% - 2 * 1rem);
-  margin: 1rem;
+  padding: 0.5rem;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
 
   img {
-    width: 100%;
+    max-width: 100%;
+    object-fit: contain;
   }
 
   p {
@@ -431,12 +469,12 @@ h2 {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: var(--color-2-default);
+  background: var(--color-dark);
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: var(--color-1-default);
+  background: var(--color-light);
   border-radius: 0.5rem;
 
   &:hover {

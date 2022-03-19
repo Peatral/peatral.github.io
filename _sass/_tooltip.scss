@@ -1,12 +1,13 @@
 .tooltip {
   position: relative;
   display: inline-block;
-  font-size: 1rem;
   /*border-bottom: 1px dotted black;*/
 
   .tooltiptext {
     visibility: hidden;
     width: 8rem;
+
+    font-size: 1rem;
 
     background-color: var(--color-2);
     color: var(--color-1);
@@ -58,6 +59,36 @@
   &:hover {
     .tooltiptext {
       visibility: visible;
+    }
+  }
+}
+
+.keep-color {
+  .tooltip {
+    .tooltiptext {
+      background-color: var(--color-dark);
+      color: var(--color-light);
+
+      &::after {
+        border-color: var(--color-dark) transparent transparent transparent;
+      }
+    }
+
+    .bottom::after {
+      border-color: transparent transparent var(--color-dark) transparent;
+    }
+
+    .invert {
+      background-color: var(--color-light);
+      color: var(--color-dark);
+
+      &::after {
+        border-color: var(--color-light) transparent transparent transparent;
+      }
+    }
+
+    .invert.bottom::after {
+      border-color: transparent transparent var(--color-light) transparent;
     }
   }
 }

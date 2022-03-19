@@ -1,4 +1,16 @@
 <footer class="keep-color inverted">
+
+  <div class="link-wrapper">
+    <a id="theme-toggle" class="center tooltip" style="cursor: pointer;">
+      <i class="hover-opacity fa-solid fa-sun block-dark"></i>
+      <span class="tooltiptext invert block-dark">Light Mode</span>
+      
+      <i class="hover-opacity fa-solid fa-moon block-light"></i>
+      <span class="tooltiptext invert block-light">Dark Mode</span>
+    </a>
+    <script src="{{ "/scripts/toggle_theme.js" | relative_url }}"></script>
+  </div>
+
   <div class="link-wrapper">
     <a
       title="YouTube"
@@ -21,12 +33,6 @@
       ><i class="fab fa-github hover-opacity"></i
     ></a>
   </div>
-
-  <a id="theme-toggle" class="center hover-opacity" style="cursor: pointer;">
-    <i class="fa-solid fa-xl fa-sun block-dark"></i>
-    <i class="fa-solid fa-xl fa-moon block-light"></i>
-  </a>
-  <script src="{{ "/scripts/toggle_theme.js" | relative_url }}"></script>
 
   <p style="text-align: center">©2018-2022 Christof Reimers</p>
 </footer>
