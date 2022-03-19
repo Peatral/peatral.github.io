@@ -466,6 +466,12 @@ code {
   margin-top: 3rem;
 }
 
+.warning {
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+}
+
 /* width */
 ::-webkit-scrollbar {
   width: 1rem;

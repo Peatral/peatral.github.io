@@ -89,7 +89,7 @@ redirect_from:
     The config system allows it to remove the recipes of the smeltery after the recipes got copied. This enables you to experience Tinkers with Embers only. For more on this read <a href="#config_tcrecipe" class="hover-opacity">here</a>.
     <br>
     <br>
-    <span style="color: red; font-style: italic; font-weight: bold;">Warning!</span> If this feature is used in combination with Tinkers Survival, read more <a href="#bloomery_wrought_iron" class="hover-opacity">here</a>.
+    <span class="warning">Warning!</span> If this feature is used in combination with Tinkers Survival, read more <a href="#bloomery_wrought_iron" class="hover-opacity">here</a>.
   </p>
 </section>
 
@@ -244,4 +244,7 @@ redirect_from:
     <li><code>removeInput(IItemStack input)</code> - removes all recipes having the given item stack as input</li>
     <li><code>removeOutput(IItemStack output)</code> - removes all recipes having the given item stack as output</li>
   </ul>
+  <p>
+    <span class="warning">Warning!</span> The remove methods will be named <code>removeByInput</code> and <code>removeByOutput</code> in the next update.
+  </p>
 </section>

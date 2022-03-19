@@ -27,7 +27,7 @@ layout: default
     <section class="scene-page">
       {%- capture rawContent -%} {% include_relative {{ page.fountain_file }} %} {%-
       endcapture -%}
-      <pre id="script">{{- rawContent -}}</pre>
+      <pre id="script" style="opacity: 0%;">{{- rawContent -}}</pre>
     
       <div class="scene-holder">
         <div id="scene" class="scene"></div>
