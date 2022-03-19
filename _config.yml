@@ -19,10 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Peatral
-email: your-email@example.com
+email: contact@peatral.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Frontpage of a coder
-baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://www.peatral.xyz' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheRealPeatral
 github_username: Peatral
@@ -39,6 +38,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-sass-converter
 
 whitelist:
   - jekyll-redirect-from
