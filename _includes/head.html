@@ -1,44 +1,43 @@
 <head>
+  <!-- meta tags -->
   <meta charset="utf-8" />
-
-  <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
-  <script
-    src="https://kit.fontawesome.com/f885968b9e.js"
-    crossorigin="anonymous"
-  ></script>
-  <!--<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">-->
-
+  
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  {%- seo -%} <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url
-  }}"> <link rel="shortcut icon" type="image/png" href="{{
-  "/assets/icon/icon-512x512.png" | relative_url }}"> <link rel="icon"
-  type="image/png" href="{{ "/assets/icon/icon-512x512.png" | relative_url }}">
-  <link rel="apple-touch-icon" href="{{ "/assets/ios-icon/ios-icon-180x180.png"
-  | relative_url }}">
-
-  <link rel="manifest" href="/manifest.webmanifest" />
-  <!--<script src="{{ "/scripts/main.js" | relative_url }}"></script>-->
-  <script src="{{ "/scripts/load_theme.js" | relative_url }}"></script>
+  
   <meta name="theme-color" content="#000" />
-
-  {%- feed_meta -%} {%- if jekyll.environment == 'production' and
-  site.google_analytics -%} {%- include google-analytics.html -%} {%- endif -%}
-
+  
+  {%- seo -%} 
+  
+  {%- feed_meta -%} 
+  
+  {%- if jekyll.environment == 'production' and site.google_analytics -%} 
+    {%- include google-analytics.html -%} 
+  {%- endif -%}
+  
+  <!-- icons -->
+  <link rel="shortcut icon" type="image/png" href="{{"/assets/icon/icon-512x512.png" | relative_url }}"> 
+  <link rel="icon"type="image/png" href="{{ "/assets/icon/icon-512x512.png" | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ "/assets/ios-icon/ios-icon-180x180.png"| relative_url }}">
+  
+  <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato" />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-    rel="stylesheet"
-  />
-  <style>
-    body {
-      font-family: 'Lato', sans-serif;
-    }
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap"/>
+  
+  <!-- font awesome -->
+  <script src="https://kit.fontawesome.com/f885968b9e.js" crossorigin="anonymous"></script>
+  <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
 
-    .fav-size-med {
-      font-size: 1.5em;
-    }
-  </style>
+  <!-- stylesheet -->
+  <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url}}"> 
+  <!--<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">-->
+
+  <!-- manifest file -->
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <!--<script src="{{ "/scripts/main.js" | relative_url }}"></script>-->
+
+  <!-- default theme loader -->
+  <script src="{{ "/scripts/load_theme.js" | relative_url }}"></script>
 </head>

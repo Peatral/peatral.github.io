@@ -137,6 +137,8 @@ html {
 }
 
 body {
+  font-family: 'Lato', sans-serif;
+
   min-height: 100vh;
   margin: 0 0 0 0;
   @include hCenter();
@@ -490,6 +492,10 @@ code {
   &:hover {
     opacity: 80%;
   }
+}
+
+.fav-size-med {
+  font-size: 1.5em;
 }
 
 @import 'tooltip';
