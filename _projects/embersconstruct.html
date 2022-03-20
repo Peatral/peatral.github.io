@@ -15,8 +15,8 @@ redirect_from:
   - /projects/embersconstruct/
 ---
 
-<section>
-  <p class="justify">
+<section class="center">
+  <p class="justify text-container">
     Looking around I just didn't find the right mod that fulfilled this purpose.
     Me, having modding experience (although I never finished/published one before)
     took the task on myself and created Embers' Construct. Although it is still in
@@ -26,225 +26,295 @@ redirect_from:
 </section>
 <!--more-->
 
-<section class="project-section" id="introduction">
+<section class="project-section" id="the_mod">
   <!-- The introduction of the mod -->
-  <h2 class="center">The Mod</h2>
+  <div class="center">
+    <div class="text-container justify">
+      <h2 class="center">The Mod</h2>
+      <div class="image-container">
+        <img src="{{ "/assets/projects/embersconstruct/blocks_added.png" | relative_url }}" alt="The three important blocks added by the mod." title="The three important blocks added by the mod.">
+        <p>The Stamp Table, Kiln and Bloomery.</p>
+      </div>
 
-  <div class="image-container">
-    <img src="{{ "/assets/projects/embersconstruct/blocks_added.png" | relative_url }}" alt="The three important blocks added by the mod." title="The three important blocks added by the mod.">
-    <p>The Stamp Table, Kiln and Bloomery.</p>
+      <p>
+        So what is this mod about? This mod is the bridge that connects Tinkers' Construct with Embers Rekindled,
+        the bridge between classic tool tinkering and dwarven magic.
+      </p>
+
+      <section id="table_of_content" class="card notinverted keep-color" style="background-color: var(--color-link-light); text-align: left;">
+        This mod has a set of features:
+        <ul>
+          <li><a class="hover-opacity" href="#melting_stamping_mixer">Melting and Stamping recipe integration</a></li>
+          <li><a class="hover-opacity" href="#recipe_removal">Tinker recipe removal</a></li>
+          <li><a class="hover-opacity" href="#kiln_stamps">The Kiln and stamps</a></li>
+          <li><a class="hover-opacity" href="#bloomery_wrought_iron">The Bloomery and wrought iron</a></li>
+        </ul>
+        And stuff for modpack creators:
+        <ul>
+          <li><a class="hover-opacity" href="#config">The config</a></li>
+          <li><a class="hover-opacity" href="#module_config">The module config</a></li>
+          <li><a class="hover-opacity" href="#craft_tweaker">Craft Tweaker</a></li>
+        </ul>
+      </section>
+    </div>
   </div>
-
-  <p class="justify">
-    So what is this mod about? This mod is the bridge that connects Tinkers' Construct with Embers Rekindled,
-    the bridge between classic tool tinkering and dwarven magic.
-  </p>
-
-  <div class="card notinverted keep-color" style="background-color: var(--color-link-light); text-align: left;">
-    This mod has a set of features:
-    <ul>
-      <li><a class="hover-opacity" href="#melting_stamping_mixer">Melting and Stamping recipe integration</a></li>
-      <li><a class="hover-opacity" href="#recipe_removal">Tinker recipe removal</a></li>
-      <li><a class="hover-opacity" href="#kiln_stamps">The Kiln and stamps</a></li>
-      <li><a class="hover-opacity" href="#bloomery_wrought_iron">The Bloomery and wrought iron</a></li>
-    </ul>
-    And stuff for modpack creators:
-    <ul>
-      <li><a class="hover-opacity" href="#config">The config</a></li>
-      <li><a class="hover-opacity" href="#module_config">The module config</a></li>
-      <li><a class="hover-opacity" href="#craft_tweaker">Craft Tweaker</a></li>
-    </ul>
-  </div>
-
 </section>
 
 <section class="project-section" id="melting_stamping_mixer">
   <!-- Melting, Stamping, Mixing -->
-  <h2 class="center">Melting and Stamping recipe integration</h2>
-  <p class="justify">
-    This mod takes all recipes from the smeltery and copies them to the melter, mixer centrifuge and stamper, meaning we can do the following:
-    <ul>
-      <li>Melt everything with the melter that you can also smelt in the smeltery</li>
-      <li>Create alloys with the mixer centrifuge that could be created in the smeltery</li>
-      <li>Through the stamp system, stamp nearly everything you can obtain through casting</li>
-    </ul>
-  </p>
-  <div class="flex-vertical padding-16-sides">
-    <div class="image-container">
-      <img src="{{ "/assets/projects/embersconstruct/dawnstone_sword_blade.png" | relative_url }}" alt="A dawnstone sword blade." title="A dawnstone sword blade.">
-      <p>A dawnstone sword blade, fresh from the stamper.</p>
+
+  <div class="center">
+    <div class="text-container justify">
+      <h2 class="center">Melting and Stamping recipe integration</h2>
+      <p class="justify">
+        This mod takes all recipes from the smeltery and copies them to the melter, mixer centrifuge and stamper, meaning we can do the following:
+        <ul>
+          <li>Melt everything with the melter that you can also smelt in the smeltery</li>
+          <li>Create alloys with the mixer centrifuge that could be created in the smeltery</li>
+          <li>Through the stamp system, stamp nearly everything you can obtain through casting</li>
+        </ul>
+      </p>
+      <div class="flex-vertical padding-16-sides">
+        <div class="image-container">
+          <img src="{{ "/assets/projects/embersconstruct/dawnstone_sword_blade.png" | relative_url }}" alt="A dawnstone sword blade." title="A dawnstone sword blade.">
+          <p>A dawnstone sword blade, fresh from the stamper.</p>
+        </div>
+      </div>
+      <h3 class="center">Bolt Crafting</h3>
+      <p>
+        With Tinkers' Construct, bolts get crafted by casting metal around the shaft. With Embers Construct it is a similar process. 
+        You put in a flat stamp on the stamper and the bolt shaft and the metal in the base and this is how you get bolts.
+      </p>
     </div>
   </div>
-  <h3 class="center">Bolt Crafting</h3>
-  <p>
-    With Tinkers' Construct, bolts get crafted by casting metal around the shaft. With Embers Construct it is a similar process. 
-    You put in a flat stamp on the stamper and the bolt shaft and the metal in the base and this is how you get bolts.
-  </p>
 </section>
 
 <section class="project-section" id="recipe_removal">
   <!-- Recipe removal -->
-  <h2 class="center">Tinker recipe removal</h2>
-  <p class="justify">
-    The config system allows it to remove the recipes of the smeltery after the recipes got copied. This enables you to experience Tinkers with Embers only. For more on this read <a href="#config_tcrecipe" class="hover-opacity">here</a>.
-    <br>
-    <br>
-    <span class="warning">Warning!</span> If this feature is used in combination with Tinkers Survival, read more <a href="#bloomery_wrought_iron" class="hover-opacity">here</a>.
-  </p>
+
+  <div class="center">
+    <div class="text-container justify">
+      <h2 class="center">Tinker recipe removal</h2>
+      <p class="justify">
+        The config system allows it to remove the recipes of the smeltery after the recipes got copied. This enables you to experience Tinkers with Embers only. For more on this read <a href="#config_tcrecipe" class="hover-opacity">here</a>.
+        <br>
+        <br>
+        <span class="warning">Warning!</span> If this feature is used in combination with Tinkers Survival, read more <a href="#bloomery_wrought_iron" class="hover-opacity">here</a>.
+      </p>
+    </div>
+  </div>
 </section>
 
 <section class="project-section" id="kiln_stamps">
   <!-- Kiln and Stamps -->
-  <h2 class="center">The Kiln and stamps</h2>
-  <p class="justify">
-    So how do the stamps work? If you remember, Tinkers uses casts to let you create your metallic desires, Embers uses the stamper. 
-    <br>
-    The conversion is easy, you just need to create the kiln and stamp table beforehand:
-  </p>
-  <ol>
-    <li>Craft some raw flat stamps</li>
-    <li>Put them into the stamp table</li>
-    <li>Select the stamp in the stamp table you want to create</li>
-    <li>Put raw stamp into kiln</li>
-    <li>Bake!</li>
-    <li>Put finished stamp into stamper</li>
-    <li>Profit</li>
-  </ol> 
-  <div class="flex-vertical padding-16-sides">
-    <div class="flex-item image-container">
-      <img src="{{ "/assets/projects/embersconstruct/gui_stamp_table.png" | relative_url }}" alt="The interface of the stamp table." title="The interface of the stamp table.">
-      <p>The interface of the stamp table.</p>
-    </div>
-    <div class="flex-item image-container"">
-      <img src="{{ "/assets/projects/embersconstruct/gui_kiln.png" | relative_url }}" alt="The interface of the kiln." title="The interface of the kiln.">
-      <p>The interface of the kiln.</p>
-    </div>
-  </div>
-  <p class="justify">
-    As you can see the system works similar to the pattern system of Tinkers. Instead of blank patterns you need raw stamps. 
-    After you have your desired flat stamp you have to bake them like other Embers stamps, with the only difference being you have to use the kiln to bake them.
-    When you got you finished stamps you can just use them as any other stamp in Embers.
-  </p>
-  <div class="flex-container padding-16-sides">
-    <div class="flex-half image-container">
-      <img src="{{ "/assets/projects/embersconstruct/recipe_stamp_table.png" | relative_url }}" alt="The recipe of the stamp table." title="The recipe of the stamp table.">
-      <p>The recipe of the stamp table.</p>
-    </div>
-    <div class="flex-half image-container"">
-      <img src="{{ "/assets/projects/embersconstruct/recipe_kiln.png" | relative_url }}" alt="The recipe of the kiln." title="The recipe of the kiln.">
-      <p>The recipe of the kiln.</p>
+
+  <div class="center">
+    <div class="text-container justify">
+      <h2 class="center">The Kiln and stamps</h2>
+      <p class="justify">
+        So how do the stamps work? If you remember, Tinkers uses casts to let you create your metallic desires, Embers uses the stamper. 
+        <br>
+        The conversion is easy, you just need to create the kiln and stamp table beforehand:
+      </p>
+      <ol>
+        <li>Craft some raw flat stamps</li>
+        <li>Put them into the stamp table</li>
+        <li>Select the stamp in the stamp table you want to create</li>
+        <li>Put raw stamp into kiln</li>
+        <li>Bake!</li>
+        <li>Put finished stamp into stamper</li>
+        <li>Profit</li>
+      </ol> 
+      <div class="flex-vertical padding-16-sides">
+        <div class="flex-item image-container">
+          <img src="{{ "/assets/projects/embersconstruct/gui_stamp_table.png" | relative_url }}" alt="The interface of the stamp table." title="The interface of the stamp table.">
+          <p>The interface of the stamp table.</p>
+        </div>
+        <div class="flex-item image-container"">
+          <img src="{{ "/assets/projects/embersconstruct/gui_kiln.png" | relative_url }}" alt="The interface of the kiln." title="The interface of the kiln.">
+          <p>The interface of the kiln.</p>
+        </div>
+      </div>
+      <p class="justify">
+        As you can see the system works similar to the pattern system of Tinkers. Instead of blank patterns you need raw stamps. 
+        After you have your desired flat stamp you have to bake them like other Embers stamps, with the only difference being you have to use the kiln to bake them.
+        When you got you finished stamps you can just use them as any other stamp in Embers.
+      </p>
+      <div class="flex-container padding-16-sides">
+        <div class="flex-half image-container">
+          <img src="{{ "/assets/projects/embersconstruct/recipe_stamp_table.png" | relative_url }}" alt="The recipe of the stamp table." title="The recipe of the stamp table.">
+          <p>The recipe of the stamp table.</p>
+        </div>
+        <div class="flex-half image-container"">
+          <img src="{{ "/assets/projects/embersconstruct/recipe_kiln.png" | relative_url }}" alt="The recipe of the kiln." title="The recipe of the kiln.">
+          <p>The recipe of the kiln.</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>
 
 <section class="project-section" id="bloomery_wrought_iron">
   <!-- Bloomery and Wrought Iron -->
-  <h2 class="center">The Bloomery and wrought iron</h2>
-  <p class="justify">
-    What is the deal with wrought iron? If you have Tinkers Survival installed and remove the Tinkers recipes, we got a problem with the tech tree.
-    To melt metals with Embers you need the melter, it is crafted using lead. Lead is mining level diamond, so you basically need an iron pickaxe to mine it. Easy, right? Wrong!
-    Tinkers Survival disables the default tools so that you have to use the Tinkers Tools. But with Tinkers you create iron picks by melting iron and casting it.
-    This works because the smeltery is only crafted with seared bricks, which are relatively easy to come by. But because the recipes got removed and the smeltery is therefore
-    basically disabled, you need to use Embers melter to melt iron. Oh, wait, we needed the iron pick to craft the melter in the first place... 
-  </p>
-  <div class="flex-vertical padding-16-sides">
-    <div class="image-container"">
-      <img src="{{ "/assets/projects/embersconstruct/gui_bloomery.png" | relative_url }}" alt="The interface of the bloomery." title="The interface of the bloomery.">
-      <p>The interface of the bloomery, currently creating wrought iron.</p>
-    </div>
-    <div class="image-container"">
-      <img src="{{ "/assets/projects/embersconstruct/part_builder_wrought_iron.png" | relative_url }}" alt="The part builder with wrought iron as the tool material." title="The part builder with wrought iron as the tool material.">
-      <p>The part builder with wrought iron as the tool material.</p>
-    </div>
-  </div>
-  <p class="justify">
-    But have no fear, this is where wrought iron comes in. Wrought iron is gained by heating up iron together with a specific amount of carbon dioxide and is easily malleable.
-    This is perfect to use as a material in the part builder (which of course doesn't get disabled). How do we get wrought iron? Put iron ore together with some charcoal in the 
-    bloomery and there you have it! Now you can craft an "iron" pick in the tool station. It is less durable but in all other traits basically the same! With this wrought iron pick
-    you can now gather some lead and craft your desired melter to get your production up and running!
-  </p>
-  <div class="flex-container padding-16-sides" style="justify-content: space-around;">
-    <div class="flex-half image-container">
-      <img src="{{ "/assets/projects/embersconstruct/recipe_bloomery.png" | relative_url }}" alt="The recipe of the bloomery." title="The recipe of the bloomery.">
-      <p>The recipe of the bloomery.</p>
+
+  <div class="center">
+    <div class="text-container justify">
+      <h2 class="center">The Bloomery and wrought iron</h2>
+      <p class="justify">
+        What is the deal with wrought iron? If you have Tinkers Survival installed and remove the Tinkers recipes, we got a problem with the tech tree.
+        To melt metals with Embers you need the melter, it is crafted using lead. Lead is mining level diamond, so you basically need an iron pickaxe to mine it. Easy, right? Wrong!
+        Tinkers Survival disables the default tools so that you have to use the Tinkers Tools. But with Tinkers you create iron picks by melting iron and casting it.
+        This works because the smeltery is only crafted with seared bricks, which are relatively easy to come by. But because the recipes got removed and the smeltery is therefore
+        basically disabled, you need to use Embers melter to melt iron. Oh, wait, we needed the iron pick to craft the melter in the first place... 
+      </p>
+      <div class="flex-vertical padding-16-sides">
+        <div class="image-container"">
+          <img src="{{ "/assets/projects/embersconstruct/gui_bloomery.png" | relative_url }}" alt="The interface of the bloomery." title="The interface of the bloomery.">
+          <p>The interface of the bloomery, currently creating wrought iron.</p>
+        </div>
+        <div class="image-container"">
+          <img src="{{ "/assets/projects/embersconstruct/part_builder_wrought_iron.png" | relative_url }}" alt="The part builder with wrought iron as the tool material." title="The part builder with wrought iron as the tool material.">
+          <p>The part builder with wrought iron as the tool material.</p>
+        </div>
+      </div>
+      <p class="justify">
+        But have no fear, this is where wrought iron comes in. Wrought iron is gained by heating up iron together with a specific amount of carbon dioxide and is easily malleable.
+        This is perfect to use as a material in the part builder (which of course doesn't get disabled). How do we get wrought iron? Put iron ore together with some charcoal in the 
+        bloomery and there you have it! Now you can craft an "iron" pick in the tool station. It is less durable but in all other traits basically the same! With this wrought iron pick
+        you can now gather some lead and craft your desired melter to get your production up and running!
+      </p>
+      <div class="flex-container padding-16-sides" style="justify-content: space-around;">
+        <div class="flex-half image-container">
+          <img src="{{ "/assets/projects/embersconstruct/recipe_bloomery.png" | relative_url }}" alt="The recipe of the bloomery." title="The recipe of the bloomery.">
+          <p>The recipe of the bloomery.</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>
 
 <section class="project-section" id="config">
   <!-- Config -->
-  <h2 class="center">Config</h2>
-  <p class="justify">
-    The config of this mod contains a few categories, General, Embers Construct Recipe Settings and Tinkers' Construct Recipe Settings.
-  </p>
-  <h3 class="center" id="config_general">General</h3>
-  <p>
-    In this category you can enable/disable the stamp table, the kiln and the bloomery as well as enable/disable the new-version-message when joining a world. 
-    Yes, I know, the message has no reason to be there to begin with as I implemented forges version checker, but I just wanna make sure people see it, often times 
-    I do something important in those updates.
-  </p>
-  <h3 class="center" id="config_ecrecipe">Embers Construct Recipe Settings</h3>
-  <p>
-    This category contains recipe settings for this mod, which means:
-  </p>
-  <ul>
-    <li>Make non-baked raw stamps reusable</li>
-    <li>Make ores crushable with the flat stamp in the stamper</li>
-    <li>Enable/disable copying smelter recipes</li>
-    <li>Enable/disable copying alloying/mixing recipes</li>
-    <li>Enable/disable copying casting/stamping recipes</li>
-  </ul>
-  <h3 class="center" id="config_tcrecipe">Tinkers' Construct Recipe Settings</h3>
-  <p>
-    This category enables you to remove the recipes from Tinkers' Construct, you will most likely make use of this option.
-    <br>
-    Those recipes are removable:
-  </p>
-  <ul>
-    <li>Alloying</li>
-    <li>Smelting</li>
-    <li>Table Casting</li>
-    <li>Basin Casting</li>
-  </ul>
+
+  <div class="center">
+    <div class="text-container justify">
+      <h2 class="center">Config</h2>
+      <p class="justify">
+        The config of this mod contains a few categories, General, Embers Construct Recipe Settings and Tinkers' Construct Recipe Settings.
+      </p>
+      <h3 class="center" id="config_general">General</h3>
+      <p>
+        In this category you can enable/disable the stamp table, the kiln and the bloomery as well as enable/disable the new-version-message when joining a world. 
+        Yes, I know, the message has no reason to be there to begin with as I implemented forges version checker, but I just wanna make sure people see it, often times 
+        I do something important in those updates.
+      </p>
+      <h3 class="center" id="config_ecrecipe">Embers Construct Recipe Settings</h3>
+      <p>
+        This category contains recipe settings for this mod, which means:
+      </p>
+      <ul>
+        <li>Make non-baked raw stamps reusable</li>
+        <li>Make ores crushable with the flat stamp in the stamper</li>
+        <li>Enable/disable copying smelter recipes</li>
+        <li>Enable/disable copying alloying/mixing recipes</li>
+        <li>Enable/disable copying casting/stamping recipes</li>
+      </ul>
+      <h3 class="center" id="config_tcrecipe">Tinkers' Construct Recipe Settings</h3>
+      <p>
+        This category enables you to remove the recipes from Tinkers' Construct, you will most likely make use of this option.
+        <br>
+        Those recipes are removable:
+      </p>
+      <ul>
+        <li>Alloying</li>
+        <li>Smelting</li>
+        <li>Table Casting</li>
+        <li>Basin Casting</li>
+      </ul>
+    </div>
+  </div>
 </section>
 
 <section class="project-section" id="module_config">
   <!-- Module Config -->
-  <h2 class="center">Module Config</h2>
-  <p class="justify">
-    The second config file is the modules file, this manages all integrations of this mod. This means you can enable/disable specific integrations, even the default Tinkers' Construct integration. 
-    Disabling an integration means its stamps get removed as well as some more specific stuff like for Soot the nugget stamp recipe for the kiln.
-  </p>
+
+  <div class="center">
+    <div class="text-container justify">
+      <h2 class="center">Module Config</h2>
+      <p class="justify">
+        The second config file is the modules file, this manages all integrations of this mod. This means you can enable/disable specific integrations, even the default Tinkers' Construct integration. 
+        Disabling an integration means its stamps get removed as well as some more specific stuff like for Soot the nugget stamp recipe for the kiln.
+      </p>
+    </div>
+  </div>
 </section>
 
 <section class="project-section" id="craft_tweaker">
   <!-- Craft Tweaker -->
-  <h2 class="center">Craft Tweaker</h2>
-  <p class="justify">
-    This mod also has craft tweaker support. This means you are able to add/remove recipes to/from the bloomery and kiln.
-  </p>
-  <h3 class="center" id="craft_tweaker_bloomery">The Bloomery</h3>
-  <p>
-    The bloomery has the class <code>mods.embersconstruct.Bloomery</code>. 
-    It has the following methods:
-  </p>
-  <ul>
-    <li><code>add(IIngredient inputA, IIngredient inputB, IItemStack output)</code> - adds a recipe with 2 inputs and one output</li>
-    <li><code>removeByInput(IItemStack input)</code> - removes all recipes having the given item stack as input</li>
-    <li><code>removeByInput(IItemStack inputA, IItemStack inputB)</code> - removes all recipes having the given item stacks as inputs</li>
-    <li><code>removeByOutput(IItemStack output)</code> - removes all recipes having the given item stack as output</li>
-  </ul>
-  <h3 class="center" id="craft_tweaker_kiln">The Kiln</h3>
-  <p>
-    The kiln has the class <code>mods.embersconstruct.Kiln</code>. 
-    It has the following methods:
-  </p>
-  <ul>
-    <li><code>add(IIngredient input, IItemStack output)</code> - adds a recipe with one input and one output</li>
-    <li><code>removeInput(IItemStack input)</code> - removes all recipes having the given item stack as input</li>
-    <li><code>removeOutput(IItemStack output)</code> - removes all recipes having the given item stack as output</li>
-  </ul>
-  <p>
-    <span class="warning">Warning!</span> The remove methods will be named <code>removeByInput</code> and <code>removeByOutput</code> in the next update.
-  </p>
+
+  <div class="center">
+    <div class="text-container justify">
+      <h2 class="center">Craft Tweaker</h2>
+      <p class="justify">
+        This mod also has craft tweaker support. This means you are able to add/remove recipes to/from the bloomery and kiln.
+      </p>
+      <h3 class="center" id="craft_tweaker_bloomery">The Bloomery</h3>
+      <p>
+        The bloomery has the class <code class="code-inline">mods.embersconstruct.Bloomery</code>. 
+        It has the following methods:
+      </p>
+    </div>
+  </div>
+  <div class="codebox">
+    <table>
+      <tr>
+        <td><code>add(IIngredient inputA, IIngredient inputB, IItemStack output)</code></td>
+        <td>adds a recipe with 2 inputs and one output</td>
+      </tr>
+      <tr>
+        <td><code>removeByInput(IItemStack input)</code></td>
+        <td>removes all recipes having the given item stack as input</td>
+      </tr>
+      <tr>
+        <td><code>removeByInput(IItemStack inputA, IItemStack inputB)</code></td>
+        <td>removes all recipes having the given item stacks as inputs</td>
+      </tr>
+      <tr>
+        <td><code>removeByOutput(IItemStack output)</code></td>
+        <td>removes all recipes having the given item stack as output</td>
+      </tr>
+    </table>
+  </div>
+  <div class="center">
+    <div class="text-container justify">
+      <h3 class="center" id="craft_tweaker_kiln">The Kiln</h3>
+      <p>
+        The kiln has the class <code class="code-inline">mods.embersconstruct.Kiln</code>. 
+        It has the following methods:
+      </p>
+    </div>
+  </div>
+  <div class="codebox">
+    <table>
+      <tr>
+        <td><code>add(IIngredient input, IItemStack output)</code></td>
+        <td>adds a recipe with one input and one output</td>
+      </tr>
+      <tr>
+        <td><code>removeInput(IItemStack input)</code></td>
+        <td>removes all recipes having the given item stack as input</td>
+      </tr>
+      <tr>
+        <td><code>removeOutput(IItemStack output)</code></td>
+        <td>removes all recipes having the given item stack as output</td>
+      </tr>
+    </table>
+  </div>
+  <div class="center">
+    <div class="text-container justify">
+      <p>
+        <span class="warning">Warning!</span> The remove methods will be named <code class="code-inline">removeByInput</code> and <code class="code-inline">removeByOutput</code> in the next update.
+      </p>
+    </div>
+  </div>
 </section>

@@ -56,7 +56,8 @@
     border-color: transparent transparent var(--color-1) transparent;
   }
 
-  &:hover {
+  &:hover,
+  &:focus {
     .tooltiptext {
       visibility: visible;
     }

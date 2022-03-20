@@ -23,7 +23,9 @@ headbar: false
                 <div class="link">
                   <a class="tooltip" href="{{ project.url | relative_url }}"><i class="icon fab fa-readme hover-opacity"></i><span class="tooltiptext">Read</span></a>
                   <a href="{{ project.secondlink }}" class="tooltip"><i class="fav-size-med {{ project.secondlink-class }} hover-opacity"></i><span class="tooltiptext">{{ project.secondlink-tooltip}}</span></a>
-                  {% if project.repo %}<a href="https://github.com/Peatral/{{ project.repo }}" class="tooltip"><i class="fav-size-med fab fa-github hover-opacity"></i><span class="tooltiptext">Github Repository</span></a>{% endif %} 
+                  {% if project.repo %}
+                    <a href="https://github.com/Peatral/{{ project.repo }}" class="tooltip"><i class="fav-size-med fab fa-github hover-opacity"></i><span class="tooltiptext">Github Repository</span></a>
+                  {% endif %} 
                 </div>
                 
             </div>
@@ -43,4 +45,4 @@ headbar: false
     {%- endfor -%}
 </div>
 
-<a href="{{ "/feed/projects.xml" | relative_url }}" class="tooltip"><i class="fas fa-rss-square" style="font-size: 1.5rem;"></i><span class="tooltiptext bottom">RSS</span></a>
+<a href="{{ "/feed/projects.xml" | relative_url }}" class="tooltip"><i class="fas fa-rss-square hover-opacity" style="font-size: 1.5rem;"></i><span class="tooltiptext bottom">RSS</span></a>

@@ -183,12 +183,14 @@ footer {
     margin: 1rem;
     font-size: 1.5rem;
 
-    a {
+    a,
+    button {
       margin: 0.125rem;
     }
   }
 
-  a {
+  a,
+  button {
     color: var(--color-light) !important;
   }
 }
@@ -466,6 +468,10 @@ code {
 
 .project-section {
   margin-top: 3rem;
+
+  .text-container.justify {
+    width: 100%;
+  }
 }
 
 .warning {
@@ -488,6 +494,9 @@ code {
 ::-webkit-scrollbar-thumb {
   background: var(--color-light);
   border-radius: 0.5rem;
+  border: 3px solid transparent;
+  border-radius: 9px;
+  background-clip: content-box;
 
   &:hover {
     opacity: 80%;
@@ -496,6 +505,97 @@ code {
 
 .fav-size-med {
   font-size: 1.5em;
+}
+
+button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+  background: transparent !important;
+  border: none;
+  padding: 0 !important;
+
+  font-size: 1.5rem;
+}
+
+.code-inline {
+  background: var(--color-link);
+  color: var(--color-link-inverted);
+  border-radius: 0.2rem;
+  padding: 0.3rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+
+  box-shadow: 0 0.125rem 0.312rem 0 rgba(0, 0, 0, 0.16),
+    0 0.125rem 0.625rem 0 rgba(0, 0, 0, 0.12);
+}
+
+.codebox {
+  overflow-x: auto;
+  width: calc(100vw - 5rem);
+  white-space: nowrap;
+  padding: 1rem;
+
+  table {
+    margin: auto;
+    text-align: left;
+    border-collapse: collapse;
+
+    box-shadow: 0 0.125rem 0.312rem 0 rgba(0, 0, 0, 0.16),
+      0 0.125rem 0.625rem 0 rgba(0, 0, 0, 0.12);
+
+    tr {
+      td,
+      th {
+        padding: 1rem;
+        width: 50%;
+      }
+
+      &:nth-child(odd) {
+        background: var(--color-link);
+        color: var(--color-link-inverted);
+        td,
+        th {
+          border: 0.1rem solid var(--color-link-inverted);
+        }
+      }
+
+      &:nth-child(even) {
+        background: var(--color-link-inverted);
+        color: var(--color-link);
+        td,
+        th {
+          border: 0.1rem solid var(--color-link);
+        }
+      }
+    }
+  }
+
+  /* Track */
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  /* Handle */
+  &::-webkit-scrollbar-thumb {
+    background: var(--color-2);
+    border-radius: 0.5rem;
+    border: 3px solid transparent;
+    border-radius: 9px;
+    background-clip: content-box;
+  }
+}
+
+// css magic to keep the header out of the way
+// sections with an anchor are offset by 3rem (the height of the header)
+section[id]::before {
+  content: '';
+  display: block;
+  height: 3rem;
+  margin-top: -3rem;
+  visibility: hidden;
+  position: relative;
+  z-index: -1;
 }
 
 @import 'tooltip';
