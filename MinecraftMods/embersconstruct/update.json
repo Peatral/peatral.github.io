@@ -16,10 +16,10 @@
     "1.3.2": "Enable/Disable Bloomery, Kiln and Stamp Table",
     "1.3.3": "Better Modules, more wrought iron, CT support, Codex entries and fixes",
     "1.3.4": "Wrought Iron material stuff",
-    "1.3.5": "CT2 changes and config copy"
+    "1.3.5": "CT2 changes and config copy, Recipes are partially broken, be careful"
   },
   "promos": {
     "1.12.2-latest": "1.3.5",
-    "1.12.2-recommended": "1.3.5"
+    "1.12.2-recommended": "1.3.4"
   }
 }
